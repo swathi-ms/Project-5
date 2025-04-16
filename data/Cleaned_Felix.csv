@@ -2,7 +2,7 @@
 0,2025,97th,Actor in a Leading Role,Adrien Brody,The Brutalist,Won
 1,2025,97th,Actor in a Supporting Role,Kieran Culkin,A Real Pain,Won
 2,2025,97th,Actress in a Leading Role,Mikey Madison,Anora,Won
-3,2025,97th,Actress in a Supporting Role,Zoe Saldaa,Emilia Perez,Won
+3,2025,97th,Actress in a Supporting Role,Zoe Saldaa,Emilia Prez,Won
 4,2025,97th,Animated Feature Film,"Gints Zilbalodis, Mat_ss Ka_a, Ron Dyens and Gregory Zalcman",Flow,Won
 5,2025,97th,Animated Short Film,Shirin Sohani and Hossein Molayemi,In the Shadow of the Cypress,Won
 6,2025,97th,Cinematography,Lol Crawley,The Brutalist,Won
@@ -12,9 +12,9 @@
 10,2025,97th,Documentary Short Film,Molly OOBrien and Lisa Remington,The Only Girl in the Orchestra,Won
 11,2025,97th,Film Editing,Sean Baker,Anora,Won
 12,2025,97th,International Feature Film,I'm Still Here,Brazil,Won
-13,2025,97th,Makeup and Hairstyling,"Pierre-Olivier Persin, Stephanie Guillon and Marilyne Scarselli",The Substance,Won
+13,2025,97th,Makeup and Hairstyling,"Pierre-Olivier Persin, Stphanie Guillon and Marilyne Scarselli",The Substance,Won
 14,2025,97th,Music (Original Score),Daniel Blumberg,The Brutalist,Won
-15,2025,97th,Music (Original Song),"from Emilia Perez; Music by Clement Ducol and Camille; Lyric by Clement Ducol, Camille and Jacques Audiard",El Mal,Won
+15,2025,97th,Music (Original Song),"from Emilia Prez; Music by Clment Ducol and Camille; Lyric by Clment Ducol, Camille and Jacques Audiard",El Mal,Won
 16,2025,97th,Best Picture,"Alex Coco, Samantha Quan and Sean Baker, Producers",Anora,Won
 17,2025,97th,Production Design,Production Design: Nathan Crowley; Set Decoration: Lee Sandales,Wicked,Won
 18,2025,97th,Live Action Short Film,Victoria Warmerdam and Trent,I'm Not a Robot,Won
@@ -22,7 +22,7 @@
 20,2025,97th,Visual Effects,"Paul Lambert, Stephen James, Rhys Salcombe and Gerd Nefzer",Dune: Part Two,Won
 21,2025,97th,Writing (Adapted Screenplay),Screenplay by Peter Straughan,Conclave,Won
 22,2025,97th,Writing (Original Screenplay),Written by Sean Baker,Anora,Won
-23,2025,97th,Actor in a Leading Role,Timothee Chalamet,A Complete Unknown,Nominated
+23,2025,97th,Actor in a Leading Role,Timothe Chalamet,A Complete Unknown,Nominated
 24,2025,97th,Actor in a Supporting Role,Yura Borisov,Anora,Nominated
 25,2025,97th,Actress in a Leading Role,Cynthia Erivo,Wicked,Nominated
 26,2025,97th,Actress in a Supporting Role,Monica Barbaro,A Complete Unknown,Nominated
@@ -47,26 +47,26 @@
 45,2025,97th,Writing (Original Screenplay),"Written by Brady Corbet, Mona Fastvold",The Brutalist,Nominated
 46,2025,97th,Actor in a Leading Role,Colman Domingo,Sing Sing,Nominated
 47,2025,97th,Actor in a Supporting Role,Edward Norton,A Complete Unknown,Nominated
-48,2025,97th,Actress in a Leading Role,Karla Sofa Gascn,Emilia Perez,Nominated
+48,2025,97th,Actress in a Leading Role,Karla Sofa Gascn,Emilia Prez,Nominated
 49,2025,97th,Actress in a Supporting Role,Ariana Grande,Wicked,Nominated
 50,2025,97th,Animated Feature Film,Adam Elliot and Liz Kearney,Memoir of a Snail,Nominated
 51,2025,97th,Animated Short Film,Daisuke Nishio and Takashi Washio,Magic Candies,Nominated
-52,2025,97th,Cinematography,Paul Guilhaume,Emilia Perez,Nominated
+52,2025,97th,Cinematography,Paul Guilhaume,Emilia Prez,Nominated
 53,2025,97th,Costume Design,Lisy Christl,Conclave,Nominated
 54,2025,97th,Directing,James Mangold,A Complete Unknown,Nominated
 55,2025,97th,Documentary Feature Film,"Brendan Bellomo, Slava Leontyev, Aniela Sidorska and Paula DuPre' Pesmen",Porcelain War,Nominated
 56,2025,97th,Documentary Short Film,Smriti Mundhra and Maya Gnyp,"I Am Ready, Warden",Nominated
 57,2025,97th,Film Editing,Nick Emerson,Conclave,Nominated
-58,2025,97th,International Feature Film,Emilia Perez,France,Nominated
-59,2025,97th,Makeup and Hairstyling,"Julia Floch Carbonel, Emmanuel Janvier and Jean-Christophe Spadaccini",Emilia Perez,Nominated
-60,2025,97th,Music (Original Score),Clement Ducol and Camille,Emilia Perez,Nominated
+58,2025,97th,International Feature Film,Emilia Prez,France,Nominated
+59,2025,97th,Makeup and Hairstyling,"Julia Floch Carbonel, Emmanuel Janvier and Jean-Christophe Spadaccini",Emilia Prez,Nominated
+60,2025,97th,Music (Original Score),Clment Ducol and Camille,Emilia Prez,Nominated
 61,2025,97th,Music (Original Song),from Sing Sing; Music and Lyric by Abraham Alexander and Adrian Quesada,Like A Bird,Nominated
 62,2025,97th,Best Picture,"Fred Berger, James Mangold and Alex Heineman, Producers",A Complete Unknown,Nominated
 63,2025,97th,Production Design,Production Design: Suzie Davies; Set Decoration: Cynthia Sleiter,Conclave,Nominated
 64,2025,97th,Live Action Short Film,Adam J. Graves and Suchitra Mattai,Anuja,Nominated
-65,2025,97th,Sound,"Erwan Kerzanet, Aymeric Devoldre, Maxence Dussre, Cyril Holtz and Niels Barletta",Emilia Perez,Nominated
+65,2025,97th,Sound,"Erwan Kerzanet, Aymeric Devoldre, Maxence Dussre, Cyril Holtz and Niels Barletta",Emilia Prez,Nominated
 66,2025,97th,Visual Effects,"Luke Millar, David Clayton, Keith Herft and Peter Stubbs",Better Man,Nominated
-67,2025,97th,Writing (Adapted Screenplay),"Screenplay by Jacques Audiard; In collaboration with Thomas Bidegain, Lea Mysius and Nicolas Livecchi",Emilia Perez,Nominated
+67,2025,97th,Writing (Adapted Screenplay),"Screenplay by Jacques Audiard; In collaboration with Thomas Bidegain, La Mysius and Nicolas Livecchi",Emilia Prez,Nominated
 68,2025,97th,Writing (Original Screenplay),Written by Jesse Eisenberg,A Real Pain,Nominated
 69,2025,97th,Actor in a Leading Role,Ralph Fiennes,Conclave,Nominated
 70,2025,97th,Actor in a Supporting Role,Guy Pearce,The Brutalist,Nominated
@@ -76,21 +76,21 @@
 74,2025,97th,Animated Short Film,Nina Gantz and Stienette Bosklopper,Wander to Wonder,Nominated
 75,2025,97th,Cinematography,Ed Lachman,Maria,Nominated
 76,2025,97th,Costume Design,Janty Yates and Dave Crossman,Gladiator II,Nominated
-77,2025,97th,Directing,Jacques Audiard,Emilia Perez,Nominated
-78,2025,97th,Documentary Feature Film,"Johan Grimonprez, Daan Milius and Remi Grellety",Soundtrack to a Coup d'Etat,Nominated
+77,2025,97th,Directing,Jacques Audiard,Emilia Prez,Nominated
+78,2025,97th,Documentary Feature Film,"Johan Grimonprez, Daan Milius and Rmi Grellety",Soundtrack to a Coup d'Etat,Nominated
 79,2025,97th,Documentary Short Film,Bill Morrison and Jamie Kalven,Incident,Nominated
-80,2025,97th,Film Editing,Juliette Welfling,Emilia Perez,Nominated
+80,2025,97th,Film Editing,Juliette Welfling,Emilia Prez,Nominated
 81,2025,97th,International Feature Film,The Seed of the Sacred Fig,Germany,Nominated
 82,2025,97th,Makeup and Hairstyling,"David White, Traci Loader and Suzanne Stokes-Munton",Nosferatu,Nominated
 83,2025,97th,Music (Original Score),John Powell and Stephen Schwartz,Wicked,Nominated
-84,2025,97th,Music (Original Song),from Emilia Perez; Music and Lyric by Camille and Clement Ducol,Mi Camino,Nominated
+84,2025,97th,Music (Original Song),from Emilia Prez; Music and Lyric by Camille and Clment Ducol,Mi Camino,Nominated
 85,2025,97th,Best Picture,"Tessa Ross, Juliette Howell and Michael A. Jackman, Producers",Conclave,Nominated
 86,2025,97th,Production Design,Production Design: Patrice Vermette; Set Decoration: Shane Vieau,Dune: Part Two,Nominated
 87,2025,97th,Live Action Short Film,Cindy Lee and Darwin Shaw,The Last Ranger,Nominated
 88,2025,97th,Sound,"Simon Hayes, Nancy Nugent Title, Jack Dolman, Andy Nelson and John Marquis",Wicked,Nominated
 89,2025,97th,Visual Effects,"Erik Winquist, Stephen Unterfranz, Paul Story and Rodney Burke",Kingdom of the Planet of the Apes,Nominated
 90,2025,97th,Writing (Adapted Screenplay),Screenplay by RaMell Ross & Joslyn Barnes,Nickel Boys,Nominated
-91,2025,97th,Writing (Original Screenplay),"Written by Moritz Binder, Tim Fehlbaum; Co-Written by Alex David",5-Sep,Nominated
+91,2025,97th,Writing (Original Screenplay),"Written by Moritz Binder, Tim Fehlbaum; Co-Written by Alex David",Sep-05,Nominated
 92,2025,97th,Actor in a Leading Role,Sebastian Stan,The Apprentice,Nominated
 93,2025,97th,Actor in a Supporting Role,Jeremy Strong,The Apprentice,Nominated
 94,2025,97th,Actress in a Leading Role,Fernanda Torres,I'm Still Here,Nominated
@@ -147,7 +147,7 @@
 145,2024,96th,Directing,Anatomy of a Fall,Justine Triet,Nominated
 146,2024,96th,Documentary Feature Film,Bobi Wine: The People's President,"Moses Bwayo, Christopher Sharp and John Battsek",Nominated
 147,2024,96th,Documentary Short Film,The ABCs of Book Banning,Sheila Nevins and Trish Adlesic,Nominated
-148,2024,96th,Film Editing,Anatomy of a Fall,Laurent Sanachal,Nominated
+148,2024,96th,Film Editing,Anatomy of a Fall,Laurent SAnAchal,Nominated
 149,2024,96th,International Feature Film,Io Capitano,Italy,Nominated
 150,2024,96th,Makeup and Hairstyling,Golda,"Karen Hartley Thomas, Suzi Battersby and Ashra Kelly-Blue",Nominated
 151,2024,96th,Music (Original Score),American Fiction,Laura Karpman,Nominated
@@ -178,16 +178,16 @@
 176,2024,96th,Best Picture,Anatomy of a Fall,"Marie-Ange Luciani and David Thion, Producers",Nominated
 177,2024,96th,Production Design,Killers of the Flower Moon,Production Design: Jack Fisk; Set Decoration: Adam Willis,Nominated
 178,2024,96th,Short Film (Animated),Ninety-Five Senses,Jerusha Hess and Jared Hess,Nominated
-179,2024,96th,Short Film (Live Action),Invincible,Vincent Rena-Lortie and Samuel Caron,Nominated
+179,2024,96th,Short Film (Live Action),Invincible,Vincent RenA-Lortie and Samuel Caron,Nominated
 180,2024,96th,Sound,Maestro,"Steven A. Morrow, Richard King, Jason Ruder, Tom Ozanich and Dean Zupancic",Nominated
 181,2024,96th,Visual Effects,Guardians of the Galaxy Vol. 3,"Stephane Ceretti, Alexis Wajsbrot, Guy Williams and Theo Bialek",Nominated
 182,2024,96th,Writing (Adapted Screenplay),Oppenheimer,Written for the screen by Christopher Nolan,Nominated
 183,2024,96th,Writing (Original Screenplay),Maestro,Written by Bradley Cooper & Josh Singer,Nominated
 184,2024,96th,Actor In a Leading Role,Paul Giamatti,The Holdovers,Nominated
 185,2024,96th,Actor In a Supporting Role,Ryan Gosling,Barbie,Nominated
-186,2024,96th,Actress In a Leading Role,Sandra Ha14ller,Anatomy of a Fall,Nominated
+186,2024,96th,Actress In a Leading Role,Sandra HA14ller,Anatomy of a Fall,Nominated
 187,2024,96th,Actress In a Supporting Role,America Ferrera,Barbie,Nominated
-188,2024,96th,Animated Feature Film,Robot Dreams,"Pablo Berger, Ibon Cormenzana, Ignasi Estapa and Sandra Tapia Daaz",Nominated
+188,2024,96th,Animated Feature Film,Robot Dreams,"Pablo Berger, Ibon Cormenzana, Ignasi EstapA and Sandra Tapia DAaz",Nominated
 189,2024,96th,Cinematography,Maestro,Matthew Libatique,Nominated
 190,2024,96th,Costume Design,Napoleon,Janty Yates and Dave Crossman,Nominated
 191,2024,96th,Directing,Poor Things,Yorgos Lanthimos,Nominated
@@ -201,7 +201,7 @@
 199,2024,96th,Best Picture,Barbie,"David Heyman, Margot Robbie, Tom Ackerley and Robbie Brenner, Producers",Nominated
 200,2024,96th,Production Design,Napoleon,Production Design: Arthur Max; Set Decoration: Elli Griff,Nominated
 201,2024,96th,Short Film (Animated),Our Uniform,Yegane Moghaddam,Nominated
-202,2024,96th,Short Film (Live Action),Knight of Fortune,Lasse Lyskjar Noer and Christian Norlyk,Nominated
+202,2024,96th,Short Film (Live Action),Knight of Fortune,Lasse LyskjAr Noer and Christian Norlyk,Nominated
 203,2024,96th,Sound,Mission: Impossible - Dead Reckoning Part One,"Chris Munro, James H. Mather, Chris Burdon and Mark Taylor",Nominated
 204,2024,96th,Visual Effects,Mission: Impossible - Dead Reckoning Part One,"Alex Wuttke, Simone Coco, Jeff Sutherland and Neil Corbould",Nominated
 205,2024,96th,Writing (Adapted Screenplay),Poor Things,Screenplay by Tony McNamara,Nominated
@@ -215,15 +215,15 @@
 213,2024,96th,Costume Design,Oppenheimer,Ellen Mirojnick,Nominated
 214,2024,96th,Directing,The Zone of Interest,Jonathan Glazer,Nominated
 215,2024,96th,Documentary Feature Film,To Kill a Tiger,"Nisha Pahuja, Cornelia Principe and David Oppenheim",Nominated
-216,2024,96th,Documentary Short Film,NCei Nai & Wai Pa,Sean Wang and Sam Davis,Nominated
+216,2024,96th,Documentary Short Film,NCi Nai & WAi PA3,Sean Wang and Sam Davis,Nominated
 217,2024,96th,Film Editing,Poor Things,Yorgos Mavropsaridis,Nominated
 218,2024,96th,International Feature Film,The Teachers' Lounge,Germany,Nominated
-219,2024,96th,Makeup and Hairstyling,Society of the Snow,"Ana La3pez-Puigcerver, David Marta and Montse Riba",Nominated
+219,2024,96th,Makeup and Hairstyling,Society of the Snow,"Ana LA3pez-Puigcerver, David MartA and Montse RibA",Nominated
 220,2024,96th,Music (Original Score),Poor Things,Jerskin Fendrix,Nominated
 221,2024,96th,Music (Original Song),Wahzhazhe (A Song For My People),from Killers of the Flower Moon; Music and Lyric by Scott George,Nominated
 222,2024,96th,Best Picture,The Holdovers,"Mark Johnson, Producer",Nominated
 223,2024,96th,Production Design,Oppenheimer,Production Design: Ruth De Jong; Set Decoration: Claire Kaufman,Nominated
-224,2024,96th,Short Film (Animated),Pachyderme,Staphanie Clament and Marc Rius,Nominated
+224,2024,96th,Short Film (Animated),Pachyderme,StAphanie ClAment and Marc Rius,Nominated
 225,2024,96th,Short Film (Live Action),"Red, White and Blue",Nazrin Choudhury and Sara McFarlane,Nominated
 226,2024,96th,Sound,Oppenheimer,"Willie Burton, Richard King, Gary A. Rizzo and Kevin O'Connell",Nominated
 227,2024,96th,Visual Effects,Napoleon,"Charley Henley, Luc-Ewen Martin-Fenouillet, Simone Coco and Neil Corbould",Nominated
@@ -258,7 +258,7 @@
 256,2023,95th,Cinematography,Darius Khondji,"Bardo, False Chronicle of a Handful of Truths",Nominated
 257,2023,95th,Cinematography,Mandy Walker,Elvis,Nominated
 258,2023,95th,Cinematography,Roger Deakins,Empire of Light,Nominated
-259,2023,95th,Cinematography,Florian Hoffmeister,Tar,Nominated
+259,2023,95th,Cinematography,Florian Hoffmeister,TAr,Nominated
 260,2023,95th,Costume Design,Mary Zophres,Babylon,Nominated
 261,2023,95th,Costume Design,Ruth Carter,Black Panther: Wakanda Forever,Won
 262,2023,95th,Costume Design,Catherine Martin,Elvis,Nominated
@@ -267,12 +267,12 @@
 265,2023,95th,Directing,Martin McDonagh,The Banshees of Inisherin,Nominated
 266,2023,95th,Directing,Daniel Kwan and Daniel Scheinert,Everything Everywhere All at Once,Won
 267,2023,95th,Directing,Steven Spielberg,The Fabelmans,Nominated
-268,2023,95th,Directing,Todd Field,Tar,Nominated
-269,2023,95th,Directing,Ruben astlund,Triangle of Sadness,Nominated
+268,2023,95th,Directing,Todd Field,TAr,Nominated
+269,2023,95th,Directing,Ruben Astlund,Triangle of Sadness,Nominated
 270,2023,95th,Documentary Feature Film,"Shaunak Sen, Aman Mann and Teddy Leifer",All That Breathes,Nominated
 271,2023,95th,Documentary Feature Film,"Laura Poitras, Howard Gertler, John Lyons, Nan Goldin and Yoni Golijov",All the Beauty and the Bloodshed,Nominated
 272,2023,95th,Documentary Feature Film,"Sara Dosa, Shane Boris and Ina Fichman",Fire of Love,Nominated
-273,2023,95th,Documentary Feature Film,Simon Lereng Wilmont and Monica Hellstram,A House Made of Splinters,Nominated
+273,2023,95th,Documentary Feature Film,Simon Lereng Wilmont and Monica HellstrAm,A House Made of Splinters,Nominated
 274,2023,95th,Documentary Feature Film,"Daniel Roher, Odessa Rae, Diane Becker, Melanie Miller and Shane Boris",Navalny,Won
 275,2023,95th,Documentary Short Film,Kartiki Gonsalves and Guneet Monga,The Elephant Whisperers,Won
 276,2023,95th,Documentary Short Film,Evgenia Arbugaeva and Maxim Arbugaev,Haulout,Nominated
@@ -282,14 +282,14 @@
 280,2023,95th,Film Editing,Mikkel E.G. Nielsen,The Banshees of Inisherin,Nominated
 281,2023,95th,Film Editing,Matt Villa and Jonathan Redmond,Elvis,Nominated
 282,2023,95th,Film Editing,Paul Rogers,Everything Everywhere All at Once,Won
-283,2023,95th,Film Editing,Monika Willi,Tar,Nominated
+283,2023,95th,Film Editing,Monika Willi,TAr,Nominated
 284,2023,95th,Film Editing,Eddie Hamilton,Top Gun: Maverick,Nominated
 285,2023,95th,International Feature Film,Germany,All Quiet on the Western Front,Won
 286,2023,95th,International Feature Film,Argentina,"Argentina, 1985",Nominated
 287,2023,95th,International Feature Film,Belgium,Close,Nominated
 288,2023,95th,International Feature Film,Poland,EO,Nominated
 289,2023,95th,International Feature Film,Ireland,The Quiet Girl,Nominated
-290,2023,95th,Makeup and Hairstyling,Heike Merker and Linda Eisenhamerova,All Quiet on the Western Front,Nominated
+290,2023,95th,Makeup and Hairstyling,Heike Merker and Linda EisenhamerovA,All Quiet on the Western Front,Nominated
 291,2023,95th,Makeup and Hairstyling,"Naomi Donne, Mike Marino and Mike Fontaine",The Batman,Nominated
 292,2023,95th,Makeup and Hairstyling,Camille Friend and Joel Harlow,Black Panther: Wakanda Forever,Nominated
 293,2023,95th,Makeup and Hairstyling,"Mark Coulier, Jason Baird and Aldo Signoretti",Elvis,Nominated
@@ -310,7 +310,7 @@
 308,2023,95th,Best Picture,"Baz Luhrmann, Catherine Martin, Gail Berman, Patrick McCormick and Schuyler Weiss, Producers",Elvis,Nominated
 309,2023,95th,Best Picture,"Daniel Kwan, Daniel Scheinert and Jonathan Wang, Producers",Everything Everywhere All at Once,Won
 310,2023,95th,Best Picture,"Kristie Macosko Krieger, Steven Spielberg and Tony Kushner, Producers",The Fabelmans,Nominated
-311,2023,95th,Best Picture,"Todd Field, Alexandra Milchan and Scott Lambert, Producers",Tar,Nominated
+311,2023,95th,Best Picture,"Todd Field, Alexandra Milchan and Scott Lambert, Producers",TAr,Nominated
 312,2023,95th,Best Picture,"Tom Cruise, Christopher McQuarrie, David Ellison and Jerry Bruckheimer, Producers",Top Gun: Maverick,Nominated
 313,2023,95th,Best Picture,"Erik Hemmendorff and Philippe Bober, Producers",Triangle of Sadness,Nominated
 314,2023,95th,Best Picture,"Dede Gardner, Jeremy Kleiner and Frances McDormand, Producers",Women Talking,Nominated
@@ -321,20 +321,20 @@
 319,2023,95th,Production Design,Production Design: Rick Carter; Set Decoration: Karen O'Hara,The Fabelmans,Nominated
 320,2023,95th,Short Film (Animated),Charlie Mackesy and Matthew Freud,"The Boy, the Mole, the Fox and the Horse",Won
 321,2023,95th,Short Film (Animated),Amanda Forbis and Wendy Tilby,The Flying Sailor,Nominated
-322,2023,95th,Short Film (Animated),Joao Gonzalez and Bruno Caetano,Ice Merchants,Nominated
-323,2023,95th,Short Film (Animated),Sara Gunnarsda3ttir and Pamela Ribon,My Year of Dicks,Nominated
+322,2023,95th,Short Film (Animated),JoAo Gonzalez and Bruno Caetano,Ice Merchants,Nominated
+323,2023,95th,Short Film (Animated),Sara GunnarsdA3ttir and Pamela Ribon,My Year of Dicks,Nominated
 324,2023,95th,Short Film (Animated),Lachlan Pendragon,An Ostrich Told Me the World Is Fake and I Think I Believe It,Nominated
 325,2023,95th,Short Film (Live Action),Tom Berkeley and Ross White,An Irish Goodbye,Won
 326,2023,95th,Short Film (Live Action),Anders Walter and Rebecca Pruzan,Ivalu,Nominated
-327,2023,95th,Short Film (Live Action),Alice Rohrwacher and Alfonso Cuara3n,Le Pupille,Nominated
+327,2023,95th,Short Film (Live Action),Alice Rohrwacher and Alfonso CuarA3n,Le Pupille,Nominated
 328,2023,95th,Short Film (Live Action),Eirik Tveiten and Gaute Lid Larssen,Night Ride,Nominated
 329,2023,95th,Short Film (Live Action),Cyrus Neshvad,The Red Suitcase,Nominated
-330,2023,95th,Sound,"Viktor PraAil, Frank Kruse, Markus Stemler, Lars Ginzel and Stefan Korte",All Quiet on the Western Front,Nominated
+330,2023,95th,Sound,"Viktor PrAAil, Frank Kruse, Markus Stemler, Lars Ginzel and Stefan Korte",All Quiet on the Western Front,Nominated
 331,2023,95th,Sound,"Julian Howarth, Gwendolyn Yates Whittle, Dick Bernstein, Christopher Boyes, Gary Summers and Michael Hedges",Avatar: The Way of Water,Nominated
 332,2023,95th,Sound,"Stuart Wilson, William Files, Douglas Murray and Andy Nelson",The Batman,Nominated
 333,2023,95th,Sound,"David Lee, Wayne Pashley, Andy Nelson and Michael Keller",Elvis,Nominated
 334,2023,95th,Sound,"Mark Weingarten, James H. Mather, Al Nelson, Chris Burdon and Mark Taylor",Top Gun: Maverick,Won
-335,2023,95th,Visual Effects,"Frank Petzold, Viktor Ma14ller, Markus Frank and Kamil Jafar",All Quiet on the Western Front,Nominated
+335,2023,95th,Visual Effects,"Frank Petzold, Viktor MA14ller, Markus Frank and Kamil Jafar",All Quiet on the Western Front,Nominated
 336,2023,95th,Visual Effects,"Joe Letteri, Richard Baneham, Eric Saindon and Daniel Barrett",Avatar: The Way of Water,Won
 337,2023,95th,Visual Effects,"Dan Lemmon, Russell Earl, Anders Langlands and Dominic Tuohy",The Batman,Nominated
 338,2023,95th,Visual Effects,"Geoffrey Baumann, Craig Hammack, R. Christopher White and Dan Sudick",Black Panther: Wakanda Forever,Nominated
@@ -347,21 +347,21 @@
 345,2023,95th,Writing (Original Screenplay),Written by Martin McDonagh,The Banshees of Inisherin,Nominated
 346,2023,95th,Writing (Original Screenplay),Written by Daniel Kwan & Daniel Scheinert,Everything Everywhere All at Once,Won
 347,2023,95th,Writing (Original Screenplay),Written by Steven Spielberg & Tony Kushner,The Fabelmans,Nominated
-348,2023,95th,Writing (Original Screenplay),Written by Todd Field,Tar,Nominated
-349,2023,95th,Writing (Original Screenplay),Written by Ruben astlund,Triangle of Sadness,Nominated
+348,2023,95th,Writing (Original Screenplay),Written by Todd Field,TAr,Nominated
+349,2023,95th,Writing (Original Screenplay),Written by Ruben Astlund,Triangle of Sadness,Nominated
 350,2022,94th,Actor In a Leading Role,Javier Bardem,Being the Ricardos,Nominated
 351,2022,94th,Actor In a Leading Role,Benedict Cumberbatch,The Power of the Dog,Nominated
 352,2022,94th,Actor In a Leading Role,Andrew Garfield,"tick, tick...BOOM!",Nominated
 353,2022,94th,Actor In a Leading Role,Will Smith,King Richard,Won
 354,2022,94th,Actor In a Leading Role,Denzel Washington,The Tragedy of Macbeth,Nominated
-355,2022,94th,Actor In a Supporting Role,Ciaran Hinds,Belfast,Nominated
+355,2022,94th,Actor In a Supporting Role,CiarAn Hinds,Belfast,Nominated
 356,2022,94th,Actor In a Supporting Role,Troy Kotsur,CODA,Won
 357,2022,94th,Actor In a Supporting Role,Jesse Plemons,The Power of the Dog,Nominated
 358,2022,94th,Actor In a Supporting Role,J.K. Simmons,Being the Ricardos,Nominated
 359,2022,94th,Actor In a Supporting Role,Kodi Smit-McPhee,The Power of the Dog,Nominated
 360,2022,94th,Actress In a Leading Role,Jessica Chastain,The Eyes of Tammy Faye,Won
 361,2022,94th,Actress In a Leading Role,Olivia Colman,The Lost Daughter,Nominated
-362,2022,94th,Actress In a Leading Role,Penalope Cruz,Parallel Mothers,Nominated
+362,2022,94th,Actress In a Leading Role,PenAlope Cruz,Parallel Mothers,Nominated
 363,2022,94th,Actress In a Leading Role,Nicole Kidman,Being the Ricardos,Nominated
 364,2022,94th,Actress In a Leading Role,Kristen Stewart,Spencer,Nominated
 365,2022,94th,Actress In a Supporting Role,Jessie Buckley,The Lost Daughter,Nominated
@@ -370,10 +370,10 @@
 368,2022,94th,Actress In a Supporting Role,Kirsten Dunst,The Power of the Dog,Nominated
 369,2022,94th,Actress In a Supporting Role,Aunjanue Ellis,King Richard,Nominated
 370,2022,94th,Animated Feature Film,"Jared Bush, Byron Howard, Yvett Merino and Clark Spencer",Encanto,Won
-371,2022,94th,Animated Feature Film,"Jonas Poher Rasmussen, Monica Hellstram, Signe Byrge Sa rensen and Charlotte De La Gournerie",Flee,Nominated
+371,2022,94th,Animated Feature Film,"Jonas Poher Rasmussen, Monica HellstrAm, Signe Byrge SA rensen and Charlotte De La Gournerie",Flee,Nominated
 372,2022,94th,Animated Feature Film,Enrico Casarosa and Andrea Warren,Luca,Nominated
 373,2022,94th,Animated Feature Film,"Mike Rianda, Phil Lord, Christopher Miller and Kurt Albrecht",The Mitchells vs. the Machines,Nominated
-374,2022,94th,Animated Feature Film,"Don Hall, Carlos La3pez Estrada, Osnat Shurer and Peter Del Vecho",Raya and the Last Dragon,Nominated
+374,2022,94th,Animated Feature Film,"Don Hall, Carlos LA3pez Estrada, Osnat Shurer and Peter Del Vecho",Raya and the Last Dragon,Nominated
 375,2022,94th,Cinematography,Greig Fraser,Dune,Won
 376,2022,94th,Cinematography,Dan Laustsen,Nightmare Alley,Nominated
 377,2022,94th,Cinematography,Ari Wegner,The Power of the Dog,Nominated
@@ -391,7 +391,7 @@
 389,2022,94th,Directing,Steven Spielberg,West Side Story,Nominated
 390,2022,94th,Documentary (Feature),"Jessica Kingdon, Kira Simon-Kennedy and Nathan Truesdell",Ascension,Nominated
 391,2022,94th,Documentary (Feature),Stanley Nelson and Traci A. Curry,Attica,Nominated
-392,2022,94th,Documentary (Feature),"Jonas Poher Rasmussen, Monica Hellstram, Signe Byrge Sa rensen and Charlotte De La Gournerie",Flee,Nominated
+392,2022,94th,Documentary (Feature),"Jonas Poher Rasmussen, Monica HellstrAm, Signe Byrge SA rensen and Charlotte De La Gournerie",Flee,Nominated
 393,2022,94th,Documentary (Feature),"Ahmir ""Questlove"" Thompson, Joseph Patel, Robert Fyvolent and David Dinerstein","Summer of Soul (...Or, When the Revolution Could Not Be Televised)",Won
 394,2022,94th,Documentary (Feature),Rintu Thomas and Sushmit Ghosh,Writing with Fire,Nominated
 395,2022,94th,Documentary (Short Subject),Matt Ogens and Geoff McLean,Audible,Nominated
@@ -413,13 +413,13 @@
 411,2022,94th,Makeup and Hairstyling,"Nadia Stacey, Naomi Donne and Julia Vernon",Cruella,Nominated
 412,2022,94th,Makeup and Hairstyling,"Donald Mowat, Love Larson and Eva von Bahr",Dune,Nominated
 413,2022,94th,Makeup and Hairstyling,"Linda Dowds, Stephanie Ingram and Justin Raleigh",The Eyes of Tammy Faye,Won
-414,2022,94th,Makeup and Hairstyling,"Garan Lundstram, Anna Carin Lock and Frederic Aspiras",House of Gucci,Nominated
+414,2022,94th,Makeup and Hairstyling,"GAran LundstrAm, Anna Carin Lock and Frederic Aspiras",House of Gucci,Nominated
 415,2022,94th,Music (Original Score),Nicholas Britell,Don't Look Up,Nominated
 416,2022,94th,Music (Original Score),Hans Zimmer,Dune,Won
 417,2022,94th,Music (Original Score),Germaine Franco,Encanto,Nominated
 418,2022,94th,Music (Original Score),Alberto Iglesias,Parallel Mothers,Nominated
 419,2022,94th,Music (Original Score),Jonny Greenwood,The Power of the Dog,Nominated
-420,2022,94th,Music (Original Song),Music and Lyric by DIXSON and Beyonca Knowles-Carter,King Richard,Nominated
+420,2022,94th,Music (Original Song),Music and Lyric by DIXSON and BeyoncA Knowles-Carter,King Richard,Nominated
 421,2022,94th,Music (Original Song),Music and Lyric by Lin-Manuel Miranda,Encanto,Nominated
 422,2022,94th,Music (Original Song),Music and Lyric by Van Morrison,Belfast,Nominated
 423,2022,94th,Music (Original Song),Music and Lyric by Billie Eilish and Finneas O'Connell,No Time to Die,Won
@@ -440,15 +440,15 @@
 438,2022,94th,Production Design,Production Design: Stefan Dechant; Set Decoration: Nancy Haigh,The Tragedy of Macbeth,Nominated
 439,2022,94th,Production Design,Production Design: Adam Stockhausen; Set Decoration: Rena DeAngelo,West Side Story,Nominated
 440,2022,94th,Short Film (Animated),Joanna Quinn and Les Mills,Affairs of the Art,Nominated
-441,2022,94th,Short Film (Animated),Hugo Covarrubias and Tevo Daaz,Bestia,Nominated
+441,2022,94th,Short Film (Animated),Hugo Covarrubias and Tevo DAaz,Bestia,Nominated
 442,2022,94th,Short Film (Animated),Anton Dyakov,Boxballet,Nominated
 443,2022,94th,Short Film (Animated),Dan Ojari and Mikey Please,Robin Robin,Nominated
 444,2022,94th,Short Film (Animated),Alberto Mielgo and Leo Sanchez,The Windshield Wiper,Won
-445,2022,94th,Short Film (Live Action),Maria Brendle and Nadine La14chinger,Ala Kachuu - Take and Run,Nominated
+445,2022,94th,Short Film (Live Action),Maria Brendle and Nadine LA14chinger,Ala Kachuu - Take and Run,Nominated
 446,2022,94th,Short Film (Live Action),Tadeusz Lysiak and Maciej Slesicki,The Dress,Nominated
 447,2022,94th,Short Film (Live Action),Aneil Karia and Riz Ahmed,The Long Goodbye,Won
 448,2022,94th,Short Film (Live Action),Martin Strange-Hansen and Kim Magnusson,On My Mind,Nominated
-449,2022,94th,Short Film (Live Action),K.D. Davila and Levin Menekse,Please Hold,Nominated
+449,2022,94th,Short Film (Live Action),K.D. DAvila and Levin Menekse,Please Hold,Nominated
 450,2022,94th,Sound,"Denise Yarde, Simon Chase, James Mather and Niv Adiri",Belfast,Nominated
 451,2022,94th,Sound,"Mac Ruth, Mark Mangini, Theo Green, Doug Hemphill and Ron Bartlett",Dune,Won
 452,2022,94th,Sound,"Simon Hayes, Oliver Tarney, James Harrison, Paul Massey and Mark Taylor",No Time to Die,Nominated
@@ -459,7 +459,7 @@
 457,2022,94th,Visual Effects,"Charlie Noble, Joel Green, Jonathan Fawkner and Chris Corbould",No Time to Die,Nominated
 458,2022,94th,Visual Effects,"Christopher Townsend, Joe Farrell, Sean Noel Walker and Dan Oliver",Shang-Chi and the Legend of the Ten Rings,Nominated
 459,2022,94th,Visual Effects,"Kelly Port, Chris Waegner, Scott Edelstein and Dan Sudick",Spider-Man: No Way Home,Nominated
-460,2022,94th,Writing (Adapted Screenplay),Screenplay by Siacn Heder,CODA,Won
+460,2022,94th,Writing (Adapted Screenplay),Screenplay by SiAn Heder,CODA,Won
 461,2022,94th,Writing (Adapted Screenplay),"Screenplay by Ryusuke Hamaguchi, Takamasa Oe",Drive My Car,Nominated
 462,2022,94th,Writing (Adapted Screenplay),Screenplay by Jon Spaihts and Denis Villeneuve and Eric Roth,Dune,Nominated
 463,2022,94th,Writing (Adapted Screenplay),Written by Maggie Gyllenhaal,The Lost Daughter,Nominated
@@ -497,7 +497,7 @@
 495,2021,93rd,Animated Feature Film,"Glen Keane, Gennie Rim and Peilin Chou",Over the Moon,Nominated
 496,2021,93rd,Animated Feature Film,"Richard Phelan, Will Becher and Paul Kewley",A Shaun the Sheep Movie: Farmageddon,Nominated
 497,2021,93rd,Animated Feature Film,Pete Docter and Dana Murray,Soul,Won
-498,2021,93rd,Animated Feature Film,"Tomm Moore, Ross Stewart, Paul Young and Staphan Roelants",Wolfwalkers,Nominated
+498,2021,93rd,Animated Feature Film,"Tomm Moore, Ross Stewart, Paul Young and StAphan Roelants",Wolfwalkers,Nominated
 499,2021,93rd,Cinematography,Sean Bobbitt,Judas and the Black Messiah,Nominated
 500,2021,93rd,Cinematography,Erik Messerschmidt,Mank,Won
 501,2021,93rd,Cinematography,Dariusz Wolski,News of the World,Nominated
@@ -511,11 +511,11 @@
 509,2021,93rd,Directing,Thomas Vinterberg,Another Round,Nominated
 510,2021,93rd,Directing,David Fincher,Mank,Nominated
 511,2021,93rd,Directing,Lee Isaac Chung,Minari,Nominated
-512,2021,93rd,Directing,Chloa Zhao,Nomadland,Won
+512,2021,93rd,Directing,ChloA Zhao,Nomadland,Won
 513,2021,93rd,Directing,Emerald Fennell,Promising Young Woman,Nominated
 514,2021,93rd,Documentary (Feature),Alexander Nanau and Bianca Oana,Collective,Nominated
 515,2021,93rd,Documentary (Feature),"Nicole Newnham, Jim LeBrecht and Sara Bolder",Crip Camp,Nominated
-516,2021,93rd,Documentary (Feature),Maite Alberdi and Marcela Santibaaez,The Mole Agent,Nominated
+516,2021,93rd,Documentary (Feature),Maite Alberdi and Marcela SantibAAez,The Mole Agent,Nominated
 517,2021,93rd,Documentary (Feature),"Pippa Ehrlich, James Reed and Craig Foster",My Octopus Teacher,Won
 518,2021,93rd,Documentary (Feature),"Garrett Bradley, Lauren Domino and Kellen Quinn",Time,Nominated
 519,2021,93rd,Documentary (Short Subject),Anthony Giacchino and Alice Doyard,Colette,Won
@@ -524,8 +524,8 @@
 522,2021,93rd,Documentary (Short Subject),Skye Fitzgerald and Michael Scheuerman,Hunger Ward,Nominated
 523,2021,93rd,Documentary (Short Subject),Sophia Nahli Allison and Janice Duncan,A Love Song for Latasha,Nominated
 524,2021,93rd,Film Editing,Yorgos Lamprinos,The Father,Nominated
-525,2021,93rd,Film Editing,Chloa Zhao,Nomadland,Nominated
-526,2021,93rd,Film Editing,Fradaric Thoraval,Promising Young Woman,Nominated
+525,2021,93rd,Film Editing,ChloA Zhao,Nomadland,Nominated
+526,2021,93rd,Film Editing,FrAdAric Thoraval,Promising Young Woman,Nominated
 527,2021,93rd,Film Editing,Mikkel E. G. Nielsen,Sound of Metal,Won
 528,2021,93rd,Film Editing,Alan Baumgarten,The Trial of the Chicago 7,Nominated
 529,2021,93rd,International Feature Film,Denmark,Another Round,Won
@@ -545,14 +545,14 @@
 543,2021,93rd,Music (Original Score),"Trent Reznor, Atticus Ross and Jon Batiste",Soul,Won
 544,2021,93rd,Music (Original Song),Music by H.E.R. and Dernst Emile II; Lyric by H.E.R. and Tiara Thomas,Judas and the Black Messiah,Won
 545,2021,93rd,Music (Original Song),Music by Daniel Pemberton; Lyric by Daniel Pemberton and Celeste Waite,The Trial of the Chicago 7,Nominated
-546,2021,93rd,Music (Original Song),"Music and Lyric by Savan Kotecha, Fat Max Gsus and Rickard Garansson",Eurovision Song Contest: The Story of Fire Saga,Nominated
+546,2021,93rd,Music (Original Song),"Music and Lyric by Savan Kotecha, Fat Max Gsus and Rickard GAransson",Eurovision Song Contest: The Story of Fire Saga,Nominated
 547,2021,93rd,Music (Original Song),Music by Diane Warren; Lyric by Diane Warren and Laura Pausini,The Life Ahead (La Vita Davanti a Se),Nominated
 548,2021,93rd,Music (Original Song),"Music and Lyric by Leslie Odom, Jr. and Sam Ashworth",One Night in Miami...,Nominated
 549,2021,93rd,Best Picture,"David Parfitt, Jean-Louis Livi and Philippe Carcassonne, Producers",The Father,Nominated
 550,2021,93rd,Best Picture,"Shaka King, Charles D. King and Ryan Coogler, Producers",Judas and the Black Messiah,Nominated
-551,2021,93rd,Best Picture,"Cean Chaffin, Eric Roth and Douglas Urbanski, Producers",Mank,Nominated
+551,2021,93rd,Best Picture,"CeAn Chaffin, Eric Roth and Douglas Urbanski, Producers",Mank,Nominated
 552,2021,93rd,Best Picture,"Christina Oh, Producer",Minari,Nominated
-553,2021,93rd,Best Picture,"Frances McDormand, Peter Spears, Mollye Asher, Dan Janvey and Chloa Zhao, Producers",Nomadland,Won
+553,2021,93rd,Best Picture,"Frances McDormand, Peter Spears, Mollye Asher, Dan Janvey and ChloA Zhao, Producers",Nomadland,Won
 554,2021,93rd,Best Picture,"Ben Browning, Ashley Fox, Emerald Fennell and Josey McNamara, Producers",Promising Young Woman,Nominated
 555,2021,93rd,Best Picture,"Bert Hamelinck and Sacha Ben Harroche, Producers",Sound of Metal,Nominated
 556,2021,93rd,Best Picture,"Marc Platt and Stuart Besser, Producers",The Trial of the Chicago 7,Nominated
@@ -562,10 +562,10 @@
 560,2021,93rd,Production Design,Production Design: David Crank; Set Decoration: Elizabeth Keenan,News of the World,Nominated
 561,2021,93rd,Production Design,Production Design: Nathan Crowley; Set Decoration: Kathy Lucas,Tenet,Nominated
 562,2021,93rd,Short Film (Animated),Madeline Sharafian and Michael Capbarat,Burrow,Nominated
-563,2021,93rd,Short Film (Animated),Adrien Marigeau and Amaury Ovise,Genius Loci,Nominated
+563,2021,93rd,Short Film (Animated),Adrien MArigeau and Amaury Ovise,Genius Loci,Nominated
 564,2021,93rd,Short Film (Animated),Will McCormack and Michael Govier,If Anything Happens I Love You,Won
 565,2021,93rd,Short Film (Animated),Erick Oh,Opera,Nominated
-566,2021,93rd,Short Film (Animated),Gasli Darri Hallda3rsson and Arnar Gunnarsson,Yes-People,Nominated
+566,2021,93rd,Short Film (Animated),GAsli Darri HalldA3rsson and Arnar Gunnarsson,Yes-People,Nominated
 567,2021,93rd,Short Film (Live Action),Doug Roland and Susan Ruzenski,Feeling Through,Nominated
 568,2021,93rd,Short Film (Live Action),Elvira Lind and Sofia Sondervan,The Letter Room,Nominated
 569,2021,93rd,Short Film (Live Action),Farah Nabulsi and Ossama Bawardi,The Present,Nominated
@@ -575,7 +575,7 @@
 573,2021,93rd,Sound,"Ren Klyce, Jeremy Molod, David Parker, Nathan Nance and Drew Kunin",Mank,Nominated
 574,2021,93rd,Sound,"Oliver Tarney, Mike Prestwood Smith, William Miller and John Pritchett",News of the World,Nominated
 575,2021,93rd,Sound,"Ren Klyce, Coya Elliott and David Parker",Soul,Nominated
-576,2021,93rd,Sound,"Nicolas Becker, Jaime Baksht, Michellee Couttolenc, Carlos Cortas and Phillip Bladh",Sound of Metal,Won
+576,2021,93rd,Sound,"Nicolas Becker, Jaime Baksht, Michellee Couttolenc, Carlos CortAs and Phillip Bladh",Sound of Metal,Won
 577,2021,93rd,Visual Effects,"Matt Sloan, Genevieve Camilleri, Matt Everitt and Brian Cox",Love and Monsters,Nominated
 578,2021,93rd,Visual Effects,"Matthew Kasmir, Christopher Lawrence, Max Solomon and David Watkins",The Midnight Sky,Nominated
 579,2021,93rd,Visual Effects,"Sean Faden, Anders Langlands, Seth Maury and Steve Ingram",Mulan,Nominated
@@ -583,7 +583,7 @@
 581,2021,93rd,Visual Effects,"Andrew Jackson, David Lee, Andrew Lockley and Scott Fisher",Tenet,Won
 582,2021,93rd,Writing (Adapted Screenplay),Screenplay by Sacha Baron Cohen & Anthony Hines & Dan Swimer & Peter Baynham & Erica Rivinoja & Dan Mazer & Jena Friedman & Lee Kern; Story by Sacha Baron Cohen & Anthony Hines & Dan Swimer & Nina Pedrad,Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan,Nominated
 583,2021,93rd,Writing (Adapted Screenplay),Screenplay by Christopher Hampton and Florian Zeller,The Father,Won
-584,2021,93rd,Writing (Adapted Screenplay),Written for the screen by Chloa Zhao,Nomadland,Nominated
+584,2021,93rd,Writing (Adapted Screenplay),Written for the screen by ChloA Zhao,Nomadland,Nominated
 585,2021,93rd,Writing (Adapted Screenplay),Screenplay by Kemp Powers,One Night in Miami...,Nominated
 586,2021,93rd,Writing (Adapted Screenplay),Written for the screen by Ramin Bahrani,The White Tiger,Nominated
 587,2021,93rd,Writing (Original Screenplay),Screenplay by Will Berson & Shaka King; Story by Will Berson & Shaka King and Kenny Lucas & Keith Lucas,Judas and the Black Messiah,Nominated
@@ -606,15 +606,15 @@
 604,2020,92nd,Actress In a Leading Role,Scarlett Johansson,Marriage Story,Nominated
 605,2020,92nd,Actress In a Leading Role,Saoirse Ronan,Little Women,Nominated
 606,2020,92nd,Actress In a Leading Role,Charlize Theron,Bombshell,Nominated
-607,2020,92nd,Actress In a Leading Role,Renae Zellweger,Judy,Won
+607,2020,92nd,Actress In a Leading Role,RenAe Zellweger,Judy,Won
 608,2020,92nd,Actress In a Supporting Role,Kathy Bates,Richard Jewell,Nominated
 609,2020,92nd,Actress In a Supporting Role,Laura Dern,Marriage Story,Won
 610,2020,92nd,Actress In a Supporting Role,Scarlett Johansson,Jojo Rabbit,Nominated
 611,2020,92nd,Actress In a Supporting Role,Florence Pugh,Little Women,Nominated
 612,2020,92nd,Actress In a Supporting Role,Margot Robbie,Bombshell,Nominated
 613,2020,92nd,Animated Feature Film,"Dean DeBlois, Bradford Lewis and Bonnie Arnold",How to Train Your Dragon: The Hidden World,Nominated
-614,2020,92nd,Animated Feature Film,Jaramy Clapin and Marc du Pontavice,I Lost My Body,Nominated
-615,2020,92nd,Animated Feature Film,"Sergio Pablos, Jinko Gotoh and Marisa Roman",Klaus,Nominated
+614,2020,92nd,Animated Feature Film,JArAmy Clapin and Marc du Pontavice,I Lost My Body,Nominated
+615,2020,92nd,Animated Feature Film,"Sergio Pablos, Jinko Gotoh and Marisa RomAn",Klaus,Nominated
 616,2020,92nd,Animated Feature Film,"Chris Butler, Arianne Sutner and Travis Knight",Missing Link,Nominated
 617,2020,92nd,Animated Feature Film,"Josh Cooley, Mark Nielsen and Jonas Rivera",Toy Story 4,Won
 618,2020,92nd,Cinematography,Rodrigo Prieto,The Irishman,Nominated
@@ -633,7 +633,7 @@
 631,2020,92nd,Directing,Quentin Tarantino,Once upon a Time...in Hollywood,Nominated
 632,2020,92nd,Directing,Bong Joon Ho,Parasite,Won
 633,2020,92nd,Documentary (Feature),"Steven Bognar, Julia Reichert and Jeff Reichert",American Factory,Won
-634,2020,92nd,Documentary (Feature),"Feras Fayyad, Kirstine Barfod and Sigrid Dyekjar",The Cave,Nominated
+634,2020,92nd,Documentary (Feature),"Feras Fayyad, Kirstine Barfod and Sigrid DyekjAr",The Cave,Nominated
 635,2020,92nd,Documentary (Feature),"Petra Costa, Joanna Natasegara, Shane Boris and Tiago Pavan",The Edge of Democracy,Nominated
 636,2020,92nd,Documentary (Feature),Waad al-Kateab and Edward Watts,For Sama,Nominated
 637,2020,92nd,Documentary (Feature),"Ljubo Stefanov, Tamara Kotevska and Atanas Georgiev",Honeyland,Nominated
@@ -649,7 +649,7 @@
 647,2020,92nd,Film Editing,Yang Jinmo,Parasite,Nominated
 648,2020,92nd,International Feature Film,Poland,Corpus Christi,Nominated
 649,2020,92nd,International Feature Film,North Macedonia,Honeyland,Nominated
-650,2020,92nd,International Feature Film,France,Les Misarables,Nominated
+650,2020,92nd,International Feature Film,France,Les MisArables,Nominated
 651,2020,92nd,International Feature Film,Spain,Pain and Glory,Nominated
 652,2020,92nd,International Feature Film,South Korea,Parasite,Won
 653,2020,92nd,Makeup and Hairstyling,"Kazu Hiro, Anne Morgan and Vivian Baker",Bombshell,Won
@@ -657,7 +657,7 @@
 655,2020,92nd,Makeup and Hairstyling,Jeremy Woodhead,Judy,Nominated
 656,2020,92nd,Makeup and Hairstyling,"Paul Gooch, Arjen Tuiten and David White",Maleficent: Mistress of Evil,Nominated
 657,2020,92nd,Makeup and Hairstyling,"Naomi Donne, Tristan Versluis and Rebecca Cole",1917,Nominated
-658,2020,92nd,Music (Original Score),Hildur Guanada3ttir,Joker,Won
+658,2020,92nd,Music (Original Score),Hildur GuAnadA3ttir,Joker,Won
 659,2020,92nd,Music (Original Score),Alexandre Desplat,Little Women,Nominated
 660,2020,92nd,Music (Original Score),Randy Newman,Marriage Story,Nominated
 661,2020,92nd,Music (Original Score),Thomas Newman,1917,Nominated
@@ -677,14 +677,14 @@
 675,2020,92nd,Best Picture,"David Heyman, Shannon McIntosh and Quentin Tarantino, Producers",Once upon a Time...in Hollywood,Nominated
 676,2020,92nd,Best Picture,"Kwak Sin Ae and Bong Joon Ho, Producers",Parasite,Won
 677,2020,92nd,Production Design,Production Design: Bob Shaw; Set Decoration: Regina Graves,The Irishman,Nominated
-678,2020,92nd,Production Design,Production Design: Ra Vincent; Set Decoration: Nora Sopkova,Jojo Rabbit,Nominated
+678,2020,92nd,Production Design,Production Design: Ra Vincent; Set Decoration: Nora SopkovA,Jojo Rabbit,Nominated
 679,2020,92nd,Production Design,Production Design: Dennis Gassner; Set Decoration: Lee Sandales,1917,Nominated
 680,2020,92nd,Production Design,Production Design: Barbara Ling; Set Decoration: Nancy Haigh,Once upon a Time...in Hollywood,Won
 681,2020,92nd,Production Design,Production Design: Lee Ha Jun; Set Decoration: Cho Won Woo,Parasite,Nominated
 682,2020,92nd,Short Film (Animated),Daria Kashcheeva,Dcera (Daughter),Nominated
 683,2020,92nd,Short Film (Animated),Matthew A. Cherry and Karen Rupert Toliver,Hair Love,Won
 684,2020,92nd,Short Film (Animated),Rosana Sullivan and Kathryn Hendrickson,Kitbull,Nominated
-685,2020,92nd,Short Film (Animated),Bruno Collet and Jean-Franaois Le Corre,Memorable,Nominated
+685,2020,92nd,Short Film (Animated),Bruno Collet and Jean-FranAois Le Corre,Memorable,Nominated
 686,2020,92nd,Short Film (Animated),Siqi Song,Sister,Nominated
 687,2020,92nd,Short Film (Live Action),Meryam Joobeur and Maria Gracia Turgeon,Brotherhood,Nominated
 688,2020,92nd,Short Film (Live Action),Yves Piat and Damien Megherbi,Nefta Football Club,Nominated
@@ -719,7 +719,7 @@
 717,2020,92nd,Jean Hersholt Humanitarian Award,Geena Davis,,Won
 718,2020,92nd,Honorary Award,David Lynch,,Won
 719,2020,92nd,Honorary Award,Wes Studi,,Won
-720,2020,92nd,Honorary Award,Lina Wertma14ller,,Won
+720,2020,92nd,Honorary Award,Lina WertmA14ller,,Won
 721,2019,91st,Actor In a Leading Role,Christian Bale,Vice,Nominated
 722,2019,91st,Actor In a Leading Role,Bradley Cooper,A Star Is Born,Nominated
 723,2019,91st,Actor In a Leading Role,Willem Dafoe,At Eternity's Gate,Nominated
@@ -748,7 +748,7 @@
 746,2019,91st,Cinematography,Lukasz Zal,Cold War,Nominated
 747,2019,91st,Cinematography,Robbie Ryan,The Favourite,Nominated
 748,2019,91st,Cinematography,Caleb Deschanel,Never Look Away,Nominated
-749,2019,91st,Cinematography,Alfonso Cuara3n,Roma,Won
+749,2019,91st,Cinematography,Alfonso CuarA3n,Roma,Won
 750,2019,91st,Cinematography,Matthew Libatique,A Star Is Born,Nominated
 751,2019,91st,Costume Design,Mary Zophres,The Ballad of Buster Scruggs,Nominated
 752,2019,91st,Costume Design,Ruth Carter,Black Panther,Won
@@ -758,7 +758,7 @@
 756,2019,91st,Directing,Spike Lee,BlacKkKlansman,Nominated
 757,2019,91st,Directing,Pawel Pawlikowski,Cold War,Nominated
 758,2019,91st,Directing,Yorgos Lanthimos,The Favourite,Nominated
-759,2019,91st,Directing,Alfonso Cuara3n,Roma,Won
+759,2019,91st,Directing,Alfonso CuarA3n,Roma,Won
 760,2019,91st,Directing,Adam McKay,Vice,Nominated
 761,2019,91st,Documentary (Feature),"Elizabeth Chai Vasarhelyi, Jimmy Chin, Evan Hayes and Shannon Dill",Free Solo,Won
 762,2019,91st,Documentary (Feature),"RaMell Ross, Joslyn Barnes and Su Kim","Hale County This Morning, This Evening",Nominated
@@ -780,7 +780,7 @@
 778,2019,91st,Foreign Language Film,Germany,Never Look Away,Nominated
 779,2019,91st,Foreign Language Film,Mexico,Roma,Won
 780,2019,91st,Foreign Language Film,Japan,Shoplifters,Nominated
-781,2019,91st,Makeup and Hairstyling,Garan Lundstram and Pamela Goldammer,Border,Nominated
+781,2019,91st,Makeup and Hairstyling,GAran LundstrAm and Pamela Goldammer,Border,Nominated
 782,2019,91st,Makeup and Hairstyling,"Jenny Shircore, Marc Pilcher and Jessica Brooks",Mary Queen of Scots,Nominated
 783,2019,91st,Makeup and Hairstyling,"Greg Cannom, Kate Biscoe and Patricia Dehaney",Vice,Won
 784,2019,91st,Music (Original Score),Ludwig Goransson,Black Panther,Won
@@ -798,33 +798,33 @@
 796,2019,91st,Best Picture,"Graham King, Producer",Bohemian Rhapsody,Nominated
 797,2019,91st,Best Picture,"Ceci Dempsey, Ed Guiney, Lee Magiday and Yorgos Lanthimos, Producers",The Favourite,Nominated
 798,2019,91st,Best Picture,"Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly and Nick Vallelonga, Producers",Green Book,Won
-799,2019,91st,Best Picture,"Gabriela Rodraguez and Alfonso Cuara3n, Producers",Roma,Nominated
+799,2019,91st,Best Picture,"Gabriela RodrAguez and Alfonso CuarA3n, Producers",Roma,Nominated
 800,2019,91st,Best Picture,"Bill Gerber, Bradley Cooper and Lynette Howell Taylor, Producers",A Star Is Born,Nominated
 801,2019,91st,Best Picture,"Dede Gardner, Jeremy Kleiner, Adam McKay and Kevin Messick, Producers",Vice,Nominated
 802,2019,91st,Production Design,Production Design: Hannah Beachler; Set Decoration: Jay Hart,Black Panther,Won
 803,2019,91st,Production Design,Production Design: Fiona Crombie; Set Decoration: Alice Felton,The Favourite,Nominated
 804,2019,91st,Production Design,Production Design: Nathan Crowley; Set Decoration: Kathy Lucas,First Man,Nominated
 805,2019,91st,Production Design,Production Design: John Myhre; Set Decoration: Gordon Sim,Mary Poppins Returns,Nominated
-806,2019,91st,Production Design,Production Design: Eugenio Caballero; Set Decoration: Barbara Enraquez,Roma,Nominated
+806,2019,91st,Production Design,Production Design: Eugenio Caballero; Set Decoration: BArbara EnrAquez,Roma,Nominated
 807,2019,91st,Short Film (Animated),Alison Snowden and David Fine,Animal Behaviour,Nominated
 808,2019,91st,Short Film (Animated),Domee Shi and Becky Neiman-Cobb,Bao,Won
-809,2019,91st,Short Film (Animated),Louise Bagnall and Nuria Gonzalez Blanco,Late Afternoon,Nominated
+809,2019,91st,Short Film (Animated),Louise Bagnall and Nuria GonzAlez Blanco,Late Afternoon,Nominated
 810,2019,91st,Short Film (Animated),Andrew Chesworth and Bobby Pontillas,One Small Step,Nominated
 811,2019,91st,Short Film (Animated),Trevor Jimenez,Weekends,Nominated
 812,2019,91st,Short Film (Live Action),Vincent Lambe and Darren Mahon,Detainment,Nominated
 813,2019,91st,Short Film (Live Action),Jeremy Comte and Maria Gracia Turgeon,Fauve,Nominated
-814,2019,91st,Short Film (Live Action),Marianne Farley and Marie-Hala ne Panisset,Marguerite,Nominated
-815,2019,91st,Short Film (Live Action),Rodrigo Sorogoyen and Maraa del Puy Alvarado,Mother,Nominated
+814,2019,91st,Short Film (Live Action),Marianne Farley and Marie-HAlA ne Panisset,Marguerite,Nominated
+815,2019,91st,Short Film (Live Action),Rodrigo Sorogoyen and MarAa del Puy Alvarado,Mother,Nominated
 816,2019,91st,Short Film (Live Action),Guy Nattiv and Jaime Ray Newman,Skin,Won
 817,2019,91st,Sound Editing,Benjamin A. Burtt and Steve Boeddeker,Black Panther,Nominated
 818,2019,91st,Sound Editing,John Warhurst and Nina Hartstone,Bohemian Rhapsody,Won
 819,2019,91st,Sound Editing,Ai-Ling Lee and Mildred Iatrou Morgan,First Man,Nominated
 820,2019,91st,Sound Editing,Ethan Van der Ryn and Erik Aadahl,A Quiet Place,Nominated
-821,2019,91st,Sound Editing,Sergio Daaz and Skip Lievsay,Roma,Nominated
+821,2019,91st,Sound Editing,Sergio DAaz and Skip Lievsay,Roma,Nominated
 822,2019,91st,Sound Mixing,"Steve Boeddeker, Brandon Proctor and Peter Devlin",Black Panther,Nominated
 823,2019,91st,Sound Mixing,"Paul Massey, Tim Cavagin and John Casali",Bohemian Rhapsody,Won
-824,2019,91st,Sound Mixing,"Jon Taylor, Frank A. Montaao, Ai-Ling Lee and Mary H. Ellis",First Man,Nominated
-825,2019,91st,Sound Mixing,"Skip Lievsay, Craig Henighan and Josa Antonio Garcaa",Roma,Nominated
+824,2019,91st,Sound Mixing,"Jon Taylor, Frank A. MontaAo, Ai-Ling Lee and Mary H. Ellis",First Man,Nominated
+825,2019,91st,Sound Mixing,"Skip Lievsay, Craig Henighan and JosA Antonio GarcAa",Roma,Nominated
 826,2019,91st,Sound Mixing,"Tom Ozanich, Dean Zupancic, Jason Ruder and Steve Morrow",A Star Is Born,Nominated
 827,2019,91st,Visual Effects,"Dan DeLeeuw, Kelly Port, Russell Earl and Dan Sudick",Avengers: Infinity War,Nominated
 828,2019,91st,Visual Effects,"Christopher Lawrence, Michael Eames, Theo Jones and Chris Corbould",Christopher Robin,Nominated
@@ -839,13 +839,13 @@
 837,2019,91st,Writing (Original Screenplay),Written by Deborah Davis and Tony McNamara,The Favourite,Nominated
 838,2019,91st,Writing (Original Screenplay),Written by Paul Schrader,First Reformed,Nominated
 839,2019,91st,Writing (Original Screenplay),"Written by Nick Vallelonga, Brian Currie, Peter Farrelly",Green Book,Won
-840,2019,91st,Writing (Original Screenplay),Written by Alfonso Cuaran,Roma,Nominated
+840,2019,91st,Writing (Original Screenplay),Written by Alfonso CuarA3n,Roma,Nominated
 841,2019,91st,Writing (Original Screenplay),Written by Adam McKay,Vice,Nominated
 842,2019,91st,Honorary Award,Marvin Levy,,Won
 843,2019,91st,Honorary Award,Lalo Schifrin,,Won
 844,2019,91st,Honorary Award,Cicely Tyson,,Won
 845,2019,91st,Irving G. Thalberg Memorial Award,Kathleen Kennedy and Frank Marshall,,Won
-846,2018,90th,Actor In a Leading Role,Timothae Chalamet,Call Me by Your Name,Nominated
+846,2018,90th,Actor In a Leading Role,TimothAe Chalamet,Call Me by Your Name,Nominated
 847,2018,90th,Actor In a Leading Role,Daniel Day-Lewis,Phantom Thread,Nominated
 848,2018,90th,Actor In a Leading Role,Daniel Kaluuya,Get Out,Nominated
 849,2018,90th,Actor In a Leading Role,Gary Oldman,Darkest Hour,Won
@@ -886,9 +886,9 @@
 884,2018,90th,Directing,Paul Thomas Anderson,Phantom Thread,Nominated
 885,2018,90th,Directing,Guillermo del Toro,The Shape of Water,Won
 886,2018,90th,Documentary (Feature),"Steve James, Mark Mitten and Julie Goldman",Abacus: Small Enough to Jail,Nominated
-887,2018,90th,Documentary (Feature),"Agna s Varda, JR and Rosalie Varda",Faces Places,Nominated
+887,2018,90th,Documentary (Feature),"AgnA s Varda, JR and Rosalie Varda",Faces Places,Nominated
 888,2018,90th,Documentary (Feature),Bryan Fogel and Dan Cogan,Icarus,Won
-889,2018,90th,Documentary (Feature),"Feras Fayyad, Kareem Abeed and Sa ren Steen Jespersen",Last Men in Aleppo,Nominated
+889,2018,90th,Documentary (Feature),"Feras Fayyad, Kareem Abeed and SA ren Steen Jespersen",Last Men in Aleppo,Nominated
 890,2018,90th,Documentary (Feature),Yance Ford and Joslyn Barnes,Strong Island,Nominated
 891,2018,90th,Documentary (Short Subject),Laura Checkoway and Thomas Lee Wright,Edith+Eddie,Nominated
 892,2018,90th,Documentary (Short Subject),Frank Stiefel,Heaven Is a Traffic Jam on the 405,Won
@@ -967,11 +967,11 @@
 965,2018,90th,Writing (Original Screenplay),Written by Greta Gerwig,Lady Bird,Nominated
 966,2018,90th,Writing (Original Screenplay),Screenplay by Guillermo del Toro & Vanessa Taylor; Story by Guillermo del Toro,The Shape of Water,Nominated
 967,2018,90th,Writing (Original Screenplay),Written by Martin McDonagh,"Three Billboards outside Ebbing, Missouri",Nominated
-968,2018,90th,Special Award,Alejandro G. Iaarritu's CARNE y ARENA virtual reality installation,,Won
+968,2018,90th,Special Award,Alejandro G. IAArritu's CARNE y ARENA virtual reality installation,,Won
 969,2018,90th,Honorary Award,Charles Burnett,,Won
 970,2018,90th,Honorary Award,Owen Roizman,,Won
 971,2018,90th,Honorary Award,Donald Sutherland for a lifetime of indelible characters,,Won
-972,2018,90th,Honorary Award,Agna s Varda,,Won
+972,2018,90th,Honorary Award,AgnA s Varda,,Won
 973,2017,89th,Actor In a Leading Role,Casey Affleck,Manchester by the Sea,Won
 974,2017,89th,Actor In a Leading Role,Andrew Garfield,Hacksaw Ridge,Nominated
 975,2017,89th,Actor In a Leading Role,Ryan Gosling,La La Land,Nominated
@@ -1013,7 +1013,7 @@
 1011,2017,89th,Directing,Kenneth Lonergan,Manchester by the Sea,Nominated
 1012,2017,89th,Directing,Barry Jenkins,Moonlight,Nominated
 1013,2017,89th,Documentary (Feature),Gianfranco Rosi and Donatella Palermo,Fire at Sea,Nominated
-1014,2017,89th,Documentary (Feature),"Raoul Peck, Rami Grellety and Habert Peck",I Am Not Your Negro,Nominated
+1014,2017,89th,Documentary (Feature),"Raoul Peck, RAmi Grellety and HAbert Peck",I Am Not Your Negro,Nominated
 1015,2017,89th,Documentary (Feature),Roger Ross Williams and Julie Goldman,"Life, Animated",Nominated
 1016,2017,89th,Documentary (Feature),Ezra Edelman and Caroline Waterlow,O.J.: Made in America,Won
 1017,2017,89th,Documentary (Feature),"Ava DuVernay, Spencer Averick and Howard Barish",13th,Nominated
@@ -1064,17 +1064,17 @@
 1062,2017,89th,Short Film (Animated),Robert Valley and Cara Speller,Pear Cider and Cigarettes,Nominated
 1063,2017,89th,Short Film (Animated),Patrick Osborne,Pearl,Nominated
 1064,2017,89th,Short Film (Animated),Alan Barillaro and Marc Sondheimer,Piper,Won
-1065,2017,89th,Short Film (Live Action),Salim Azzazi,Ennemis Intarieurs,Nominated
+1065,2017,89th,Short Film (Live Action),SAlim Azzazi,Ennemis IntArieurs,Nominated
 1066,2017,89th,Short Film (Live Action),Timo von Gunten and Giacun Caduff,La Femme et le TGV,Nominated
 1067,2017,89th,Short Film (Live Action),Aske Bang and Kim Magnusson,Silent Nights,Nominated
-1068,2017,89th,Short Film (Live Action),Kristof Deak and Anna Udvardy,Sing,Won
-1069,2017,89th,Short Film (Live Action),Juanjo Gimanez,Timecode,Nominated
+1068,2017,89th,Short Film (Live Action),Kristof DeAk and Anna Udvardy,Sing,Won
+1069,2017,89th,Short Film (Live Action),Juanjo GimAnez,Timecode,Nominated
 1070,2017,89th,Sound Editing,Sylvain Bellemare,Arrival,Won
-1071,2017,89th,Sound Editing,Wylie Stateman and Renae Tondelli,Deepwater Horizon,Nominated
+1071,2017,89th,Sound Editing,Wylie Stateman and RenAe Tondelli,Deepwater Horizon,Nominated
 1072,2017,89th,Sound Editing,Robert Mackenzie and Andy Wright,Hacksaw Ridge,Nominated
 1073,2017,89th,Sound Editing,Ai-Ling Lee and Mildred Iatrou Morgan,La La Land,Nominated
 1074,2017,89th,Sound Editing,Alan Robert Murray and Bub Asman,Sully,Nominated
-1075,2017,89th,Sound Mixing,Bernard Gariapy Strobl and Claude La Haye,Arrival,Nominated
+1075,2017,89th,Sound Mixing,Bernard GariApy Strobl and Claude La Haye,Arrival,Nominated
 1076,2017,89th,Sound Mixing,"Kevin O'Connell, Andy Wright, Robert Mackenzie and Peter Grace",Hacksaw Ridge,Won
 1077,2017,89th,Sound Mixing,"Andy Nelson, Ai-Ling Lee and Steve A. Morrow",La La Land,Nominated
 1078,2017,89th,Sound Mixing,"David Parker, Christopher Scarabosio and Stuart Wilson",Rogue One: A Star Wars Story,Nominated
@@ -1119,7 +1119,7 @@
 1117,2016,88th,Actress In a Supporting Role,Alicia Vikander,The Danish Girl,Won
 1118,2016,88th,Actress In a Supporting Role,Kate Winslet,Steve Jobs,Nominated
 1119,2016,88th,Animated Feature Film,"Charlie Kaufman, Duke Johnson and Rosa Tran",Anomalisa,Nominated
-1120,2016,88th,Animated Feature Film,Alaa Abreu,Boy and the World,Nominated
+1120,2016,88th,Animated Feature Film,AlAa Abreu,Boy and the World,Nominated
 1121,2016,88th,Animated Feature Film,Pete Docter and Jonas Rivera,Inside Out,Won
 1122,2016,88th,Animated Feature Film,Mark Burton and Richard Starzak,Shaun the Sheep Movie,Nominated
 1123,2016,88th,Animated Feature Film,Hiromasa Yonebayashi and Yoshiaki Nishimura,When Marnie Was There,Nominated
@@ -1135,12 +1135,12 @@
 1133,2016,88th,Costume Design,Jacqueline West,The Revenant,Nominated
 1134,2016,88th,Directing,Adam McKay,The Big Short,Nominated
 1135,2016,88th,Directing,George Miller,Mad Max: Fury Road,Nominated
-1136,2016,88th,Directing,Alejandro G. Iaarritu,The Revenant,Won
+1136,2016,88th,Directing,Alejandro G. IAArritu,The Revenant,Won
 1137,2016,88th,Directing,Lenny Abrahamson,Room,Nominated
 1138,2016,88th,Directing,Tom McCarthy,Spotlight,Nominated
 1139,2016,88th,Documentary (Feature),Asif Kapadia and James Gay-Rees,Amy,Won
 1140,2016,88th,Documentary (Feature),Matthew Heineman and Tom Yellin,Cartel Land,Nominated
-1141,2016,88th,Documentary (Feature),Joshua Oppenheimer and Signe Byrge Sa rensen,The Look of Silence,Nominated
+1141,2016,88th,Documentary (Feature),Joshua Oppenheimer and Signe Byrge SA rensen,The Look of Silence,Nominated
 1142,2016,88th,Documentary (Feature),"Liz Garbus, Amy Hobby and Justin Wilkes","What Happened, Miss Simone?",Nominated
 1143,2016,88th,Documentary (Feature),Evgeny Afineevsky and Den Tolmor,Winter on Fire: Ukraine's Fight for Freedom,Nominated
 1144,2016,88th,Documentary (Short Subject),David Darg and Bryn Mooser,Body Team 12,Nominated
@@ -1160,11 +1160,11 @@
 1158,2016,88th,Foreign Language Film,Denmark,A War,Nominated
 1159,2016,88th,Makeup and Hairstyling,"Lesley Vanderwalt, Elka Wardega and Damian Martin",Mad Max: Fury Road,Won
 1160,2016,88th,Makeup and Hairstyling,Love Larson and Eva von Bahr,The 100-Year-Old Man Who Climbed out the Window and Disappeared,Nominated
-1161,2016,88th,Makeup and Hairstyling,"Siacn Grigg, Duncan Jarman and Robert Pandini",The Revenant,Nominated
+1161,2016,88th,Makeup and Hairstyling,"SiAn Grigg, Duncan Jarman and Robert Pandini",The Revenant,Nominated
 1162,2016,88th,Music (Original Score),Thomas Newman,Bridge of Spies,Nominated
 1163,2016,88th,Music (Original Score),Carter Burwell,Carol,Nominated
 1164,2016,88th,Music (Original Score),Ennio Morricone,The Hateful Eight,Won
-1165,2016,88th,Music (Original Score),Ja3hann Ja3hannsson,Sicario,Nominated
+1165,2016,88th,Music (Original Score),JA3hann JA3hannsson,Sicario,Nominated
 1166,2016,88th,Music (Original Score),John Williams,Star Wars: The Force Awakens,Nominated
 1167,2016,88th,Music (Original Song),"Music and Lyric by The Weeknd, Ahmad Balshe, Jason Quenneville and Stephan Moccio",Fifty Shades of Grey,Nominated
 1168,2016,88th,Music (Original Song),Music by J. Ralph; Lyric by Anohni,Racing Extinction,Nominated
@@ -1176,7 +1176,7 @@
 1174,2016,88th,Best Picture,"Finola Dwyer and Amanda Posey, Producers",Brooklyn,Nominated
 1175,2016,88th,Best Picture,"Doug Mitchell and George Miller, Producers",Mad Max: Fury Road,Nominated
 1176,2016,88th,Best Picture,"Simon Kinberg, Ridley Scott, Michael Schaefer and Mark Huffam, Producers",The Martian,Nominated
-1177,2016,88th,Best Picture,"Arnon Milchan, Steve Golin, Alejandro G. Iaarritu, Mary Parent and Keith Redmon, Producers",The Revenant,Nominated
+1177,2016,88th,Best Picture,"Arnon Milchan, Steve Golin, Alejandro G. IAArritu, Mary Parent and Keith Redmon, Producers",The Revenant,Nominated
 1178,2016,88th,Best Picture,"Ed Guiney, Producer",Room,Nominated
 1179,2016,88th,Best Picture,"Michael Sugar, Steve Golin, Nicole Rocklin and Blye Pagon Faust, Producers",Spotlight,Won
 1180,2016,88th,Production Design,Production Design: Adam Stockhausen; Set Decoration: Rena DeAngelo and Bernhard Henrich,Bridge of Spies,Nominated
@@ -1202,7 +1202,7 @@
 1200,2016,88th,Sound Mixing,"Andy Nelson, Gary Rydstrom and Drew Kunin",Bridge of Spies,Nominated
 1201,2016,88th,Sound Mixing,"Chris Jenkins, Gregg Rudloff and Ben Osmo",Mad Max: Fury Road,Won
 1202,2016,88th,Sound Mixing,"Paul Massey, Mark Taylor and Mac Ruth",The Martian,Nominated
-1203,2016,88th,Sound Mixing,"Jon Taylor, Frank A. Montaao, Randy Thom and Chris Duesterdiek",The Revenant,Nominated
+1203,2016,88th,Sound Mixing,"Jon Taylor, Frank A. MontaAo, Randy Thom and Chris Duesterdiek",The Revenant,Nominated
 1204,2016,88th,Sound Mixing,"Andy Nelson, Christopher Scarabosio and Stuart Wilson",Star Wars: The Force Awakens,Nominated
 1205,2016,88th,Visual Effects,"Andrew Whitehurst, Paul Norris, Mark Ardington and Sara Bennett",Ex Machina,Won
 1206,2016,88th,Visual Effects,"Andrew Jackson, Tom Wood, Dan Oliver and Andy Williams",Mad Max: Fury Road,Nominated
@@ -1257,7 +1257,7 @@
 1255,2015,87th,Costume Design,Colleen Atwood,Into the Woods,Nominated
 1256,2015,87th,Costume Design,Anna B. Sheppard,Maleficent,Nominated
 1257,2015,87th,Costume Design,Jacqueline Durran,Mr. Turner,Nominated
-1258,2015,87th,Directing,Alejandro G. Iaairritu,Birdman or (The Unexpected Virtue of Ignorance),Won
+1258,2015,87th,Directing,Alejandro G. IAArritu,Birdman or (The Unexpected Virtue of Ignorance),Won
 1259,2015,87th,Directing,Richard Linklater,Boyhood,Nominated
 1260,2015,87th,Directing,Bennett Miller,Foxcatcher,Nominated
 1261,2015,87th,Directing,Wes Anderson,The Grand Budapest Hotel,Nominated
@@ -1289,14 +1289,14 @@
 1287,2015,87th,Music (Original Score),Alexandre Desplat,The Imitation Game,Nominated
 1288,2015,87th,Music (Original Score),Hans Zimmer,Interstellar,Nominated
 1289,2015,87th,Music (Original Score),Gary Yershon,Mr. Turner,Nominated
-1290,2015,87th,Music (Original Score),Ja3hann Ja3hannsson,The Theory of Everything,Nominated
+1290,2015,87th,Music (Original Score),JA3hann JA3hannsson,The Theory of Everything,Nominated
 1291,2015,87th,Music (Original Song),Music and Lyric by Shawn Patterson,The Lego Movie,Nominated
 1292,2015,87th,Music (Original Song),Music and Lyric by John Stephens and Lonnie Lynn,Selma,Won
 1293,2015,87th,Music (Original Song),Music and Lyric by Diane Warren,Beyond the Lights,Nominated
 1294,2015,87th,Music (Original Song),Music and Lyric by Glen Campbell and Julian Raymond,Glen Campbell...I'll Be Me,Nominated
 1295,2015,87th,Music (Original Song),Music and Lyric by Gregg Alexander and Danielle Brisebois,Begin Again,Nominated
 1296,2015,87th,Best Picture,"Clint Eastwood, Robert Lorenz, Andrew Lazar, Bradley Cooper and Peter Morgan, Producers",American Sniper,Nominated
-1297,2015,87th,Best Picture,"Alejandro G. Iaarritu, John Lesher and James W. Skotchdopole, Producers",Birdman or (The Unexpected Virtue of Ignorance),Won
+1297,2015,87th,Best Picture,"Alejandro G. IAArritu, John Lesher and James W. Skotchdopole, Producers",Birdman or (The Unexpected Virtue of Ignorance),Won
 1298,2015,87th,Best Picture,"Richard Linklater and Cathleen Sutherland, Producers",Boyhood,Nominated
 1299,2015,87th,Best Picture,"Wes Anderson, Scott Rudin, Steven Rales and Jeremy Dawson, Producers",The Grand Budapest Hotel,Nominated
 1300,2015,87th,Best Picture,"Nora Grossman, Ido Ostrowsky and Teddy Schwarzman, Producers",The Imitation Game,Nominated
@@ -1315,18 +1315,18 @@
 1313,2015,87th,Short Film (Animated),Joris Oprins,A Single Life,Nominated
 1314,2015,87th,Short Film (Live Action),Oded Binnun and Mihal Brezis,Aya,Nominated
 1315,2015,87th,Short Film (Live Action),Michael Lennox and Ronan Blaney,Boogaloo and Graham,Nominated
-1316,2015,87th,Short Film (Live Action),Hu Wei and Julien Faret,Butter Lamp (La Lampe Au Beurre De Yak),Nominated
+1316,2015,87th,Short Film (Live Action),Hu Wei and Julien FAret,Butter Lamp (La Lampe Au Beurre De Yak),Nominated
 1317,2015,87th,Short Film (Live Action),Talkhon Hamzavi and Stefan Eichenberger,Parvaneh,Nominated
 1318,2015,87th,Short Film (Live Action),Mat Kirkby and James Lucas,The Phone Call,Won
 1319,2015,87th,Sound Editing,Alan Robert Murray and Bub Asman,American Sniper,Won
-1320,2015,87th,Sound Editing,Martan Hernandez and Aaron Glascock,Birdman or (The Unexpected Virtue of Ignorance),Nominated
+1320,2015,87th,Sound Editing,MartAn HernAndez and Aaron Glascock,Birdman or (The Unexpected Virtue of Ignorance),Nominated
 1321,2015,87th,Sound Editing,Brent Burge and Jason Canovas,The Hobbit: The Battle of the Five Armies,Nominated
 1322,2015,87th,Sound Editing,Richard King,Interstellar,Nominated
 1323,2015,87th,Sound Editing,Becky Sullivan and Andrew DeCristofaro,Unbroken,Nominated
 1324,2015,87th,Sound Mixing,"John Reitz, Gregg Rudloff and Walt Martin",American Sniper,Nominated
-1325,2015,87th,Sound Mixing,"Jon Taylor, Frank A. Montaao and Thomas Varga",Birdman or (The Unexpected Virtue of Ignorance),Nominated
+1325,2015,87th,Sound Mixing,"Jon Taylor, Frank A. MontaAo and Thomas Varga",Birdman or (The Unexpected Virtue of Ignorance),Nominated
 1326,2015,87th,Sound Mixing,"Gary A. Rizzo, Gregg Landaker and Mark Weingarten",Interstellar,Nominated
-1327,2015,87th,Sound Mixing,"Jon Taylor, Frank A. Montaao and David Lee",Unbroken,Nominated
+1327,2015,87th,Sound Mixing,"Jon Taylor, Frank A. MontaAo and David Lee",Unbroken,Nominated
 1328,2015,87th,Sound Mixing,"Craig Mann, Ben Wilkins and Thomas Curley",Whiplash,Won
 1329,2015,87th,Visual Effects,"Dan DeLeeuw, Russell Earl, Bryan Grill and Dan Sudick",Captain America: The Winter Soldier,Nominated
 1330,2015,87th,Visual Effects,"Joe Letteri, Dan Lemmon, Daniel Barrett and Erik Winquist",Dawn of the Planet of the Apes,Nominated
@@ -1338,13 +1338,13 @@
 1336,2015,87th,Writing (Adapted Screenplay),Written for the screen by Paul Thomas Anderson,Inherent Vice,Nominated
 1337,2015,87th,Writing (Adapted Screenplay),Screenplay by Anthony McCarten,The Theory of Everything,Nominated
 1338,2015,87th,Writing (Adapted Screenplay),Written by Damien Chazelle,Whiplash,Nominated
-1339,2015,87th,Writing (Original Screenplay),"Written by Alejandro G. Iaarritu, Nicolas Giacobone, Alexander Dinelaris, Jr. & Armando Bo",Birdman or (The Unexpected Virtue of Ignorance),Won
+1339,2015,87th,Writing (Original Screenplay),"Written by Alejandro G. IAArritu, NicolAs Giacobone, Alexander Dinelaris, Jr. & Armando Bo",Birdman or (The Unexpected Virtue of Ignorance),Won
 1340,2015,87th,Writing (Original Screenplay),Written by Richard Linklater,Boyhood,Nominated
 1341,2015,87th,Writing (Original Screenplay),Written by E. Max Frye and Dan Futterman,Foxcatcher,Nominated
 1342,2015,87th,Writing (Original Screenplay),Screenplay by Wes Anderson; Story by Wes Anderson & Hugo Guinness,The Grand Budapest Hotel,Nominated
 1343,2015,87th,Writing (Original Screenplay),Written by Dan Gilroy,Nightcrawler,Nominated
 1344,2015,87th,Jean Hersholt Humanitarian Award,Harry Belafonte,,Won
-1345,2015,87th,Honorary Award,Jean-Claude Carria re,,Won
+1345,2015,87th,Honorary Award,Jean-Claude CarriA re,,Won
 1346,2015,87th,Honorary Award,Hayao Miyazaki,,Won
 1347,2015,87th,Honorary Award,Maureen O'Hara,,Won
 1348,2014,86th,Actor In a Leading Role,Christian Bale,American Hustle,Nominated
@@ -1383,11 +1383,11 @@
 1381,2014,86th,Costume Design,Michael O'Connor,The Invisible Woman,Nominated
 1382,2014,86th,Costume Design,Patricia Norris,12 Years a Slave,Nominated
 1383,2014,86th,Directing,David O. Russell,American Hustle,Nominated
-1384,2014,86th,Directing,Alfonso Cuara3n,Gravity,Won
+1384,2014,86th,Directing,Alfonso CuarA3n,Gravity,Won
 1385,2014,86th,Directing,Alexander Payne,Nebraska,Nominated
 1386,2014,86th,Directing,Steve McQueen,12 Years a Slave,Nominated
 1387,2014,86th,Directing,Martin Scorsese,The Wolf of Wall Street,Nominated
-1388,2014,86th,Documentary (Feature),Joshua Oppenheimer and Signe Byrge Sa rensen,The Act of Killing,Nominated
+1388,2014,86th,Documentary (Feature),Joshua Oppenheimer and Signe Byrge SA rensen,The Act of Killing,Nominated
 1389,2014,86th,Documentary (Feature),Zachary Heinzerling and Lydia Dean Pilcher,Cutie and the Boxer,Nominated
 1390,2014,86th,Documentary (Feature),Richard Rowley and Jeremy Scahill,Dirty Wars,Nominated
 1391,2014,86th,Documentary (Feature),Jehane Noujaim and Karim Amer,The Square,Nominated
@@ -1400,7 +1400,7 @@
 1398,2014,86th,Film Editing,"Jay Cassidy, Crispin Struthers and Alan Baumgarten",American Hustle,Nominated
 1399,2014,86th,Film Editing,Christopher Rouse,Captain Phillips,Nominated
 1400,2014,86th,Film Editing,John Mac McMurphy and Martin Pensa,Dallas Buyers Club,Nominated
-1401,2014,86th,Film Editing,Alfonso Cuara3n and Mark Sanger,Gravity,Won
+1401,2014,86th,Film Editing,Alfonso CuarA3n and Mark Sanger,Gravity,Won
 1402,2014,86th,Film Editing,Joe Walker,12 Years a Slave,Nominated
 1403,2014,86th,Foreign Language Film,Belgium,The Broken Circle Breakdown,Nominated
 1404,2014,86th,Foreign Language Film,Italy,The Great Beauty,Won
@@ -1423,7 +1423,7 @@
 1421,2014,86th,Best Picture,"Charles Roven, Richard Suckle, Megan Ellison and Jonathan Gordon, Producers",American Hustle,Nominated
 1422,2014,86th,Best Picture,"Scott Rudin, Dana Brunetti and Michael De Luca, Producers",Captain Phillips,Nominated
 1423,2014,86th,Best Picture,"Robbie Brenner and Rachel Winter, Producers",Dallas Buyers Club,Nominated
-1424,2014,86th,Best Picture,"Alfonso Cuara3n and David Heyman, Producers",Gravity,Nominated
+1424,2014,86th,Best Picture,"Alfonso CuarA3n and David Heyman, Producers",Gravity,Nominated
 1425,2014,86th,Best Picture,"Megan Ellison, Spike Jonze and Vincent Landay, Producers",Her,Nominated
 1426,2014,86th,Best Picture,"Albert Berger and Ron Yerxa, Producers",Nebraska,Nominated
 1427,2014,86th,Best Picture,"Gabrielle Tana, Steve Coogan and Tracey Seaward, Producers",Philomena,Nominated
@@ -1442,7 +1442,7 @@
 1440,2014,86th,Short Film (Live Action),Esteban Crespo,Aquel No Era Yo (That Wasn't Me),Nominated
 1441,2014,86th,Short Film (Live Action),Xavier Legrand and Alexandre Gavras,Avant Que De Tout Perdre (Just before Losing Everything),Nominated
 1442,2014,86th,Short Film (Live Action),Anders Walter and Kim Magnusson,Helium,Won
-1443,2014,86th,Short Film (Live Action),Selma Vilhunen and Kirsikka Saari,Pitaaka Mun Kaikki Hoitaa? (Do I Have to Take Care of Everything?),Nominated
+1443,2014,86th,Short Film (Live Action),Selma Vilhunen and Kirsikka Saari,PitAAkA Mun Kaikki Hoitaa? (Do I Have to Take Care of Everything?),Nominated
 1444,2014,86th,Short Film (Live Action),Mark Gill and Baldwin Li,The Voorman Problem,Nominated
 1445,2014,86th,Sound Editing,Steve Boeddeker and Richard Hymns,All Is Lost,Nominated
 1446,2014,86th,Sound Editing,Oliver Tarney,Captain Phillips,Nominated
@@ -1475,7 +1475,7 @@
 1473,2014,86th,Honorary Award,Piero si,,Won
 1474,2013,85th,Actor In a Leading Role,Bradley Cooper,Silver Linings Playbook,Nominated
 1475,2013,85th,Actor In a Leading Role,Daniel Day-Lewis,Lincoln,Won
-1476,2013,85th,Actor In a Leading Role,Hugh Jackman,Les Misarables,Nominated
+1476,2013,85th,Actor In a Leading Role,Hugh Jackman,Les MisArables,Nominated
 1477,2013,85th,Actor In a Leading Role,Joaquin Phoenix,The Master,Nominated
 1478,2013,85th,Actor In a Leading Role,Denzel Washington,Flight,Nominated
 1479,2013,85th,Actor In a Supporting Role,Alan Arkin,Argo,Nominated
@@ -1486,11 +1486,11 @@
 1484,2013,85th,Actress In a Leading Role,Jessica Chastain,Zero Dark Thirty,Nominated
 1485,2013,85th,Actress In a Leading Role,Jennifer Lawrence,Silver Linings Playbook,Won
 1486,2013,85th,Actress In a Leading Role,Emmanuelle Riva,Amour,Nominated
-1487,2013,85th,Actress In a Leading Role,Quvenzhana Wallis,Beasts of the Southern Wild,Nominated
+1487,2013,85th,Actress In a Leading Role,QuvenzhanA Wallis,Beasts of the Southern Wild,Nominated
 1488,2013,85th,Actress In a Leading Role,Naomi Watts,The Impossible,Nominated
 1489,2013,85th,Actress In a Supporting Role,Amy Adams,The Master,Nominated
 1490,2013,85th,Actress In a Supporting Role,Sally Field,Lincoln,Nominated
-1491,2013,85th,Actress In a Supporting Role,Anne Hathaway,Les Misarables,Won
+1491,2013,85th,Actress In a Supporting Role,Anne Hathaway,Les MisArables,Won
 1492,2013,85th,Actress In a Supporting Role,Helen Hunt,The Sessions,Nominated
 1493,2013,85th,Actress In a Supporting Role,Jacki Weaver,Silver Linings Playbook,Nominated
 1494,2013,85th,Animated Feature Film,Mark Andrews and Brenda Chapman,Brave,Won
@@ -1504,7 +1504,7 @@
 1502,2013,85th,Cinematography,Janusz Kaminski,Lincoln,Nominated
 1503,2013,85th,Cinematography,Roger Deakins,Skyfall,Nominated
 1504,2013,85th,Costume Design,Jacqueline Durran,Anna Karenina,Won
-1505,2013,85th,Costume Design,Paco Delgado,Les Misarables,Nominated
+1505,2013,85th,Costume Design,Paco Delgado,Les MisArables,Nominated
 1506,2013,85th,Costume Design,Joanna Johnston,Lincoln,Nominated
 1507,2013,85th,Costume Design,Eiko Ishioka,Mirror Mirror,Nominated
 1508,2013,85th,Costume Design,Colleen Atwood,Snow White and the Huntsman,Nominated
@@ -1535,7 +1535,7 @@
 1533,2013,85th,Foreign Language Film,Canada,War Witch,Nominated
 1534,2013,85th,Makeup and Hairstyling,"Howard Berger, Peter Montagna and Martin Samuel",Hitchcock,Nominated
 1535,2013,85th,Makeup and Hairstyling,"Peter Swords King, Rick Findlater and Tami Lane",The Hobbit: An Unexpected Journey,Nominated
-1536,2013,85th,Makeup and Hairstyling,Lisa Westcott and Julie Dartnell,Les Misarables,Won
+1536,2013,85th,Makeup and Hairstyling,Lisa Westcott and Julie Dartnell,Les MisArables,Won
 1537,2013,85th,Music (Original Score),Dario Marianelli,Anna Karenina,Nominated
 1538,2013,85th,Music (Original Score),Alexandre Desplat,Argo,Nominated
 1539,2013,85th,Music (Original Score),Mychael Danna,Life of Pi,Won
@@ -1545,19 +1545,19 @@
 1543,2013,85th,Music (Original Song),Music by Walter Murphy; Lyric by Seth MacFarlane,Ted,Nominated
 1544,2013,85th,Music (Original Song),Music by Mychael Danna; Lyric by Bombay Jayashri,Life of Pi,Nominated
 1545,2013,85th,Music (Original Song),Music and Lyric by Adele Adkins and Paul Epworth,Skyfall,Won
-1546,2013,85th,Music (Original Song),Music by Claude-Michel Schanberg; Lyric by Herbert Kretzmer and Alain Boublil,Les Misarables,Nominated
+1546,2013,85th,Music (Original Song),Music by Claude-Michel SchAnberg; Lyric by Herbert Kretzmer and Alain Boublil,Les MisArables,Nominated
 1547,2013,85th,Best Picture,"Margaret Menegoz, Stefan Arndt, Veit Heiduschka and Michael Katz, Producers",Amour,Nominated
 1548,2013,85th,Best Picture,"Grant Heslov, Ben Affleck and George Clooney, Producers",Argo,Won
 1549,2013,85th,Best Picture,"Dan Janvey, Josh Penn and Michael Gottwald, Producers",Beasts of the Southern Wild,Nominated
 1550,2013,85th,Best Picture,"Stacey Sher, Reginald Hudlin and Pilar Savone, Producers",Django Unchained,Nominated
-1551,2013,85th,Best Picture,"Tim Bevan, Eric Fellner, Debra Hayward and Cameron Mackintosh, Producers",Les Misarables,Nominated
+1551,2013,85th,Best Picture,"Tim Bevan, Eric Fellner, Debra Hayward and Cameron Mackintosh, Producers",Les MisArables,Nominated
 1552,2013,85th,Best Picture,"Gil Netter, Ang Lee and David Womark, Producers",Life of Pi,Nominated
 1553,2013,85th,Best Picture,"Steven Spielberg and Kathleen Kennedy, Producers",Lincoln,Nominated
 1554,2013,85th,Best Picture,"Donna Gigliotti, Bruce Cohen and Jonathan Gordon, Producers",Silver Linings Playbook,Nominated
 1555,2013,85th,Best Picture,"Mark Boal, Kathryn Bigelow and Megan Ellison, Producers",Zero Dark Thirty,Nominated
 1556,2013,85th,Production Design,Production Design: Sarah Greenwood; Set Decoration: Katie Spencer,Anna Karenina,Nominated
 1557,2013,85th,Production Design,Production Design: Dan Hennah; Set Decoration: Ra Vincent and Simon Bright,The Hobbit: An Unexpected Journey,Nominated
-1558,2013,85th,Production Design,Production Design: Eve Stewart; Set Decoration: Anna Lynch-Robinson,Les Misarables,Nominated
+1558,2013,85th,Production Design,Production Design: Eve Stewart; Set Decoration: Anna Lynch-Robinson,Les MisArables,Nominated
 1559,2013,85th,Production Design,Production Design: David Gropman; Set Decoration: Anna Pinnock,Life of Pi,Nominated
 1560,2013,85th,Production Design,Production Design: Rick Carter; Set Decoration: Jim Erickson,Lincoln,Won
 1561,2013,85th,Short Film (Animated),Minkyu Lee,Adam and Dog,Nominated
@@ -1576,7 +1576,7 @@
 1574,2013,85th,Sound Editing,Per Hallberg and Karen Baker Landers,Skyfall,Won
 1575,2013,85th,Sound Editing,Paul N.J. Ottosson,Zero Dark Thirty,Won
 1576,2013,85th,Sound Mixing,"John Reitz, Gregg Rudloff and Jose Antonio Garcia",Argo,Nominated
-1577,2013,85th,Sound Mixing,"Andy Nelson, Mark Paterson and Simon Hayes",Les Misarables,Won
+1577,2013,85th,Sound Mixing,"Andy Nelson, Mark Paterson and Simon Hayes",Les MisArables,Won
 1578,2013,85th,Sound Mixing,"Ron Bartlett, D.M. Hemphill and Drew Kunin",Life of Pi,Nominated
 1579,2013,85th,Sound Mixing,"Andy Nelson, Gary Rydstrom and Ronald Judkins",Lincoln,Nominated
 1580,2013,85th,Sound Mixing,"Scott Millan, Greg P. Russell and Stuart Wilson",Skyfall,Nominated
@@ -1599,7 +1599,7 @@
 1597,2013,85th,Honorary Award,Hal Needham,,Won
 1598,2013,85th,Honorary Award,D.A. Pennebaker,,Won
 1599,2013,85th,Honorary Award,George Stevens,,Won
-1600,2012,84th,Actor In a Leading Role,Demian Bichir,A Better Life,Nominated
+1600,2012,84th,Actor In a Leading Role,DemiAn Bichir,A Better Life,Nominated
 1601,2012,84th,Actor In a Leading Role,George Clooney,The Descendants,Nominated
 1602,2012,84th,Actor In a Leading Role,Jean Dujardin,The Artist,Won
 1603,2012,84th,Actor In a Leading Role,Gary Oldman,Tinker Tailor Soldier Spy,Nominated
@@ -1614,7 +1614,7 @@
 1612,2012,84th,Actress In a Leading Role,Rooney Mara,The Girl with the Dragon Tattoo,Nominated
 1613,2012,84th,Actress In a Leading Role,Meryl Streep,The Iron Lady,Won
 1614,2012,84th,Actress In a Leading Role,Michelle Williams,My Week with Marilyn,Nominated
-1615,2012,84th,Actress In a Supporting Role,Baranice Bejo,The Artist,Nominated
+1615,2012,84th,Actress In a Supporting Role,BArAnice Bejo,The Artist,Nominated
 1616,2012,84th,Actress In a Supporting Role,Jessica Chastain,The Help,Nominated
 1617,2012,84th,Actress In a Supporting Role,Melissa McCarthy,Bridesmaids,Nominated
 1618,2012,84th,Actress In a Supporting Role,Janet McTeer,Albert Nobbs,Nominated
@@ -1627,7 +1627,7 @@
 1625,2012,84th,Art Direction,Production Design: Laurence Bennett; Set Decoration: Robert Gould,The Artist,Nominated
 1626,2012,84th,Art Direction,Production Design: Stuart Craig; Set Decoration: Stephenie McMillan,Harry Potter and the Deathly Hallows Part 2,Nominated
 1627,2012,84th,Art Direction,Production Design: Dante Ferretti; Set Decoration: Francesca Lo Schiavo,Hugo,Won
-1628,2012,84th,Art Direction,Production Design: Anne Seibel; Set Decoration: Hala ne Dubreuil,Midnight in Paris,Nominated
+1628,2012,84th,Art Direction,Production Design: Anne Seibel; Set Decoration: HAlA ne Dubreuil,Midnight in Paris,Nominated
 1629,2012,84th,Art Direction,Production Design: Rick Carter; Set Decoration: Lee Sandales,War Horse,Nominated
 1630,2012,84th,Cinematography,Guillaume Schiffman,The Artist,Nominated
 1631,2012,84th,Cinematography,Jeff Cronenweth,The Girl with the Dragon Tattoo,Nominated
@@ -1689,10 +1689,10 @@
 1687,2012,84th,Short Film (Animated),Grant Orchard and Sue Goffe,A Morning Stroll,Nominated
 1688,2012,84th,Short Film (Animated),Amanda Forbis and Wendy Tilby,Wild Life,Nominated
 1689,2012,84th,Short Film (Live Action),Peter McDonald and Eimear O'Kane,Pentecost,Nominated
-1690,2012,84th,Short Film (Live Action),Max Zahle and Stefan Gieren,Raju,Nominated
+1690,2012,84th,Short Film (Live Action),Max ZAhle and Stefan Gieren,Raju,Nominated
 1691,2012,84th,Short Film (Live Action),Terry George and Oorlagh George,The Shore,Won
 1692,2012,84th,Short Film (Live Action),Andrew Bowler and Gigi Causey,Time Freak,Nominated
-1693,2012,84th,Short Film (Live Action),Hallvar Witza,Tuba Atlantic,Nominated
+1693,2012,84th,Short Film (Live Action),Hallvar WitzA,Tuba Atlantic,Nominated
 1694,2012,84th,Sound Editing,Lon Bender and Victor Ray Ennis,Drive,Nominated
 1695,2012,84th,Sound Editing,Ren Klyce,The Girl with the Dragon Tattoo,Nominated
 1696,2012,84th,Sound Editing,Philip Stockton and Eugene Gearty,Hugo,Won
@@ -1802,7 +1802,7 @@
 1800,2011,83rd,Best Picture,"Gary Gilbert, Jeffrey Levy-Hinte and Celine Rattray, Producers",The Kids Are All Right,Nominated
 1801,2011,83rd,Best Picture,"Iain Canning, Emile Sherman and Gareth Unwin, Producers",The King's Speech,Won
 1802,2011,83rd,Best Picture,"Christian Colson, Danny Boyle and John Smithson, Producers",127 Hours,Nominated
-1803,2011,83rd,Best Picture,"Scott Rudin, Dana Brunetti, Michael De Luca and Cean Chaffin, Producers",The Social Network,Nominated
+1803,2011,83rd,Best Picture,"Scott Rudin, Dana Brunetti, Michael De Luca and CeAn Chaffin, Producers",The Social Network,Nominated
 1804,2011,83rd,Best Picture,"Darla K. Anderson, Producer",Toy Story 3,Nominated
 1805,2011,83rd,Best Picture,"Scott Rudin, Ethan Coen and Joel Coen, Producers",True Grit,Nominated
 1806,2011,83rd,Best Picture,"Anne Rosellini and Alix Madigan-Yorkin, Producers",Winter's Bone,Nominated
@@ -1860,7 +1860,7 @@
 1858,2010,82nd,Actress In a Leading Role,Carey Mulligan,An Education,Nominated
 1859,2010,82nd,Actress In a Leading Role,Gabourey Sidibe,Precious: Based on the Novel 'Push' by Sapphire,Nominated
 1860,2010,82nd,Actress In a Leading Role,Meryl Streep,Julie & Julia,Nominated
-1861,2010,82nd,Actress In a Supporting Role,Penalope Cruz,Nine,Nominated
+1861,2010,82nd,Actress In a Supporting Role,PenAlope Cruz,Nine,Nominated
 1862,2010,82nd,Actress In a Supporting Role,Vera Farmiga,Up in the Air,Nominated
 1863,2010,82nd,Actress In a Supporting Role,Maggie Gyllenhaal,Crazy Heart,Nominated
 1864,2010,82nd,Actress In a Supporting Role,Anna Kendrick,Up in the Air,Nominated
@@ -1890,7 +1890,7 @@
 1888,2010,82nd,Directing,Quentin Tarantino,Inglourious Basterds,Nominated
 1889,2010,82nd,Directing,Lee Daniels,Precious: Based on the Novel 'Push' by Sapphire,Nominated
 1890,2010,82nd,Directing,Jason Reitman,Up in the Air,Nominated
-1891,2010,82nd,Documentary (Feature),Anders astergaard and Lise Lense-Ma ller,Burma VJ,Nominated
+1891,2010,82nd,Documentary (Feature),Anders Astergaard and Lise Lense-MA ller,Burma VJ,Nominated
 1892,2010,82nd,Documentary (Feature),Louie Psihoyos and Fisher Stevens,The Cove,Won
 1893,2010,82nd,Documentary (Feature),Robert Kenner and Elise Pearlstein,"Food, Inc.",Nominated
 1894,2010,82nd,Documentary (Feature),Judith Ehrlich and Rick Goldsmith,The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers,Nominated
@@ -1899,7 +1899,7 @@
 1897,2010,82nd,Documentary (Short Subject),Daniel Junge and Henry Ansbacher,The Last Campaign of Governor Booth Gardner,Nominated
 1898,2010,82nd,Documentary (Short Subject),Steven Bognar and Julia Reichert,The Last Truck: Closing of a GM Plant,Nominated
 1899,2010,82nd,Documentary (Short Subject),Roger Ross Williams and Elinor Burkett,Music by Prudence,Won
-1900,2010,82nd,Documentary (Short Subject),Bartek Konopka and Anna Wydra,Rabbit a la Berlin,Nominated
+1900,2010,82nd,Documentary (Short Subject),Bartek Konopka and Anna Wydra,Rabbit A la Berlin,Nominated
 1901,2010,82nd,Film Editing,"Stephen Rivkin, John Refoua and James Cameron",Avatar,Nominated
 1902,2010,82nd,Film Editing,Julian Clarke,District 9,Nominated
 1903,2010,82nd,Film Editing,Bob Murawski and Chris Innis,The Hurt Locker,Won
@@ -1938,7 +1938,7 @@
 1936,2010,82nd,Short Film (Animated),Nicolas Schmerkin,Logorama,Won
 1937,2010,82nd,Short Film (Animated),Nick Park,A Matter of Loaf and Death,Nominated
 1938,2010,82nd,Short Film (Live Action),Juanita Wilson and James Flynn,The Door,Nominated
-1939,2010,82nd,Short Film (Live Action),Patrik Eklund and Mathias Fjellstram,Instead of Abracadabra,Nominated
+1939,2010,82nd,Short Film (Live Action),Patrik Eklund and Mathias FjellstrAm,Instead of Abracadabra,Nominated
 1940,2010,82nd,Short Film (Live Action),Gregg Helvey,Kavi,Nominated
 1941,2010,82nd,Short Film (Live Action),Luke Doolan and Drew Bailey,Miracle Fish,Nominated
 1942,2010,82nd,Short Film (Live Action),Joachim Back and Tivi Magnusson,The New Tenants,Won
@@ -1985,7 +1985,7 @@
 1983,2009,81st,Actress In a Leading Role,Meryl Streep,Doubt,Nominated
 1984,2009,81st,Actress In a Leading Role,Kate Winslet,The Reader,Won
 1985,2009,81st,Actress In a Supporting Role,Amy Adams,Doubt,Nominated
-1986,2009,81st,Actress In a Supporting Role,Penalope Cruz,Vicky Cristina Barcelona,Won
+1986,2009,81st,Actress In a Supporting Role,PenAlope Cruz,Vicky Cristina Barcelona,Won
 1987,2009,81st,Actress In a Supporting Role,Viola Davis,Doubt,Nominated
 1988,2009,81st,Actress In a Supporting Role,Taraji P. Henson,The Curious Case of Benjamin Button,Nominated
 1989,2009,81st,Actress In a Supporting Role,Marisa Tomei,The Wrestler,Nominated
@@ -2042,7 +2042,7 @@
 2040,2009,81st,Music (Original Song),Music by Peter Gabriel and Thomas Newman; Lyric by Peter Gabriel,WALL-E,Nominated
 2041,2009,81st,Music (Original Song),Music by A.R. Rahman; Lyric by Gulzar,Slumdog Millionaire,Won
 2042,2009,81st,Music (Original Song),Music and Lyric by A.R. Rahman and Maya Arulpragasam,Slumdog Millionaire,Nominated
-2043,2009,81st,Best Picture,"Kathleen Kennedy, Frank Marshall and Cean Chaffin, Producers",The Curious Case of Benjamin Button,Nominated
+2043,2009,81st,Best Picture,"Kathleen Kennedy, Frank Marshall and CeAn Chaffin, Producers",The Curious Case of Benjamin Button,Nominated
 2044,2009,81st,Best Picture,"Brian Grazer, Ron Howard and Eric Fellner, Producers",Frost/Nixon,Nominated
 2045,2009,81st,Best Picture,"Dan Jinks and Bruce Cohen, Producers",Milk,Nominated
 2046,2009,81st,Best Picture,"Anthony Minghella, Sydney Pollack, Donna Gigliotti and Redmond Morris, Producers",The Reader,Nominated
@@ -2055,7 +2055,7 @@
 2053,2009,81st,Short Film (Live Action),Reto Caffi,Auf der Strecke (On the Line),Nominated
 2054,2009,81st,Short Film (Live Action),Elizabeth Marre and Olivier Pont,Manon on the Asphalt,Nominated
 2055,2009,81st,Short Film (Live Action),Steph Green and Tamara Anghie,New Boy,Nominated
-2056,2009,81st,Short Film (Live Action),Tivi Magnusson and Dorte Ha gh,The Pig,Nominated
+2056,2009,81st,Short Film (Live Action),Tivi Magnusson and Dorte HA gh,The Pig,Nominated
 2057,2009,81st,Short Film (Live Action),Jochen Alexander Freydank,Spielzeugland (Toyland),Won
 2058,2009,81st,Sound Editing,Richard King,The Dark Knight,Won
 2059,2009,81st,Sound Editing,Frank Eulner and Christopher Boyes,Iron Man,Nominated
@@ -2066,7 +2066,7 @@
 2064,2009,81st,Sound Mixing,"Lora Hirschberg, Gary Rizzo and Ed Novick",The Dark Knight,Nominated
 2065,2009,81st,Sound Mixing,"Ian Tapp, Richard Pryke and Resul Pookutty",Slumdog Millionaire,Won
 2066,2009,81st,Sound Mixing,"Tom Myers, Michael Semanick and Ben Burtt",WALL-E,Nominated
-2067,2009,81st,Sound Mixing,"Chris Jenkins, Frank A. Montaao and Petr Forejt",Wanted,Nominated
+2067,2009,81st,Sound Mixing,"Chris Jenkins, Frank A. MontaAo and Petr Forejt",Wanted,Nominated
 2068,2009,81st,Visual Effects,"Eric Barba, Steve Preeg, Burt Dalton and Craig Barron",The Curious Case of Benjamin Button,Won
 2069,2009,81st,Visual Effects,"Nick Davis, Chris Corbould, Tim Webber and Paul Franklin",The Dark Knight,Nominated
 2070,2009,81st,Visual Effects,"John Nelson, Ben Snow, Dan Sudick and Shane Mahan",Iron Man,Nominated
@@ -2161,7 +2161,7 @@
 2159,2008,80th,Best Picture,"JoAnne Sellar, Paul Thomas Anderson and Daniel Lupi, Producers",There Will Be Blood,Nominated
 2160,2008,80th,Short Film (Animated),Josh Raskin,I Met the Walrus,Nominated
 2161,2008,80th,Short Film (Animated),Chris Lavis and Maciek Szczerbowski,Madame Tutli-Putli,Nominated
-2162,2008,80th,Short Film (Animated),Samuel Tourneux and Simon Vanesse,Maame les Pigeons Vont au Paradis (Even Pigeons Go to Heaven),Nominated
+2162,2008,80th,Short Film (Animated),Samuel Tourneux and Simon Vanesse,MAame les Pigeons Vont au Paradis (Even Pigeons Go to Heaven),Nominated
 2163,2008,80th,Short Film (Animated),Alexander Petrov,My Love (Moya Lyubov),Nominated
 2164,2008,80th,Short Film (Animated),Suzie Templeton and Hugh Welchman,Peter & the Wolf,Won
 2165,2008,80th,Short Film (Live Action),Christian E. Christiansen and Louise Vesth,At Night,Nominated
@@ -2203,7 +2203,7 @@
 2201,2007,79th,Actor In a Supporting Role,Djimon Hounsou,Blood Diamond,Nominated
 2202,2007,79th,Actor In a Supporting Role,Eddie Murphy,Dreamgirls,Nominated
 2203,2007,79th,Actor In a Supporting Role,Mark Wahlberg,The Departed,Nominated
-2204,2007,79th,Actress In a Leading Role,Penalope Cruz,Volver,Nominated
+2204,2007,79th,Actress In a Leading Role,PenAlope Cruz,Volver,Nominated
 2205,2007,79th,Actress In a Leading Role,Judi Dench,Notes on a Scandal,Nominated
 2206,2007,79th,Actress In a Leading Role,Helen Mirren,The Queen,Won
 2207,2007,79th,Actress In a Leading Role,Meryl Streep,The Devil Wears Prada,Nominated
@@ -2231,7 +2231,7 @@
 2229,2007,79th,Costume Design,Sharen Davis,Dreamgirls,Nominated
 2230,2007,79th,Costume Design,Milena Canonero,Marie Antoinette,Won
 2231,2007,79th,Costume Design,Consolata Boyle,The Queen,Nominated
-2232,2007,79th,Directing,Alejandro Gonzalez Iaarritu,Babel,Nominated
+2232,2007,79th,Directing,Alejandro GonzAlez IAArritu,Babel,Nominated
 2233,2007,79th,Directing,Martin Scorsese,The Departed,Won
 2234,2007,79th,Directing,Clint Eastwood,Letters from Iwo Jima,Nominated
 2235,2007,79th,Directing,Stephen Frears,The Queen,Nominated
@@ -2247,17 +2247,17 @@
 2245,2007,79th,Documentary (Short Subject),Nathaniel Kahn and Susan Rose Behr,Two Hands,Nominated
 2246,2007,79th,Film Editing,Stephen Mirrione and Douglas Crise,Babel,Nominated
 2247,2007,79th,Film Editing,Steven Rosenblum,Blood Diamond,Nominated
-2248,2007,79th,Film Editing,Alex Rodraguez and Alfonso Cuara3n,Children of Men,Nominated
+2248,2007,79th,Film Editing,Alex RodrAguez and Alfonso CuarA3n,Children of Men,Nominated
 2249,2007,79th,Film Editing,Thelma Schoonmaker,The Departed,Won
 2250,2007,79th,Film Editing,"Clare Douglas, Christopher Rouse and Richard Pearson",United 93,Nominated
 2251,2007,79th,Foreign Language Film,Denmark,After the Wedding,Nominated
-2252,2007,79th,Foreign Language Film,Algeria,Days of Glory (Indiga nes),Nominated
+2252,2007,79th,Foreign Language Film,Algeria,Days of Glory (IndigA nes),Nominated
 2253,2007,79th,Foreign Language Film,Germany,The Lives of Others,Won
 2254,2007,79th,Foreign Language Film,Mexico,Pan's Labyrinth,Nominated
 2255,2007,79th,Foreign Language Film,Canada,Water,Nominated
 2256,2007,79th,Makeup,Aldo Signoretti and Vittorio Sodano,Apocalypto,Nominated
 2257,2007,79th,Makeup,Kazuhiro Tsuji and Bill Corso,Click,Nominated
-2258,2007,79th,Makeup,David Marta and Montse Riba,Pan's Labyrinth,Won
+2258,2007,79th,Makeup,David MartA and Montse RibA,Pan's Labyrinth,Won
 2259,2007,79th,Music (Original Score),Gustavo Santaolalla,Babel,Won
 2260,2007,79th,Music (Original Score),Thomas Newman,The Good German,Nominated
 2261,2007,79th,Music (Original Score),Philip Glass,Notes on a Scandal,Nominated
@@ -2268,7 +2268,7 @@
 2266,2007,79th,Music (Original Song),Music by Henry Krieger; Lyric by Siedah Garrett,Dreamgirls,Nominated
 2267,2007,79th,Music (Original Song),Music and Lyric by Randy Newman,Cars,Nominated
 2268,2007,79th,Music (Original Song),Music by Henry Krieger; Lyric by Willie Reale,Dreamgirls,Nominated
-2269,2007,79th,Best Picture,"Alejandro Gonzalez Iaarritu, Jon Kilik and Steve Golin, Producers",Babel,Nominated
+2269,2007,79th,Best Picture,"Alejandro GonzAlez IAArritu, Jon Kilik and Steve Golin, Producers",Babel,Nominated
 2270,2007,79th,Best Picture,"Graham King, Producer",The Departed,Won
 2271,2007,79th,Best Picture,"Clint Eastwood, Steven Spielberg and Robert Lorenz, Producers",Letters from Iwo Jima,Nominated
 2272,2007,79th,Best Picture,"David T. Friendly, Peter Saraf and Marc Turtletaub, Producers",Little Miss Sunshine,Nominated
@@ -2276,11 +2276,11 @@
 2274,2007,79th,Short Film (Animated),Torill Kove,The Danish Poet,Won
 2275,2007,79th,Short Film (Animated),Gary Rydstrom,Lifted,Nominated
 2276,2007,79th,Short Film (Animated),Roger Allers and Don Hahn,The Little Matchgirl,Nominated
-2277,2007,79th,Short Film (Animated),Gaza M. Ta3th,Maestro,Nominated
+2277,2007,79th,Short Film (Animated),GAza M. TA3th,Maestro,Nominated
 2278,2007,79th,Short Film (Animated),Chris Renaud and Michael Thurmeier,No Time for Nuts,Nominated
 2279,2007,79th,Short Film (Live Action),Javier Fesser and Luis Manso,Binta and the Great Idea (Binta Y La Gran Idea),Nominated
-2280,2007,79th,Short Film (Live Action),Borja Cobeaga,aramos Pocos (One Too Many),Nominated
-2281,2007,79th,Short Film (Live Action),Sa ren Pilmark and Kim Magnusson,Helmer & Son,Nominated
+2280,2007,79th,Short Film (Live Action),Borja Cobeaga,Aramos Pocos (One Too Many),Nominated
+2281,2007,79th,Short Film (Live Action),SA ren Pilmark and Kim Magnusson,Helmer & Son,Nominated
 2282,2007,79th,Short Film (Live Action),Peter Templeman and Stuart Parkyn,The Saviour,Nominated
 2283,2007,79th,Short Film (Live Action),Ari Sandel,West Bank Story,Won
 2284,2007,79th,Sound Editing,Sean McCormack and Kami Asgar,Apocalypto,Nominated
@@ -2288,7 +2288,7 @@
 2286,2007,79th,Sound Editing,Alan Robert Murray and Bub Asman,Flags of Our Fathers,Nominated
 2287,2007,79th,Sound Editing,Alan Robert Murray and Bub Asman,Letters from Iwo Jima,Won
 2288,2007,79th,Sound Editing,Christopher Boyes and George Watters II,Pirates of the Caribbean: Dead Man's Chest,Nominated
-2289,2007,79th,Sound Mixing,"Kevin O'Connell, Greg P. Russell and Fernando Camara",Apocalypto,Nominated
+2289,2007,79th,Sound Mixing,"Kevin O'Connell, Greg P. Russell and Fernando CAmara",Apocalypto,Nominated
 2290,2007,79th,Sound Mixing,"Andy Nelson, Anna Behlmer and Ivan Sharrock",Blood Diamond,Nominated
 2291,2007,79th,Sound Mixing,"Michael Minkler, Bob Beemer and Willie Burton",Dreamgirls,Won
 2292,2007,79th,Sound Mixing,"John Reitz, Dave Campbell, Gregg Rudloff and Walt Martin",Flags of Our Fathers,Nominated
@@ -2297,7 +2297,7 @@
 2295,2007,79th,Visual Effects,"Boyd Shermis, Kim Libreri, Chas Jarrett and John Frazier",Poseidon,Nominated
 2296,2007,79th,Visual Effects,"Mark Stetson, Neil Corbould, Richard R. Hoover and Jon Thum",Superman Returns,Nominated
 2297,2007,79th,Writing (Adapted Screenplay),Screenplay by Sacha Baron Cohen & Anthony Hines & Peter Baynham & Dan Mazer; Story by Sacha Baron Cohen & Peter Baynham & Anthony Hines & Todd Phillips,Borat Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,Nominated
-2298,2007,79th,Writing (Adapted Screenplay),Screenplay by Alfonso Cuara3n & Timothy J. Sexton and David Arata and Mark Fergus & Hawk Ostby,Children of Men,Nominated
+2298,2007,79th,Writing (Adapted Screenplay),Screenplay by Alfonso CuarA3n & Timothy J. Sexton and David Arata and Mark Fergus & Hawk Ostby,Children of Men,Nominated
 2299,2007,79th,Writing (Adapted Screenplay),Screenplay by William Monahan,The Departed,Won
 2300,2007,79th,Writing (Adapted Screenplay),Screenplay by Todd Field & Tom Perrotta,Little Children,Nominated
 2301,2007,79th,Writing (Adapted Screenplay),Screenplay by Patrick Marber,Notes on a Scandal,Nominated
@@ -2366,7 +2366,7 @@
 2364,2006,78th,Film Editing,Michael Kahn,Munich,Nominated
 2365,2006,78th,Film Editing,Michael McCusker,Walk the Line,Nominated
 2366,2006,78th,Foreign Language Film,Italy,Don't Tell,Nominated
-2367,2006,78th,Foreign Language Film,France,Joyeux Noal,Nominated
+2367,2006,78th,Foreign Language Film,France,Joyeux NoAl,Nominated
 2368,2006,78th,Foreign Language Film,The Palestinian Territories,Paradise Now,Nominated
 2369,2006,78th,Foreign Language Film,Germany,Sophie Scholl - The Final Days,Nominated
 2370,2006,78th,Foreign Language Film,South Africa,Tsotsi,Won
@@ -2393,7 +2393,7 @@
 2391,2006,78th,Short Film (Animated),Andrew Jimenez and Mark Andrews,One Man Band,Nominated
 2392,2006,78th,Short Film (Live Action),Ulrike Grote,Ausreisser (The Runaway),Nominated
 2393,2006,78th,Short Film (Live Action),Sean Ellis and Lene Bausager,Cashback,Nominated
-2394,2006,78th,Short Film (Live Action),Raonar Raonarsson and Thor S. Sigurja3nsson,The Last Farm,Nominated
+2394,2006,78th,Short Film (Live Action),RAonar RAonarsson and Thor S. SigurjA3nsson,The Last Farm,Nominated
 2395,2006,78th,Short Film (Live Action),Rob Pearlstein and Pia Clemente,Our Time Is Up,Nominated
 2396,2006,78th,Short Film (Live Action),Martin McDonagh,Six Shooter,Won
 2397,2006,78th,Sound Editing,Mike Hopkins and Ethan Van der Ryn,King Kong,Won
@@ -2483,7 +2483,7 @@
 2481,2005,77th,Foreign Language Film,South Africa,Yesterday,Nominated
 2482,2005,77th,Makeup,Valli O'Reilly and Bill Corso,Lemony Snicket's A Series of Unfortunate Events,Won
 2483,2005,77th,Makeup,Keith Vanderlaan and Christien Tinsley,The Passion of the Christ,Nominated
-2484,2005,77th,Makeup,Jo Allen and Manuel Garcaa,The Sea Inside,Nominated
+2484,2005,77th,Makeup,Jo Allen and Manuel GarcAa,The Sea Inside,Nominated
 2485,2005,77th,Music (Original Score),Jan A.P. Kaczmarek,Finding Neverland,Won
 2486,2005,77th,Music (Original Score),John Williams,Harry Potter and the Prisoner of Azkaban,Nominated
 2487,2005,77th,Music (Original Score),Thomas Newman,Lemony Snicket's A Series of Unfortunate Events,Nominated
@@ -2506,7 +2506,7 @@
 2504,2005,77th,Short Film (Animated),Chris Landreth,Ryan,Won
 2505,2005,77th,Short Film (Live Action),Gary McKendry,Everything in This Country Must,Nominated
 2506,2005,77th,Short Film (Live Action),Ashvin Kumar,Little Terrorist,Nominated
-2507,2005,77th,Short Film (Live Action),Nacho Vigalondo,7:35 in the Morning (7:35 de la Maaana),Nominated
+2507,2005,77th,Short Film (Live Action),Nacho Vigalondo,7:35 in the Morning (7:35 de la MaAana),Nominated
 2508,2005,77th,Short Film (Live Action),Taika Waititi and Ainsley Gardiner,"Two Cars, One Night",Nominated
 2509,2005,77th,Short Film (Live Action),Andrea Arnold,Wasp,Won
 2510,2005,77th,Sound Editing,Michael Silvers and Randy Thom,The Incredibles,Won
@@ -2523,7 +2523,7 @@
 2521,2005,77th,Writing (Adapted Screenplay),Screenplay by Richard Linklater & Julie Delpy & Ethan Hawke; Story by Richard Linklater & Kim Krizan,Before Sunset,Nominated
 2522,2005,77th,Writing (Adapted Screenplay),Screenplay by David Magee,Finding Neverland,Nominated
 2523,2005,77th,Writing (Adapted Screenplay),Screenplay by Paul Haggis,Million Dollar Baby,Nominated
-2524,2005,77th,Writing (Adapted Screenplay),Screenplay by Josa Rivera,The Motorcycle Diaries,Nominated
+2524,2005,77th,Writing (Adapted Screenplay),Screenplay by JosA Rivera,The Motorcycle Diaries,Nominated
 2525,2005,77th,Writing (Adapted Screenplay),Screenplay by Alexander Payne & Jim Taylor,Sideways,Won
 2526,2005,77th,Writing (Original Screenplay),Written by John Logan,The Aviator,Nominated
 2527,2005,77th,Writing (Original Screenplay),Screenplay by Charlie Kaufman; Story by Charlie Kaufman & Michel Gondry & Pierre Bismuth,Eternal Sunshine of the Spotless Mind,Won
@@ -2551,7 +2551,7 @@
 2549,2004,76th,Actress In a Supporting Role,Patricia Clarkson,Pieces of April,Nominated
 2550,2004,76th,Actress In a Supporting Role,Marcia Gay Harden,Mystic River,Nominated
 2551,2004,76th,Actress In a Supporting Role,Holly Hunter,Thirteen,Nominated
-2552,2004,76th,Actress In a Supporting Role,Renae Zellweger,Cold Mountain,Won
+2552,2004,76th,Actress In a Supporting Role,RenAe Zellweger,Cold Mountain,Won
 2553,2004,76th,Animated Feature Film,Aaron Blaise and Robert Walker,Brother Bear,Nominated
 2554,2004,76th,Animated Feature Film,Andrew Stanton,Finding Nemo,Won
 2555,2004,76th,Animated Feature Film,Sylvain Chomet,The Triplets of Belleville,Nominated
@@ -2601,7 +2601,7 @@
 2599,2004,76th,Music (Original Score),Thomas Newman,Finding Nemo,Nominated
 2600,2004,76th,Music (Original Score),James Horner,House of Sand and Fog,Nominated
 2601,2004,76th,Music (Original Score),Howard Shore,The Lord of the Rings: The Return of the King,Won
-2602,2004,76th,Music (Original Song),Music by Benoat Charest; Lyric by Sylvain Chomet,The Triplets of Belleville,Nominated
+2602,2004,76th,Music (Original Song),Music by BenoAt Charest; Lyric by Sylvain Chomet,The Triplets of Belleville,Nominated
 2603,2004,76th,Music (Original Song),Music and Lyric by Fran Walsh and Howard Shore and Annie Lennox,The Lord of the Rings: The Return of the King,Won
 2604,2004,76th,Music (Original Song),Music and Lyric by Michael McKean and Annette O'Toole,A Mighty Wind,Nominated
 2605,2004,76th,Music (Original Song),Music and Lyric by T Bone Burnett and Elvis Costello,Cold Mountain,Nominated
@@ -2657,7 +2657,7 @@
 2655,2003,75th,Actress In a Leading Role,Nicole Kidman,The Hours,Won
 2656,2003,75th,Actress In a Leading Role,Diane Lane,Unfaithful,Nominated
 2657,2003,75th,Actress In a Leading Role,Julianne Moore,Far from Heaven,Nominated
-2658,2003,75th,Actress In a Leading Role,Renae Zellweger,Chicago,Nominated
+2658,2003,75th,Actress In a Leading Role,RenAe Zellweger,Chicago,Nominated
 2659,2003,75th,Actress In a Supporting Role,Kathy Bates,About Schmidt,Nominated
 2660,2003,75th,Actress In a Supporting Role,Julianne Moore,The Hours,Nominated
 2661,2003,75th,Actress In a Supporting Role,Queen Latifah,Chicago,Nominated
@@ -2687,7 +2687,7 @@
 2685,2003,75th,Directing,Martin Scorsese,Gangs of New York,Nominated
 2686,2003,75th,Directing,Stephen Daldry,The Hours,Nominated
 2687,2003,75th,Directing,Roman Polanski,The Pianist,Won
-2688,2003,75th,Directing,Pedro Almoda3var,Talk to Her,Nominated
+2688,2003,75th,Directing,Pedro AlmodA3var,Talk to Her,Nominated
 2689,2003,75th,Documentary (Feature),"Michael Moore, Michael Donovan",Bowling for Columbine,Won
 2690,2003,75th,Documentary (Feature),"Gail Dolgin, Vicente Franco",Daughter from Danang,Nominated
 2691,2003,75th,Documentary (Feature),"Malcolm Clarke, Stuart Sender",Prisoner of Paradise,Nominated
@@ -2701,7 +2701,7 @@
 2699,2003,75th,Film Editing,Thelma Schoonmaker,Gangs of New York,Nominated
 2700,2003,75th,Film Editing,Peter Boyle,The Hours,Nominated
 2701,2003,75th,Film Editing,Michael Horton,The Lord of the Rings: The Two Towers,Nominated
-2702,2003,75th,Film Editing,Herva de Luze,The Pianist,Nominated
+2702,2003,75th,Film Editing,HervA de Luze,The Pianist,Nominated
 2703,2003,75th,Foreign Language Film,Mexico,El Crimen del Padre Amaro,Nominated
 2704,2003,75th,Foreign Language Film,People's Republic of China,Hero,Nominated
 2705,2003,75th,Foreign Language Film,Finland,The Man without a Past,Nominated
@@ -2729,7 +2729,7 @@
 2727,2003,75th,Short Film (Animated),"Chris Stenner, Heidi Wittlinger",Das Rad,Nominated
 2728,2003,75th,Short Film (Animated),"Pete Docter, Roger Gould",Mike's New Car,Nominated
 2729,2003,75th,Short Film (Animated),Koji Yamamura,Mt. Head,Nominated
-2730,2003,75th,Short Film (Live Action),"Dirk Belian, Anja Daelemans",Fait D'Hiver,Nominated
+2730,2003,75th,Short Film (Live Action),"Dirk BeliAn, Anja Daelemans",Fait D'Hiver,Nominated
 2731,2003,75th,Short Film (Live Action),"Philippe Orreindy, Thomas Gaudin",I'll Wait for the Next One... (J'Attendrai Le Suivant...),Nominated
 2732,2003,75th,Short Film (Live Action),"Steven Pasvolsky, Joe Weatherstone",Inja (Dog),Nominated
 2733,2003,75th,Short Film (Live Action),"Lexi Alexander, Alexander Buono",Johnny Flynton,Nominated
@@ -2753,8 +2753,8 @@
 2751,2003,75th,Writing (Original Screenplay),Written by Todd Haynes,Far from Heaven,Nominated
 2752,2003,75th,Writing (Original Screenplay),Screenplay by Jay Cocks and Steve Zaillian and Kenneth Lonergan; Story by Jay Cocks,Gangs of New York,Nominated
 2753,2003,75th,Writing (Original Screenplay),Written by Nia Vardalos,My Big Fat Greek Wedding,Nominated
-2754,2003,75th,Writing (Original Screenplay),Written by Pedro Almoda3var,Talk to Her,Won
-2755,2003,75th,Writing (Original Screenplay),Written by Carlos Cuara3n and Alfonso Cuara3n,Y Tu Mama Tambian,Nominated
+2754,2003,75th,Writing (Original Screenplay),Written by Pedro AlmodA3var,Talk to Her,Won
+2755,2003,75th,Writing (Original Screenplay),Written by Carlos CuarA3n and Alfonso CuarA3n,Y Tu MamA TambiAn,Nominated
 2756,2003,75th,Honorary Award,Peter O'ole,,Won
 2757,2002,74th,Actor In a Leading Role,Russell Crowe,A Beautiful Mind,Nominated
 2758,2002,74th,Actor In a Leading Role,Sean Penn,I Am Sam,Nominated
@@ -2770,7 +2770,7 @@
 2768,2002,74th,Actress In a Leading Role,Judi Dench,Iris,Nominated
 2769,2002,74th,Actress In a Leading Role,Nicole Kidman,Moulin Rouge,Nominated
 2770,2002,74th,Actress In a Leading Role,Sissy Spacek,In the Bedroom,Nominated
-2771,2002,74th,Actress In a Leading Role,Renae Zellweger,Bridget Jones's Diary,Nominated
+2771,2002,74th,Actress In a Leading Role,RenAe Zellweger,Bridget Jones's Diary,Nominated
 2772,2002,74th,Actress In a Supporting Role,Jennifer Connelly,A Beautiful Mind,Won
 2773,2002,74th,Actress In a Supporting Role,Helen Mirren,Gosford Park,Nominated
 2774,2002,74th,Actress In a Supporting Role,Maggie Smith,Gosford Park,Nominated
@@ -2779,12 +2779,12 @@
 2777,2002,74th,Animated Feature Film,"Steve Oedekerk, John A. Davis",Jimmy Neutron: Boy Genius,Nominated
 2778,2002,74th,Animated Feature Film,"Pete Docter, John Lasseter","Monsters, Inc.",Nominated
 2779,2002,74th,Animated Feature Film,Aron Warner,Shrek,Won
-2780,2002,74th,Art Direction,Art Direction: Aline Bonetto; Set Decoration: Marie-Laure Valla,Amalie,Nominated
+2780,2002,74th,Art Direction,Art Direction: Aline Bonetto; Set Decoration: Marie-Laure Valla,AmAlie,Nominated
 2781,2002,74th,Art Direction,Art Direction: Stephen Altman; Set Decoration: Anna Pinnock,Gosford Park,Nominated
 2782,2002,74th,Art Direction,Art Direction: Stuart Craig; Set Decoration: Stephenie McMillan,Harry Potter and the Sorcerer's Stone,Nominated
 2783,2002,74th,Art Direction,Art Direction: Grant Major; Set Decoration: Dan Hennah,The Lord of the Rings: The Fellowship of the Ring,Nominated
 2784,2002,74th,Art Direction,Art Direction: Catherine Martin; Set Decoration: Brigitte Broch,Moulin Rouge,Won
-2785,2002,74th,Cinematography,Bruno Delbonnel,Amalie,Nominated
+2785,2002,74th,Cinematography,Bruno Delbonnel,AmAlie,Nominated
 2786,2002,74th,Cinematography,Slawomir Idziak,Black Hawk Down,Nominated
 2787,2002,74th,Cinematography,Andrew Lesnie,The Lord of the Rings: The Fellowship of the Ring,Won
 2788,2002,74th,Cinematography,Roger Deakins,The Man Who Wasn't There,Nominated
@@ -2812,7 +2812,7 @@
 2810,2002,74th,Film Editing,John Gilbert,The Lord of the Rings: The Fellowship of the Ring,Nominated
 2811,2002,74th,Film Editing,Dody Dorn,Memento,Nominated
 2812,2002,74th,Film Editing,Jill Bilcock,Moulin Rouge,Nominated
-2813,2002,74th,Foreign Language Film,France,Amalie,Nominated
+2813,2002,74th,Foreign Language Film,France,AmAlie,Nominated
 2814,2002,74th,Foreign Language Film,Norway,Elling,Nominated
 2815,2002,74th,Foreign Language Film,India,Lagaan,Nominated
 2816,2002,74th,Foreign Language Film,Bosnia & Herzegovina,No Man's Land,Won
@@ -2845,7 +2845,7 @@
 2843,2002,74th,Short Film (Live Action),Johannes Kiefer,Gregor's Greatest Invention,Nominated
 2844,2002,74th,Short Film (Live Action),"Slawomir Fabicki, Bogumil Godfrejow",A Man Thing (Meska Sprawa),Nominated
 2845,2002,74th,Short Film (Live Action),"Kalman Apple, Shameela Bakhsh",Speed for Thespians,Nominated
-2846,2002,74th,Sound,"Vincent Arnardi, Guillaume Leriche, Jean Umansky",Amalie,Nominated
+2846,2002,74th,Sound,"Vincent Arnardi, Guillaume Leriche, Jean Umansky",AmAlie,Nominated
 2847,2002,74th,Sound,"Michael Minkler, Myron Nettinga, Chris Munro",Black Hawk Down,Won
 2848,2002,74th,Sound,"Christopher Boyes, Michael Semanick, Gethin Creagh, Hammond Peek",The Lord of the Rings: The Fellowship of the Ring,Nominated
 2849,2002,74th,Sound,"Andy Nelson, Anna Behlmer, Roger Savage, Guntis Sics",Moulin Rouge,Nominated
@@ -2860,7 +2860,7 @@
 2858,2002,74th,Writing (Screenplay Based on Material Previously Produced Or Published),Screenplay by Rob Festinger and Todd Field,In the Bedroom,Nominated
 2859,2002,74th,Writing (Screenplay Based on Material Previously Produced Or Published),"Screenplay by Fran Walsh, Philippa Boyens, Peter Jackson",The Lord of the Rings: The Fellowship of the Ring,Nominated
 2860,2002,74th,Writing (Screenplay Based on Material Previously Produced Or Published),Written by Ted Elliott & Terry Rossio and Joe Stillman and Roger S.H. Schulman,Shrek,Nominated
-2861,2002,74th,Writing (Screenplay Written Directly for the Screen),Screenplay by Guillaume Laurant and Jean-Pierre Jeunet; Dialogue by Guillaume Laurant,Amalie,Nominated
+2861,2002,74th,Writing (Screenplay Written Directly for the Screen),Screenplay by Guillaume Laurant and Jean-Pierre Jeunet; Dialogue by Guillaume Laurant,AmAlie,Nominated
 2862,2002,74th,Writing (Screenplay Written Directly for the Screen),Written by Julian Fellowes,Gosford Park,Won
 2863,2002,74th,Writing (Screenplay Written Directly for the Screen),Screenplay by Christopher Nolan; Story by Jonathan Nolan,Memento,Nominated
 2864,2002,74th,Writing (Screenplay Written Directly for the Screen),Written by Milo Addica & Will Rokos,Monster's Ball,Nominated
@@ -2892,10 +2892,10 @@
 2890,2001,73rd,Art Direction,Art Direction: Michael Corenblith; Set Decoration: Merideth Boswell,Dr. Seuss' How the Grinch Stole Christmas,Nominated
 2891,2001,73rd,Art Direction,Art Direction: Arthur Max; Set Decoration: Crispian Sallis,Gladiator,Nominated
 2892,2001,73rd,Art Direction,Art Direction: Martin Childs; Set Decoration: Jill Quertier,Quills,Nominated
-2893,2001,73rd,Art Direction,Art Direction: Jean Rabasse; Set Decoration: Franaoise Benoat-Fresco,Vatel,Nominated
+2893,2001,73rd,Art Direction,Art Direction: Jean Rabasse; Set Decoration: FranAoise BenoAt-Fresco,Vatel,Nominated
 2894,2001,73rd,Cinematography,Peter Pau,"Crouching Tiger, Hidden Dragon",Won
 2895,2001,73rd,Cinematography,John Mathieson,Gladiator,Nominated
-2896,2001,73rd,Cinematography,Lajos Koltai,Mala na,Nominated
+2896,2001,73rd,Cinematography,Lajos Koltai,MalA na,Nominated
 2897,2001,73rd,Cinematography,Roger Deakins,"O Brother, Where Art Thou?",Nominated
 2898,2001,73rd,Cinematography,Caleb Deschanel,The Patriot,Nominated
 2899,2001,73rd,Costume Design,Tim Yip,"Crouching Tiger, Hidden Dragon",Nominated
@@ -2928,16 +2928,16 @@
 2926,2001,73rd,Foreign Language Film,Czech Republic,Divided We Fall,Nominated
 2927,2001,73rd,Foreign Language Film,Belgium,Everybody Famous!,Nominated
 2928,2001,73rd,Foreign Language Film,France,The Taste of Others,Nominated
-2929,2001,73rd,Makeup,"Micha le Burke, Edouard Henriques",The Cell,Nominated
+2929,2001,73rd,Makeup,"MichA le Burke, Edouard Henriques",The Cell,Nominated
 2930,2001,73rd,Makeup,"Rick Baker, Gail Ryan",Dr. Seuss' How the Grinch Stole Christmas,Won
 2931,2001,73rd,Makeup,"Ann Buchanan, Amber Sibley",Shadow of the Vampire,Nominated
 2932,2001,73rd,Music (Original Score),Rachel Portman,Chocolat,Nominated
 2933,2001,73rd,Music (Original Score),Tan Dun,"Crouching Tiger, Hidden Dragon",Won
 2934,2001,73rd,Music (Original Score),Hans Zimmer,Gladiator,Nominated
-2935,2001,73rd,Music (Original Score),Ennio Morricone,Mala na,Nominated
+2935,2001,73rd,Music (Original Score),Ennio Morricone,MalA na,Nominated
 2936,2001,73rd,Music (Original Score),John Williams,The Patriot,Nominated
 2937,2001,73rd,Music (Original Song),Music and Lyric by Randy Newman,Meet the Parents,Nominated
-2938,2001,73rd,Music (Original Song),Music by Bjark; Lyric by Lars von Trier and Sjon Sigurdsson,Dancer in the Dark,Nominated
+2938,2001,73rd,Music (Original Song),Music by BjArk; Lyric by Lars von Trier and Sjon Sigurdsson,Dancer in the Dark,Nominated
 2939,2001,73rd,Music (Original Song),Music by Jorge Calandrelli and Tan Dun; Lyric by James Schamus,"Crouching Tiger, Hidden Dragon",Nominated
 2940,2001,73rd,Music (Original Song),Music by Sting and David Hartley; Lyric by Sting,The Emperor's New Groove,Nominated
 2941,2001,73rd,Music (Original Song),Music and Lyric by Bob Dylan,Wonder Boys,Won
@@ -2947,7 +2947,7 @@
 2945,2001,73rd,Best Picture,"Douglas Wick, David Franzoni and Branko Lustig, Producers",Gladiator,Won
 2946,2001,73rd,Best Picture,"Edward Zwick, Marshall Herskovitz and Laura Bickford, Producers",Traffic,Nominated
 2947,2001,73rd,Short Film (Animated),Michael Dudok de Wit,Father and Daughter,Won
-2948,2001,73rd,Short Film (Animated),"Steffen Schaffler, Annette Schaffler",The Periwig-Maker,Nominated
+2948,2001,73rd,Short Film (Animated),"Steffen SchAffler, Annette SchAffler",The Periwig-Maker,Nominated
 2949,2001,73rd,Short Film (Animated),Don Hertzfeldt,Rejected,Nominated
 2950,2001,73rd,Short Film (Live Action),"Peter Riegert, Ericka Frederick",By Courier,Nominated
 2951,2001,73rd,Short Film (Live Action),"Joan Stein, Christina Lazaridi",One Day Crossing,Nominated
@@ -2996,7 +2996,7 @@
 2994,2000,72nd,Actress In a Supporting Role,Angelina Jolie,"Girl, Interrupted",Won
 2995,2000,72nd,Actress In a Supporting Role,Catherine Keener,Being John Malkovich,Nominated
 2996,2000,72nd,Actress In a Supporting Role,Samantha Morton,Sweet and Lowdown,Nominated
-2997,2000,72nd,Actress In a Supporting Role,Chloa Sevigny,Boys Don't Cry,Nominated
+2997,2000,72nd,Actress In a Supporting Role,ChloA Sevigny,Boys Don't Cry,Nominated
 2998,2000,72nd,Art Direction,Art Direction: Luciana Arrighi; Set Decoration: Ian Whittaker,Anna and the King,Nominated
 2999,2000,72nd,Art Direction,Art Direction: David Gropman; Set Decoration: Beth Rubino,The Cider House Rules,Nominated
 3000,2000,72nd,Art Direction,Art Direction: Rick Heinrichs; Set Decoration: Peter Young,Sleepy Hollow,Won
@@ -3014,7 +3014,7 @@
 3012,2000,72nd,Costume Design,Lindy Hemming,Topsy-Turvy,Won
 3013,2000,72nd,Directing,Sam Mendes,American Beauty,Won
 3014,2000,72nd,Directing,Spike Jonze,Being John Malkovich,Nominated
-3015,2000,72nd,Directing,Lasse Hallstram,The Cider House Rules,Nominated
+3015,2000,72nd,Directing,Lasse HallstrAm,The Cider House Rules,Nominated
 3016,2000,72nd,Directing,Michael Mann,The Insider,Nominated
 3017,2000,72nd,Directing,M. Night Shyamalan,The Sixth Sense,Nominated
 3018,2000,72nd,Documentary (Feature),"Wim Wenders, Ulrich Felsberg",Buena Vista Social Club,Nominated
@@ -3035,7 +3035,7 @@
 3033,2000,72nd,Foreign Language Film,France,East-West,Nominated
 3034,2000,72nd,Foreign Language Film,United Kingdom,Solomon and Gaenor,Nominated
 3035,2000,72nd,Foreign Language Film,Sweden,Under the Sun,Nominated
-3036,2000,72nd,Makeup,"Micha le Burke, Mike Smithson",Austin Powers: The Spy Who Shagged Me,Nominated
+3036,2000,72nd,Makeup,"MichA le Burke, Mike Smithson",Austin Powers: The Spy Who Shagged Me,Nominated
 3037,2000,72nd,Makeup,Greg Cannom,Bicentennial Man,Nominated
 3038,2000,72nd,Makeup,Rick Baker,Life,Nominated
 3039,2000,72nd,Makeup,"Christine Blundell, Trefor Proud",Topsy-Turvy,Won
@@ -3242,7 +3242,7 @@
 3240,1998,70th,Directing,Atom Egoyan,The Sweet Hereafter,Nominated
 3241,1998,70th,Directing,James Cameron,Titanic,Won
 3242,1998,70th,Documentary (Feature),Michael Paxton,Ayn Rand: A Sense of Life,Nominated
-3243,1998,70th,Documentary (Feature),"Micha le Ohayon, Julia Schachter",Colors Straight Up,Nominated
+3243,1998,70th,Documentary (Feature),"MichA le Ohayon, Julia Schachter",Colors Straight Up,Nominated
 3244,1998,70th,Documentary (Feature),"Spike Lee, Sam Pollard",4 Little Girls,Nominated
 3245,1998,70th,Documentary (Feature),"Rabbi Marvin Hier, Richard Trank",The Long Way Home,Won
 3246,1998,70th,Documentary (Feature),"Dan Gifford, William Gazecki",Waco: The Rules of Engagement,Nominated
@@ -3525,7 +3525,7 @@
 3523,1996,68th,Short Film (Live Action),"Jeff Goldblum, Tikki Goldberg",Little Surprises,Nominated
 3524,1996,68th,Short Film (Live Action),"Dianne Houston, Joy Ryan",Tuesday Morning Ride,Nominated
 3525,1996,68th,Sound,"Rick Dior, Steve Pederson, Scott Millan, David MacMillan",Apollo 13,Won
-3526,1996,68th,Sound,"Donald O. Mitchell, Frank A. Montaao, Michael Herbick, Petur Hliddal",Batman Forever,Nominated
+3526,1996,68th,Sound,"Donald O. Mitchell, Frank A. MontaAo, Michael Herbick, Petur Hliddal",Batman Forever,Nominated
 3527,1996,68th,Sound,"Andy Nelson, Scott Millan, Anna Behlmer, Brian Simmons",Braveheart,Nominated
 3528,1996,68th,Sound,"Kevin O'Connell, Rick Kline, Gregory H. Watkins, William B. Kaplan",Crimson Tide,Nominated
 3529,1996,68th,Sound,"Steve Maslow, Gregg Landaker, Keith A. Wester",Waterworld,Nominated
@@ -3634,7 +3634,7 @@
 3632,1995,67th,Short Film (Live Action),"JoBeth Williams, Michele McGuire",On Hope,Nominated
 3633,1995,67th,Short Film (Live Action),"Paul Unwin, Nick Vivian",Syrup,Nominated
 3634,1995,67th,Short Film (Live Action),"Peggy Rajski, Randy Stone",Trevor,Won
-3635,1995,67th,Sound,"Donald O. Mitchell, Michael Herbick, Frank A. Montaao, Arthur Rochester",Clear and Present Danger,Nominated
+3635,1995,67th,Sound,"Donald O. Mitchell, Michael Herbick, Frank A. MontaAo, Arthur Rochester",Clear and Present Danger,Nominated
 3636,1995,67th,Sound,"Randy Thom, Tom Johnson, Dennis Sands, William B. Kaplan",Forrest Gump,Nominated
 3637,1995,67th,Sound,"Paul Massey, David Campbell, Christopher David, Douglas Ganton",Legends of the Fall,Nominated
 3638,1995,67th,Sound,"Robert J. Litt, Elliot Tyson, Michael Herbick, Willie Burton",The Shawshank Redemption,Nominated
@@ -3735,7 +3735,7 @@
 3733,1994,66th,Best Picture,"Mike Nichols, John Calley and Ismail Merchant, Producers",The Remains of the Day,Nominated
 3734,1994,66th,Best Picture,"Steven Spielberg, Gerald R. Molen and Branko Lustig, Producers",Schindler's List,Won
 3735,1994,66th,Short Film (Animated),Stephen Palmer,Blindscape,Nominated
-3736,1994,66th,Short Film (Animated),"Fradaric Back, Hubert Tison",The Mighty River,Nominated
+3736,1994,66th,Short Film (Animated),"FrAdAric Back, Hubert Tison",The Mighty River,Nominated
 3737,1994,66th,Short Film (Animated),"Bob Godfrey, Kevin Baldwin",Small Talk,Nominated
 3738,1994,66th,Short Film (Animated),Mark Baker,The Village,Nominated
 3739,1994,66th,Short Film (Animated),Nick Park,The Wrong Trousers,Won
@@ -3745,7 +3745,7 @@
 3743,1994,66th,Short Film (Live Action),"Peter Weller, Jana Sue Memel",Partners,Nominated
 3744,1994,66th,Short Film (Live Action),Didier Flamand,The Screw (La Vis),Nominated
 3745,1994,66th,Sound,"Michael Minkler, Bob Beemer, Tim Cooney",Cliffhanger,Nominated
-3746,1994,66th,Sound,"Donald O. Mitchell, Michael Herbick, Frank A. Montaao, Scott D. Smith",The Fugitive,Nominated
+3746,1994,66th,Sound,"Donald O. Mitchell, Michael Herbick, Frank A. MontaAo, Scott D. Smith",The Fugitive,Nominated
 3747,1994,66th,Sound,"Chris Carpenter, D. M. Hemphill, Bill W. Benton, Lee Orloff",Geronimo: An American Legend,Nominated
 3748,1994,66th,Sound,"Gary Summers, Gary Rydstrom, Shawn Murphy, Ron Judkins",Jurassic Park,Won
 3749,1994,66th,Sound,"Andy Nelson, Steve Pederson, Scott Millan, Ron Judkins",Schindler's List,Nominated
@@ -3828,7 +3828,7 @@
 3826,1993,65th,Foreign Language Film,Uruguay,A Place in the World,Nominated
 3827,1993,65th,Foreign Language Film,Germany,Schtonk!,Nominated
 3828,1993,65th,Makeup,"Ve Neill, Ronnie Specter, Stan Winston",Batman Returns,Nominated
-3829,1993,65th,Makeup,"Greg Cannom, Micha le Burke, Matthew W. Mungle",Bram Stoker's Dracula,Won
+3829,1993,65th,Makeup,"Greg Cannom, MichA le Burke, Matthew W. Mungle",Bram Stoker's Dracula,Won
 3830,1993,65th,Makeup,"Ve Neill, Greg Cannom, John Blake",Hoffa,Nominated
 3831,1993,65th,Music (Original Score),Alan Menken,Aladdin,Won
 3832,1993,65th,Music (Original Score),Jerry Goldsmith,Basic Instinct,Nominated
@@ -3847,7 +3847,7 @@
 3845,1993,65th,Best Picture,"Clint Eastwood, Producer",Unforgiven,Won
 3846,1993,65th,Short Film (Animated),Peter Lord,Adam,Nominated
 3847,1993,65th,Short Film (Animated),Joan C. Gratz,Mona Lisa Descending a Staircase,Won
-3848,1993,65th,Short Film (Animated),Michaela Pavlatova,"Reci, Reci, Reci... (Words, Words, Words)",Nominated
+3848,1993,65th,Short Film (Animated),Michaela PavlAtovA,"Reci, Reci, Reci... (Words, Words, Words)",Nominated
 3849,1993,65th,Short Film (Animated),Paul Berry,The Sandman,Nominated
 3850,1993,65th,Short Film (Animated),Barry J.C. Purves,Screen Play,Nominated
 3851,1993,65th,Short Film (Live Action),"Jonathan Darby, Jana Sue Memel",Contact,Nominated
@@ -3858,7 +3858,7 @@
 3856,1993,65th,Sound,"Terry Porter, Mel Metcalfe, David J. Hudson, Doc Kane",Aladdin,Nominated
 3857,1993,65th,Sound,"Kevin O'Connell, Rick Kline, Bob Eber",A Few Good Men,Nominated
 3858,1993,65th,Sound,"Chris Jenkins, Doug Hemphill, Mark Smith, Simon Kaye",The Last of the Mohicans,Won
-3859,1993,65th,Sound,"Don Mitchell, Frank A. Montaao, Rick Hart, Scott Smith",Under Siege,Nominated
+3859,1993,65th,Sound,"Don Mitchell, Frank A. MontaAo, Rick Hart, Scott Smith",Under Siege,Nominated
 3860,1993,65th,Sound,"Les Fresholtz, Vern Poore, Dick Alexander, Rob Young",Unforgiven,Nominated
 3861,1993,65th,Sound Effects Editing,Mark Mangini,Aladdin,Nominated
 3862,1993,65th,Sound Effects Editing,"Tom C. McCarthy, David E. Stone",Bram Stoker's Dracula,Won
@@ -3928,7 +3928,7 @@
 3926,1992,64th,Documentary (Short Subject),"Debra Chasnoff, Producer","Deadly Deception: General Electric, Nuclear Weapons and Our Environment",Won
 3927,1992,64th,Documentary (Short Subject),"Immy Humes, Producer",A Little Vicious,Nominated
 3928,1992,64th,Documentary (Short Subject),"David McGowan, Producer",The Mark of the Maker,Nominated
-3929,1992,64th,Documentary (Short Subject),"Bill Couturia and Bernard Edelman, Producers",Memorial: Letters from American Soldiers,Nominated
+3929,1992,64th,Documentary (Short Subject),"Bill CouturiA and Bernard Edelman, Producers",Memorial: Letters from American Soldiers,Nominated
 3930,1992,64th,Film Editing,Gerry Hambling,The Commitments,Nominated
 3931,1992,64th,Film Editing,"Joe Hutshing, Pietro Scalia",JFK,Won
 3932,1992,64th,Film Editing,Craig McKay,The Silence of the Lambs,Nominated
@@ -4045,7 +4045,7 @@
 4043,1991,63rd,Foreign Language Film,People's Republic of China,Ju Dou,Nominated
 4044,1991,63rd,Foreign Language Film,Germany,The Nasty Girl,Nominated
 4045,1991,63rd,Foreign Language Film,Italy,Open Doors,Nominated
-4046,1991,63rd,Makeup,"Micha le Burke, Jean-Pierre Eychenne",Cyrano de Bergerac,Nominated
+4046,1991,63rd,Makeup,"MichA le Burke, Jean-Pierre Eychenne",Cyrano de Bergerac,Nominated
 4047,1991,63rd,Makeup,"John Caglione, Jr., Doug Drexler",Dick Tracy,Won
 4048,1991,63rd,Makeup,"Ve Neill, Stan Winston",Edward Scissorhands,Nominated
 4049,1991,63rd,Music (Original Score),Randy Newman,Avalon,Nominated
@@ -4134,14 +4134,14 @@
 4132,1990,62nd,Directing,Kenneth Branagh,Henry V,Nominated
 4133,1990,62nd,Directing,Jim Sheridan,My Left Foot,Nominated
 4134,1990,62nd,Documentary (Feature),"Richard Kilberg and Yvonne Smith, Producers",Adam Clayton Powell,Nominated
-4135,1990,62nd,Documentary (Feature),"Robert Epstein and Bill Couturia, Producers",Common Threads: Stories from the Quilt,Won
+4135,1990,62nd,Documentary (Feature),"Robert Epstein and Bill CouturiA, Producers",Common Threads: Stories from the Quilt,Won
 4136,1990,62nd,Documentary (Feature),"Vince DiPersio and William Guttentag, Producers",Crack USA: County under Siege,Nominated
 4137,1990,62nd,Documentary (Feature),"Al Reinert and Betsy Broyles Breier, Producers",For All Mankind,Nominated
 4138,1990,62nd,Documentary (Feature),"Judith Leonard and Bill Jersey, Producers",Super Chief: The Life and Legacy of Earl Warren,Nominated
 4139,1990,62nd,Documentary (Short Subject),"David Petersen, Producer","Fine Food, Fine Pastries, Open 6 to 9",Nominated
 4140,1990,62nd,Documentary (Short Subject),"Charles Guggenheim, Producer",The Johnstown Flood,Won
 4141,1990,62nd,Documentary (Short Subject),"Ray Errol Fox, Producer",Yad Vashem: Preserving the Past to Ensure the Future,Nominated
-4142,1990,62nd,Film Editing,Noalle Boisson,The Bear,Nominated
+4142,1990,62nd,Film Editing,NoAlle Boisson,The Bear,Nominated
 4143,1990,62nd,Film Editing,"David Brenner, Joe Hutshing",Born on the Fourth of July,Won
 4144,1990,62nd,Film Editing,Mark Warner,Driving Miss Daisy,Nominated
 4145,1990,62nd,Film Editing,William Steinkamp,The Fabulous Baker Boys,Nominated
@@ -4238,7 +4238,7 @@
 4236,1989,61th,Directing,Alan Parker,Mississippi Burning,Nominated
 4237,1989,61th,Directing,Barry Levinson,Rain Man,Won
 4238,1989,61th,Directing,Mike Nichols,Working Girl,Nominated
-4239,1989,61th,Documentary (Feature),"Robert Bilheimer and Ronald Mix, Producers",The Cry of Reason - Beyers Nauda: An Afrikaner Speaks Out,Nominated
+4239,1989,61th,Documentary (Feature),"Robert Bilheimer and Ronald Mix, Producers",The Cry of Reason - Beyers NaudA: An Afrikaner Speaks Out,Nominated
 4240,1989,61th,Documentary (Feature),"Marcel Ophuls, Producer",Hotel Terminus: The Life and Times of Klaus Barbie,Won
 4241,1989,61th,Documentary (Feature),"Bruce Weber and Nan Bush, Producers",Let's Get Lost,Nominated
 4242,1989,61th,Documentary (Feature),"Ginny Durrin, Producer",Promises to Keep,Nominated
@@ -4295,7 +4295,7 @@
 4293,1989,61th,Writing (Screenplay Based on Material From Another Medium),Christopher Hampton,Dangerous Liaisons,Won
 4294,1989,61th,Writing (Screenplay Based on Material From Another Medium),"Screenplay by Anna Hamilton Phelan; Story by Anna Hamilton Phelan, Tab Murphy",Gorillas in the Mist,Nominated
 4295,1989,61th,Writing (Screenplay Based on Material From Another Medium),Christine Edzard,Little Dorrit,Nominated
-4296,1989,61th,Writing (Screenplay Based on Material From Another Medium),"Jean-Claude Carria re, Philip Kaufman",The Unbearable Lightness of Being,Nominated
+4296,1989,61th,Writing (Screenplay Based on Material From Another Medium),"Jean-Claude CarriA re, Philip Kaufman",The Unbearable Lightness of Being,Nominated
 4297,1989,61th,Writing (Screenplay Written Directly for the Screen),"Gary Ross, Anne Spielberg",Big,Nominated
 4298,1989,61th,Writing (Screenplay Written Directly for the Screen),Ron Shelton,Bull Durham,Nominated
 4299,1989,61th,Writing (Screenplay Written Directly for the Screen),"Screenplay by John Cleese; Story by John Cleese, Charles Crichton",A Fish Called Wanda,Nominated
@@ -4343,7 +4343,7 @@
 4341,1988,60th,Directing,John Boorman,Hope and Glory,Nominated
 4342,1988,60th,Directing,Bernardo Bertolucci,The Last Emperor,Won
 4343,1988,60th,Directing,Norman Jewison,Moonstruck,Nominated
-4344,1988,60th,Directing,Lasse Hallstram,My Life as a Dog,Nominated
+4344,1988,60th,Directing,Lasse HallstrAm,My Life as a Dog,Nominated
 4345,1988,60th,Documentary (Feature),"Callie Crossley and James A. DeVinney, Producers",Eyes on the Prize: America's Civil Rights Years/Bridge to Freedom 1965,Nominated
 4346,1988,60th,Documentary (Feature),"John Junkerman and John W. Dower, Producers",Hellfire: A Journey from Hiroshima,Nominated
 4347,1988,60th,Documentary (Feature),"Robert Stone, Producer",Radio Bikini,Nominated
@@ -4382,7 +4382,7 @@
 4380,1988,60th,Best Picture,"Jeremy Thomas, Producer",The Last Emperor,Won
 4381,1988,60th,Best Picture,"Patrick Palmer and Norman Jewison, Producers",Moonstruck,Nominated
 4382,1988,60th,Short Film (Animated),"Eunice Macaulay, Producer",George and Rosemary,Nominated
-4383,1988,60th,Short Film (Animated),"Fradaric Back, Producer",The Man Who Planted Trees,Won
+4383,1988,60th,Short Film (Animated),"FrAdAric Back, Producer",The Man Who Planted Trees,Won
 4384,1988,60th,Short Film (Animated),"Bill Plympton, Producer",Your Face,Nominated
 4385,1988,60th,Short Film (Live Action),"Ann Wingate, Producer",Making Waves,Nominated
 4386,1988,60th,Short Film (Live Action),"Jonathan Sanger and Jana Sue Memel, Producers",Ray's Male Heterosexual Dance Hall,Won
@@ -4398,7 +4398,7 @@
 4396,1988,60th,Writing (Screenplay Based on Material From Another Medium),James Dearden,Fatal Attraction,Nominated
 4397,1988,60th,Writing (Screenplay Based on Material From Another Medium),"Stanley Kubrick, Michael Herr, Gustav Hasford",Full Metal Jacket,Nominated
 4398,1988,60th,Writing (Screenplay Based on Material From Another Medium),"Mark Peploe, Bernardo Bertolucci",The Last Emperor,Won
-4399,1988,60th,Writing (Screenplay Based on Material From Another Medium),"Lasse Hallstram, Reidar Jansson, Brasse Brannstram, Per Berglund",My Life as a Dog,Nominated
+4399,1988,60th,Writing (Screenplay Based on Material From Another Medium),"Lasse HallstrAm, Reidar JAnsson, Brasse BrAnnstrAm, Per Berglund",My Life as a Dog,Nominated
 4400,1988,60th,Writing (Screenplay Written Directly for the Screen),Louis Malle,"Au Revoir Les Enfants (Goodbye, Children)",Nominated
 4401,1988,60th,Writing (Screenplay Written Directly for the Screen),James L. Brooks,Broadcast News,Nominated
 4402,1988,60th,Writing (Screenplay Written Directly for the Screen),John Boorman,Hope and Glory,Nominated
@@ -4443,7 +4443,7 @@
 4441,1987,59th,Costume Design,"Jenny Beavan, John Bright",A Room with a View,Won
 4442,1987,59th,Directing,David Lynch,Blue Velvet,Nominated
 4443,1987,59th,Directing,Woody Allen,Hannah and Her Sisters,Nominated
-4444,1987,59th,Directing,Roland Joffa,The Mission,Nominated
+4444,1987,59th,Directing,Roland JoffA,The Mission,Nominated
 4445,1987,59th,Directing,Oliver Stone,Platoon,Won
 4446,1987,59th,Directing,James Ivory,A Room with a View,Nominated
 4447,1987,59th,Documentary (Feature),"Brigitte Berman, Producer",Artie Shaw: Time Is All You've Got,Won
@@ -4466,7 +4466,7 @@
 4464,1987,59th,Foreign Language Film,Canada,The Decline of the American Empire,Nominated
 4465,1987,59th,Foreign Language Film,Czechoslovakia,My Sweet Little Village,Nominated
 4466,1987,59th,Foreign Language Film,Austria,'38',Nominated
-4467,1987,59th,Makeup,"Michael G. Westmore, Micha le Burke",The Clan of the Cave Bear,Nominated
+4467,1987,59th,Makeup,"Michael G. Westmore, MichA le Burke",The Clan of the Cave Bear,Nominated
 4468,1987,59th,Makeup,"Chris Walas, Stephan Dupuis",The Fly,Won
 4469,1987,59th,Makeup,"Rob Bottin, Peter Robb-King",Legend,Nominated
 4470,1987,59th,Music (Original Score),James Horner,Aliens,Nominated
@@ -4554,7 +4554,7 @@
 4552,1986,58th,Directing,Akira Kurosawa,Ran,Nominated
 4553,1986,58th,Directing,Peter Weir,Witness,Nominated
 4554,1986,58th,Documentary (Feature),"Maria Florio and Victoria Mudd, Producers",Broken Rainbow,Won
-4555,1986,58th,Documentary (Feature),"Susana Muaoz and Lourdes Portillo, Producers",Las Madres--The Mothers of Plaza de Mayo,Nominated
+4555,1986,58th,Documentary (Feature),"Susana MuAoz and Lourdes Portillo, Producers",Las Madres--The Mothers of Plaza de Mayo,Nominated
 4556,1986,58th,Documentary (Feature),"Japhet Asher, Producer",Soldiers in Hiding,Nominated
 4557,1986,58th,Documentary (Feature),"Ken Burns and Buddy Squires, Producers",The Statue of Liberty,Nominated
 4558,1986,58th,Documentary (Feature),"Steven Okazaki, Producer",Unfinished Business,Nominated
@@ -4658,7 +4658,7 @@
 4656,1985,57th,Costume Design,Patricia Norris,2010,Nominated
 4657,1985,57th,Directing,Milos Forman,Amadeus,Won
 4658,1985,57th,Directing,Woody Allen,Broadway Danny Rose,Nominated
-4659,1985,57th,Directing,Roland Joffa,The Killing Fields,Nominated
+4659,1985,57th,Directing,Roland JoffA,The Killing Fields,Nominated
 4660,1985,57th,Directing,David Lean,A Passage to India,Nominated
 4661,1985,57th,Directing,Robert Benton,Places in the Heart,Nominated
 4662,1985,57th,Documentary (Feature),"Charles Guggenheim and Nancy Sloss, Producers",High Schools,Nominated
@@ -4894,7 +4894,7 @@
 4892,1983,55th,Foreign Language Film,Union of Soviet Socialist Republics,Private Life,Nominated
 4893,1983,55th,Foreign Language Film,Spain,Volver a Empezar ('To Begin Again'),Won
 4894,1983,55th,Makeup,Tom Smith,Gandhi,Nominated
-4895,1983,55th,Makeup,"Sarah Monzani, Micha le Burke",Quest for Fire,Won
+4895,1983,55th,Makeup,"Sarah Monzani, MichA le Burke",Quest for Fire,Won
 4896,1983,55th,Music (Original Score),John Williams,E.T. The Extra-Terrestrial,Won
 4897,1983,55th,Music (Original Score),"Ravi Shankar, George Fenton",Gandhi,Nominated
 4898,1983,55th,Music (Original Score),Jack Nitzsche,An Officer and a Gentleman,Nominated
@@ -4993,7 +4993,7 @@
 4991,1982,54th,Documentary (Short Subject),"Nigel Noble, Producer",Close Harmony,Won
 4992,1982,54th,Documentary (Short Subject),"Dick Young, Producer",Journey for Survival,Nominated
 4993,1982,54th,Documentary (Short Subject),"Linda Chapman, Pam LeBlanc and Freddi Stevens, Producers",See What I Say,Nominated
-4994,1982,54th,Documentary (Short Subject),"Roland Halla and John Hoover, Producers",Urge to Build,Nominated
+4994,1982,54th,Documentary (Short Subject),"Roland HallA and John Hoover, Producers",Urge to Build,Nominated
 4995,1982,54th,Film Editing,Terry Rawlings,Chariots of Fire,Nominated
 4996,1982,54th,Film Editing,John Bloom,The French Lieutenant's Woman,Nominated
 4997,1982,54th,Film Editing,Robert L. Wolfe,On Golden Pond,Nominated
@@ -5021,7 +5021,7 @@
 5019,1982,54th,Best Picture,"Bruce Gilbert, Producer",On Golden Pond,Nominated
 5020,1982,54th,Best Picture,"Frank Marshall, Producer",Raiders of the Lost Ark,Nominated
 5021,1982,54th,Best Picture,"Warren Beatty, Producer",Reds,Nominated
-5022,1982,54th,Short Film (Animated),"Fradaric Back, Producer",Crac,Won
+5022,1982,54th,Short Film (Animated),"FrAdAric Back, Producer",Crac,Won
 5023,1982,54th,Short Film (Animated),"Will Vinton, Producer",The Creation,Nominated
 5024,1982,54th,Short Film (Animated),"Janet Perlman, Producer",The Tender Tale of Cinderella Penguin,Nominated
 5025,1982,54th,Short Film (Live Action),"Christine Oestreicher, Producer",Couples and Robbers,Nominated
@@ -5096,7 +5096,7 @@
 5094,1981,53rd,Documentary (Short Subject),"John Watson and Pen Densham, Producers",Don't Mess with Bill,Nominated
 5095,1981,53rd,Documentary (Short Subject),"George Casey, Producer",The Eruption of Mount St. Helens,Nominated
 5096,1981,53rd,Documentary (Short Subject),"Dick Young, Producer",It's the Same World,Nominated
-5097,1981,53rd,Documentary (Short Subject),"Roland Halla and Peter W. Ladue, Producers",Karl Hess: Toward Liberty,Won
+5097,1981,53rd,Documentary (Short Subject),"Roland HallA and Peter W. Ladue, Producers",Karl Hess: Toward Liberty,Won
 5098,1981,53rd,Documentary (Short Subject),"Richard Hawkins and Jorge Preloran, Producers",Luther Metke at 94,Nominated
 5099,1981,53rd,Film Editing,Arthur Schmidt,Coal Miner's Daughter,Nominated
 5100,1981,53rd,Film Editing,David Blewitt,The Competition,Nominated
@@ -5123,7 +5123,7 @@
 5121,1981,53rd,Best Picture,"Ronald L. Schwary, Producer",Ordinary People,Won
 5122,1981,53rd,Best Picture,"Irwin Winkler and Robert Chartoff, Producers",Raging Bull,Nominated
 5123,1981,53rd,Best Picture,"Claude Berri, Producer; Timothy Burrill, Co-Producer",Tess,Nominated
-5124,1981,53rd,Short Film (Animated),"Fradaric Back, Producer",All Nothing,Nominated
+5124,1981,53rd,Short Film (Animated),"FrAdAric Back, Producer",All Nothing,Nominated
 5125,1981,53rd,Short Film (Animated),"Ferenc Rofusz, Producer",The Fly,Won
 5126,1981,53rd,Short Film (Animated),"Michael Mills, Producer",History of the World in Three Minutes Flat,Nominated
 5127,1981,53rd,Short Film (Dramatic Live Action),"Lloyd Phillips, Producer",The Dollar Bottom,Won
@@ -5461,7 +5461,7 @@
 5459,1978,50th,Writing (Screenplay--Based on Material from Another Medium),"Gavin Lambert, Lewis John Carlino",I Never Promised You a Rose Garden,Nominated
 5460,1978,50th,Writing (Screenplay--Based on Material from Another Medium),Alvin Sargent,Julia,Won
 5461,1978,50th,Writing (Screenplay--Based on Material from Another Medium),Larry Gelbart,"Oh, God!",Nominated
-5462,1978,50th,Writing (Screenplay--Based on Material from Another Medium),"Luis Buauel, Jean-Claude Carria re",That Obscure Object of Desire,Nominated
+5462,1978,50th,Writing (Screenplay--Based on Material from Another Medium),"Luis BuAuel, Jean-Claude CarriA re",That Obscure Object of Desire,Nominated
 5463,1978,50th,Writing (Screenplay Written Directly for the Screen--based nn Factual Material or on Story Material not Previously Published or Produced),"Woody Allen, Marshall Brickman",Annie Hall,Won
 5464,1978,50th,Writing (Screenplay Written Directly for the Screen--based nn Factual Material or on Story Material not Previously Published or Produced),Neil Simon,The Goodbye Girl,Nominated
 5465,1978,50th,Writing (Screenplay Written Directly for the Screen--based nn Factual Material or on Story Material not Previously Published or Produced),Robert Benton,The Late Show,Nominated
@@ -5511,7 +5511,7 @@
 5509,1977,49th,Directing,Ingmar Bergman,Face to Face,Nominated
 5510,1977,49th,Directing,Sidney Lumet,Network,Nominated
 5511,1977,49th,Directing,John G. Avildsen,Rocky,Won
-5512,1977,49th,Directing,Lina Wertma14ller,Seven Beauties,Nominated
+5512,1977,49th,Directing,Lina WertmA14ller,Seven Beauties,Nominated
 5513,1977,49th,Documentary (Feature),"Barbara Kopple, Producer","Harlan County, U.S.A.",Won
 5514,1977,49th,Documentary (Feature),"James Gutman and David Helpern, Jr., Producers",Hollywood on Trial,Nominated
 5515,1977,49th,Documentary (Feature),"Michael Firth, Producer",Off the Edge,Nominated
@@ -5572,7 +5572,7 @@
 5570,1977,49th,Writing (Screenplay Written Directly for the Screen--based nn Factual Material or on Story Material not Previously Published or Produced),Walter Bernstein,The Front,Nominated
 5571,1977,49th,Writing (Screenplay Written Directly for the Screen--based nn Factual Material or on Story Material not Previously Published or Produced),Paddy Chayefsky,Network,Won
 5572,1977,49th,Writing (Screenplay Written Directly for the Screen--based nn Factual Material or on Story Material not Previously Published or Produced),Sylvester Stallone,Rocky,Nominated
-5573,1977,49th,Writing (Screenplay Written Directly for the Screen--based nn Factual Material or on Story Material not Previously Published or Produced),Lina Wertma14ller,Seven Beauties,Nominated
+5573,1977,49th,Writing (Screenplay Written Directly for the Screen--based nn Factual Material or on Story Material not Previously Published or Produced),Lina WertmA14ller,Seven Beauties,Nominated
 5574,1977,49th,Special Achievement Award (Visual Effects),"Carlo Rambaldi, Glen Robinson, Frank Van der Veer",King Kong,Won
 5575,1977,49th,Special Achievement Award (Visual Effects),"L. B. Abbott, Glen Robinson, Matthew Yuricich",Logan's Run,Won
 5576,1977,49th,Irving G. Thalberg Memorial Award,Pandro S. Berman,,Won
@@ -5656,7 +5656,7 @@
 5654,1976,48th,Best Picture,"Saul Zaentz and Michael Douglas, Producers",One Flew over the Cuckoo's Nest,Won
 5655,1976,48th,Short Film (Animated),"Bob Godfrey, Producer",Great,Won
 5656,1976,48th,Short Film (Animated),"Robert Swarthe, Producer",Kick Me,Nominated
-5657,1976,48th,Short Film (Animated),"Rena Jodoin, Bernard Longpra and Andra Leduc, Producers",Monsieur Pointu,Nominated
+5657,1976,48th,Short Film (Animated),"RenA Jodoin, Bernard LongprA and AndrA Leduc, Producers",Monsieur Pointu,Nominated
 5658,1976,48th,Short Film (Animated),"Marcell Jankovics, Producer",Sisyphus,Nominated
 5659,1976,48th,Short Film (Live Action),"Bert Salzman, Producer",Angel and Big Joe,Won
 5660,1976,48th,Short Film (Live Action),"Louis Marcus, Producer",Conquest of Light,Nominated
@@ -5763,7 +5763,7 @@
 5761,1975,47th,Best Picture,"Irwin Allen, Producer",The Towering Inferno,Nominated
 5762,1975,47th,Short Film (Animated),"Will Vinton and Bob Gardiner, Producers",Closed Mondays,Won
 5763,1975,47th,Short Film (Animated),"Yvon Mallette and Robert Verrall, Producers",The Family That Dwelt Apart,Nominated
-5764,1975,47th,Short Film (Animated),"Peter Foldes and Rena Jodoin, Producers",Hunger,Nominated
+5764,1975,47th,Short Film (Animated),"Peter Foldes and RenA Jodoin, Producers",Hunger,Nominated
 5765,1975,47th,Short Film (Animated),"Faith Hubley and John Hubley, Producers",Voyage to Next,Nominated
 5766,1975,47th,Short Film (Animated),"Wolfgang Reitherman, Producer",Winnie the Pooh and Tigger Too,Nominated
 5767,1975,47th,Short Film (Live Action),"Dewitt Jones, Producer",Climb,Nominated
@@ -5951,7 +5951,7 @@
 5949,1973,45th,Foreign Language Film,Union of Soviet Socialist Republics,The Dawns Here Are Quiet,Nominated
 5950,1973,45th,Foreign Language Film,France,The Discreet Charm of the Bourgeoisie,Won
 5951,1973,45th,Foreign Language Film,Israel,I Love You Rosa,Nominated
-5952,1973,45th,Foreign Language Film,Spain,My Dearest Seaorita,Nominated
+5952,1973,45th,Foreign Language Film,Spain,My Dearest SeAorita,Nominated
 5953,1973,45th,Foreign Language Film,Sweden,The New Land,Nominated
 5954,1973,45th,Music (Original Dramatic Score),Nino Rota,The Godfather,Nominated
 5955,1973,45th,Music (Original Dramatic Score),John Williams,images,Nominated
@@ -5989,7 +5989,7 @@
 5987,1973,45th,Writing (Screenplay--Based on Material from Another Medium),Julius J. Epstein,Pete 'n' Tillie,Nominated
 5988,1973,45th,Writing (Screenplay--Based on Material from Another Medium),"Lonne Elder, III",Sounder,Nominated
 5989,1973,45th,Writing (Story and Screenplay--Based on Factual Material or Material not Previously Published or Produced),Jeremy Larner,The Candidate,Won
-5990,1973,45th,Writing (Story and Screenplay--Based on Factual Material or Material not Previously Published or Produced),Story and Screenplay by Luis Buauel; in collaboration with Jean-Claude Carria re,The Discreet Charm of the Bourgeoisie,Nominated
+5990,1973,45th,Writing (Story and Screenplay--Based on Factual Material or Material not Previously Published or Produced),Story and Screenplay by Luis BuAuel; in collaboration with Jean-Claude CarriA re,The Discreet Charm of the Bourgeoisie,Nominated
 5991,1973,45th,Writing (Story and Screenplay--Based on Factual Material or Material not Previously Published or Produced),"Terence McCloy, Chris Clark, Suzanne de Passe",Lady Sings the Blues,Nominated
 5992,1973,45th,Writing (Story and Screenplay--Based on Factual Material or Material not Previously Published or Produced),Louis Malle,Murmur of the Heart,Nominated
 5993,1973,45th,Writing (Story and Screenplay--Based on Factual Material or Material not Previously Published or Produced),Carl Foreman,Young Winston,Nominated
@@ -6262,8 +6262,8 @@
 6260,1970,42nd,Film Editing,Hugh A. Robertson,Midnight Cowboy,Nominated
 6261,1970,42nd,Film Editing,"William Lyon, Earle Herdan",The Secret of Santa Vittoria,Nominated
 6262,1970,42nd,Film Editing,Fredric Steinkamp,"They Shoot Horses, Don't They?",Nominated
-6263,1970,42nd,Film Editing,Franaoise Bonnot,Z,Won
-6264,1970,42nd,Foreign Language Film,Sweden,adalen '31,Nominated
+6263,1970,42nd,Film Editing,FranAoise Bonnot,Z,Won
+6264,1970,42nd,Foreign Language Film,Sweden,Adalen '31,Nominated
 6265,1970,42nd,Foreign Language Film,Yugoslavia,The Battle of Neretva,Nominated
 6266,1970,42nd,Foreign Language Film,Union of Soviet Socialist Republics,The Brothers Karamazov,Nominated
 6267,1970,42nd,Foreign Language Film,France,My Night at Maud's,Nominated
@@ -6713,7 +6713,7 @@
 6711,1966,38th,Documentary (Feature),"Sidney Glazier, Producer",The Eleanor Roosevelt Story,Won
 6712,1966,38th,Documentary (Feature),"Peter Mills, Producer",The Forth Road Bridge,Nominated
 6713,1966,38th,Documentary (Feature),"Marshall Flaum, Producer",Let My People Go,Nominated
-6714,1966,38th,Documentary (Feature),"Fradaric Rossif, Producer",To Die in Madrid,Nominated
+6714,1966,38th,Documentary (Feature),"FrAdAric Rossif, Producer",To Die in Madrid,Nominated
 6715,1966,38th,Documentary (Short Subject),"Kirk Smallman, Producer",Mural on Our Street,Nominated
 6716,1966,38th,Documentary (Short Subject),Mafilm Productions,Ouverture,Nominated
 6717,1966,38th,Documentary (Short Subject),Vision Associates Productions,Point of View,Nominated
@@ -6823,7 +6823,7 @@
 6821,1965,37th,Costume Design (Black-And-White),Norma Koch,"Hush...Hush, Sweet Charlotte",Nominated
 6822,1965,37th,Costume Design (Black-And-White),Howard Shoup,Kisses for My President,Nominated
 6823,1965,37th,Costume Design (Black-And-White),Dorothy Jeakins,The Night of the Iguana,Won
-6824,1965,37th,Costume Design (Black-And-White),Rena Hubert,The Visit,Nominated
+6824,1965,37th,Costume Design (Black-And-White),RenA Hubert,The Visit,Nominated
 6825,1965,37th,Costume Design (Color),Margaret Furse,Becket,Nominated
 6826,1965,37th,Costume Design (Color),Tony Walton,Mary Poppins,Nominated
 6827,1965,37th,Costume Design (Color),Cecil Beaton,My Fair Lady,Won
@@ -7123,7 +7123,7 @@
 7121,1963,35th,Short Subject (Live Action),"Martina Huguenot van der Linden and Charles Huguenot van der Linden, Producers",Big City Blues,Nominated
 7122,1963,35th,Short Subject (Live Action),"Robert Clouse, Producer",The Cadillac,Nominated
 7123,1963,35th,Short Subject (Live Action),"Hayward Anderson, Producer",The Cliff Dwellers (formerly titled 'One Plus One'),Nominated
-7124,1963,35th,Short Subject (Live Action),"Pierre Etaix and J.C. Carria re, Producers",Heureux Anniversaire (Happy Anniversary),Won
+7124,1963,35th,Short Subject (Live Action),"Pierre Etaix and J.C. CarriA re, Producers",Heureux Anniversaire (Happy Anniversary),Won
 7125,1963,35th,Short Subject (Live Action),"Herman van der Horst, Producer",Pan,Nominated
 7126,1963,35th,Sound,"Walt Disney Studio Sound Department, Robert O. Cook, Sound Director",Bon Voyage!,Nominated
 7127,1963,35th,Sound,"Shepperton Studio Sound Department, John Cox, Sound Director",Lawrence of Arabia,Won
@@ -7240,7 +7240,7 @@
 7238,1962,34th,Short Subject (Cartoon),Zagreb Film,Ersatz (The Substitute),Won
 7239,1962,34th,Short Subject (Cartoon),"Chuck Jones, Producer",Nelly's Folly,Nominated
 7240,1962,34th,Short Subject (Cartoon),"Friz Freleng, Producer",The Pied Piper of Guadalupe,Nominated
-7241,1962,34th,Short Subject (Live Action),Cina-Documents,Ballon Vole (Play Ball!),Nominated
+7241,1962,34th,Short Subject (Live Action),CinA-Documents,Ballon Vole (Play Ball!),Nominated
 7242,1962,34th,Short Subject (Live Action),"Dr. John D. Jennings, Producer",The Face of Jesus,Nominated
 7243,1962,34th,Short Subject (Live Action),"Robert Gaffney, Producer",Rooftops of New York,Nominated
 7244,1962,34th,Short Subject (Live Action),Templar Film Studios,Seawards the Great Ships,Won
@@ -7335,7 +7335,7 @@
 7333,1961,33rd,Film Editing,"Viola Lawrence, Al Clark",Pepe,Nominated
 7334,1961,33rd,Film Editing,Robert Lawrence,Spartacus,Nominated
 7335,1961,33rd,Foreign Language Film,Italy,Kapo,Nominated
-7336,1961,33rd,Foreign Language Film,France,La Varita,Nominated
+7336,1961,33rd,Foreign Language Film,France,La VAritA,Nominated
 7337,1961,33rd,Foreign Language Film,Mexico,Macario,Nominated
 7338,1961,33rd,Foreign Language Film,Yugoslavia,The Ninth Circle,Nominated
 7339,1961,33rd,Foreign Language Film,Sweden,The Virgin Spring,Won
@@ -8015,7 +8015,7 @@
 8013,1955,27th,Costume Design (Black-And-White),Jean Louis,It Should Happen to You,Nominated
 8014,1955,27th,Costume Design (Black-And-White),Edith Head,Sabrina,Won
 8015,1955,27th,Costume Design (Color),Irene Sharaff,Brigadoon,Nominated
-8016,1955,27th,Costume Design (Color),"Charles LeMaire, Rena Hubert",Desiree,Nominated
+8016,1955,27th,Costume Design (Color),"Charles LeMaire, RenA Hubert",Desiree,Nominated
 8017,1955,27th,Costume Design (Color),Sanzo Wada,Gate of Hell,Won
 8018,1955,27th,Costume Design (Color),"Jean Louis, Mary Ann Nyberg, Irene Sharaff",A Star Is Born,Nominated
 8019,1955,27th,Costume Design (Color),"Charles LeMaire, Travilla, Miles White",There's No Business Like Show Business,Nominated
@@ -8057,7 +8057,7 @@
 8055,1955,27th,Short Subject (Cartoon),"Walter Lantz, Producer",Crazy Mixed Up Pup,Nominated
 8056,1955,27th,Short Subject (Cartoon),"Walt Disney, Producer",Pigs Is Pigs,Nominated
 8057,1955,27th,Short Subject (Cartoon),"Edward Selzer, Producer",Sandy Claws,Nominated
-8058,1955,27th,Short Subject (Cartoon),"Fred Quimby, Producer","Toucha, Pussy Cat",Nominated
+8058,1955,27th,Short Subject (Cartoon),"Fred Quimby, Producer","TouchA, Pussy Cat",Nominated
 8059,1955,27th,Short Subject (Cartoon),"Stephen Bosustow, Producer",When Magoo Flew,Won
 8060,1955,27th,Short Subject (One-Reel),"Otto Lang, Producer",The First Piano Quartette,Nominated
 8061,1955,27th,Short Subject (One-Reel),"Johnny Green, Producer",The Strauss Fantasy,Nominated
@@ -8076,7 +8076,7 @@
 8074,1955,27th,Special Effects,Walt Disney Studios,"20,000 Leagues under the Sea",Won
 8075,1955,27th,Writing (Motion Picture Story),Ettore Margadonna,"Bread, Love and Dreams",Nominated
 8076,1955,27th,Writing (Motion Picture Story),Philip Yordan,Broken Lance,Won
-8077,1955,27th,Writing (Motion Picture Story),Franaois Boyer,Forbidden Games,Nominated
+8077,1955,27th,Writing (Motion Picture Story),FranAois Boyer,Forbidden Games,Nominated
 8078,1955,27th,Writing (Motion Picture Story),"Jed Harris, Tom Reed",Night People,Nominated
 8079,1955,27th,Writing (Motion Picture Story),Lamar Trotti,There's No Business Like Show Business,Nominated
 8080,1955,27th,Writing (Screenplay),Stanley Roberts,The Caine Mutiny,Nominated
@@ -8228,7 +8228,7 @@
 8226,1953,25th,Actor,Marlon Brando,Viva Zapata!,Nominated
 8227,1953,25th,Actor,Gary Cooper,High Noon,Won
 8228,1953,25th,Actor,Kirk Douglas,The Bad and the Beautiful,Nominated
-8229,1953,25th,Actor,Josa Ferrer,Moulin Rouge,Nominated
+8229,1953,25th,Actor,JosA Ferrer,Moulin Rouge,Nominated
 8230,1953,25th,Actor,Alec Guinness,The Lavender Hill Mob,Nominated
 8231,1953,25th,Actor In a Supporting Role,Richard Burton,My Cousin Rachel,Nominated
 8232,1953,25th,Actor In a Supporting Role,Arthur Hunnicutt,The Big Sky,Nominated
@@ -8473,7 +8473,7 @@
 8471,1952,24th,Honorary Award,Gene Kelly in appreciation of his versatility as an actor,,Won
 8472,1952,24th,Irving G. Thalberg Memorial Award,Arthur Freed,,Won
 8473,1951,23rd,Actor,Louis Calhern,The Magnificent Yankee,Nominated
-8474,1951,23rd,Actor,Josa Ferrer,Cyrano de Bergerac,Won
+8474,1951,23rd,Actor,JosA Ferrer,Cyrano de Bergerac,Won
 8475,1951,23rd,Actor,William Holden,Sunset Blvd.,Nominated
 8476,1951,23rd,Actor,James Stewart,Harvey,Nominated
 8477,1951,23rd,Actor,Spencer Tracy,Father of the Bride,Nominated
@@ -8702,7 +8702,7 @@
 8700,1949,21st,Actor,Laurence Olivier,Hamlet,Won
 8701,1949,21st,Actor,Clifton Webb,Sitting Pretty,Nominated
 8702,1949,21st,Actor In a Supporting Role,Charles Bickford,Johnny Belinda,Nominated
-8703,1949,21st,Actor In a Supporting Role,Josa Ferrer,Joan of Arc,Nominated
+8703,1949,21st,Actor In a Supporting Role,JosA Ferrer,Joan of Arc,Nominated
 8704,1949,21st,Actor In a Supporting Role,Oscar Homolka,I Remember Mama,Nominated
 8705,1949,21st,Actor In a Supporting Role,Walter Huston,The Treasure of the Sierra Madre,Won
 8706,1949,21st,Actor In a Supporting Role,Cecil Kellaway,The Luck of the Irish,Nominated
@@ -9220,7 +9220,7 @@
 9218,1945,17th,Cinematography (Black-And-White),"Robert Surtees, Harold Rosson",Thirty Seconds over Tokyo,Nominated
 9219,1945,17th,Cinematography (Black-And-White),Charles Lang,The Uninvited,Nominated
 9220,1945,17th,Cinematography (Black-And-White),George Folsey,The White Cliffs of Dover,Nominated
-9221,1945,17th,Cinematography (Color),"Rudolph Mata, Allen M. Davey",Cover Girl,Nominated
+9221,1945,17th,Cinematography (Color),"Rudolph MatA, Allen M. Davey",Cover Girl,Nominated
 9222,1945,17th,Cinematography (Color),Edward Cronjager,Home in Indiana,Nominated
 9223,1945,17th,Cinematography (Color),Charles Rosher,Kismet,Nominated
 9224,1945,17th,Cinematography (Color),Ray Rennahan,Lady in the Dark,Nominated
@@ -9381,7 +9381,7 @@
 9379,1944,16th,Cinematography (Black-And-White),Harry Stradling,The Human Comedy,Nominated
 9380,1944,16th,Cinematography (Black-And-White),Joseph Ruttenberg,Madame Curie,Nominated
 9381,1944,16th,Cinematography (Black-And-White),James Wong Howe,The North Star,Nominated
-9382,1944,16th,Cinematography (Black-And-White),Rudolph Mata,Sahara,Nominated
+9382,1944,16th,Cinematography (Black-And-White),Rudolph MatA,Sahara,Nominated
 9383,1944,16th,Cinematography (Black-And-White),Charles Lang,So Proudly We Hail!,Nominated
 9384,1944,16th,Cinematography (Black-And-White),Arthur Miller,The Song of Bernadette,Won
 9385,1944,16th,Cinematography (Color),Ray Rennahan,For Whom the Bell Tolls,Nominated
@@ -9565,7 +9565,7 @@
 9563,1943,15th,Cinematography (Black-And-White),Joseph Ruttenberg,Mrs. Miniver,Won
 9564,1943,15th,Cinematography (Black-And-White),Charles Clarke,Moontide,Nominated
 9565,1943,15th,Cinematography (Black-And-White),Edward Cronjager,The Pied Piper,Nominated
-9566,1943,15th,Cinematography (Black-And-White),Rudolph Mata,The Pride of the Yankees,Nominated
+9566,1943,15th,Cinematography (Black-And-White),Rudolph MatA,The Pride of the Yankees,Nominated
 9567,1943,15th,Cinematography (Black-And-White),John Mescall,"Take a Letter, Darling",Nominated
 9568,1943,15th,Cinematography (Black-And-White),Ted Tetzlaff,The Talk of the Town,Nominated
 9569,1943,15th,Cinematography (Black-And-White),Leon Shamroy,Ten Gentlemen from West Point,Nominated
@@ -9755,7 +9755,7 @@
 9753,1942,14th,Cinematography (Black-And-White),Sol Polito,Sergeant York,Nominated
 9754,1942,14th,Cinematography (Black-And-White),Edward Cronjager,Sun Valley Serenade,Nominated
 9755,1942,14th,Cinematography (Black-And-White),Charles Lang,Sundown,Nominated
-9756,1942,14th,Cinematography (Black-And-White),Rudolph Mata,That Hamilton Woman,Nominated
+9756,1942,14th,Cinematography (Black-And-White),Rudolph MatA,That Hamilton Woman,Nominated
 9757,1942,14th,Cinematography (Color),"Wilfred M. Cline, Karl Struss, William Snyder",Aloma of the South Seas,Nominated
 9758,1942,14th,Cinematography (Color),"William V. Skall, Leonard Smith",Billy the Kid,Nominated
 9759,1942,14th,Cinematography (Color),"Ernest Palmer, Ray Rennahan",Blood and Sand,Won
@@ -9935,7 +9935,7 @@
 9933,1941,13th,Cinematography (Black-And-White),Ernest Haller,"All This, and Heaven Too",Nominated
 9934,1941,13th,Cinematography (Black-And-White),"Charles B. Lang, Jr.","Arise, My Love",Nominated
 9935,1941,13th,Cinematography (Black-And-White),Harold Rosson,Boom Town,Nominated
-9936,1941,13th,Cinematography (Black-And-White),Rudolph Mata,Foreign Correspondent,Nominated
+9936,1941,13th,Cinematography (Black-And-White),Rudolph MatA,Foreign Correspondent,Nominated
 9937,1941,13th,Cinematography (Black-And-White),Gaetano (Tony) Gaudio,The Letter,Nominated
 9938,1941,13th,Cinematography (Black-And-White),Gregg Toland,The Long Voyage Home,Nominated
 9939,1941,13th,Cinematography (Black-And-White),George Barnes,Rebecca,Won
@@ -9946,7 +9946,7 @@
 9944,1941,13th,Cinematography (Color),"Leon Shamroy, Ray Rennahan",Down Argentine Way,Nominated
 9945,1941,13th,Cinematography (Color),"Victor Milner, W. Howard Greene",North West Mounted Police,Nominated
 9946,1941,13th,Cinematography (Color),"Sidney Wagner, William V. Skall",Northwest Passage,Nominated
-9947,1941,13th,Cinematography (Color),Georges Parinal,The Thief of Bagdad,Won
+9947,1941,13th,Cinematography (Color),Georges PArinal,The Thief of Bagdad,Won
 9948,1941,13th,Directing,John Ford,The Grapes of Wrath,Won
 9949,1941,13th,Directing,Sam Wood,Kitty Foyle,Nominated
 9950,1941,13th,Directing,William Wyler,The Letter,Nominated
@@ -10783,7 +10783,7 @@
 10781,1932,5th,Actress,Marie Dressler,Emma,Nominated
 10782,1932,5th,Actress,Lynn Fontanne,The Guardsman,Nominated
 10783,1932,5th,Actress,Helen Hayes,The Sin of Madelon Claudet,Won
-10784,1932,5th,Art Direction,Lazare Meerson,a Nous la Liberta,Nominated
+10784,1932,5th,Art Direction,Lazare Meerson,A Nous la LibertA,Nominated
 10785,1932,5th,Art Direction,Richard Day,Arrowsmith,Nominated
 10786,1932,5th,Art Direction,Gordon Wiles,Transatlantic,Won
 10787,1932,5th,Cinematography,Ray June,Arrowsmith,Nominated
@@ -10832,7 +10832,7 @@
 10830,1931,4th,Actress,Irene Dunne,Cimarron,Nominated
 10831,1931,4th,Actress,Ann Harding,Holiday,Nominated
 10832,1931,4th,Actress,Norma Shearer,A Free Soul,Nominated
-10833,1931,4th,Art Direction,Max Rae,Cimarron,Won
+10833,1931,4th,Art Direction,Max RAe,Cimarron,Won
 10834,1931,4th,Art Direction,"Stephen Goosson, Ralph Hammeras",Just Imagine,Nominated
 10835,1931,4th,Art Direction,Hans Dreier,Morocco,Nominated
 10836,1931,4th,Art Direction,Anton Grot,Svengali,Nominated
