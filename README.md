@@ -5,96 +5,104 @@ Data Science Project 5
 We are a team of data scientists consulting film directors who want to increase their chances of winning an Oscar. We will provide insights into whether a movie is likely to win in at least one of the 23 Oscar categories. Using multiple datasets of past Oscar-nominated and winning films, we will build a binary classification model to predict Oscar successes based on features such as genre, runtime, IMDb rating, etc. The model will be evaluated using accuracy, precision, recall, and F1 score.
 
 ## Table of contents:
-Data Cleaning: Ryan.ipynb
-Data Visualizations: Rachels.ipynb
-Data Analyzation: Swathi.ipynb
-Data Modling/Evaluation: felix.ipynb
+- Data Cleaning: Ryan.ipynb
+- Data Visualizations: Rachels.ipynb
+- Data Analyzation: Swathi2.ipynb
+- Data Modeling/Evaluation: felix.ipynb
 
 ## Data Sets
 #### Base dataframes:
-Oscar_Nominations_Winners.csv(): Contains a list of movies that have been nominated for an oscar
-master_oscar.csv (https://dataful.in/search/?q=oscars): Contains a list of movies that have been nominated and won an oscar in its respective categories
+Swathi.csv(https://www.imdb.com/list/ls088723321/?ref_=exp_t_1&view=compact): Contains a list of all Oscar nominations and Winners in IMDb website.
+master_oscar_1.csv(https://dataful.in/search/?q=oscars): Contains a list of movies that have been nominated and won an oscar in its respective categories
 
 #### Cleaned df used 
-oscars.csv : Contains a merged and cleaned format of both dataframes
+final.csv: Contains a merged and cleaned format of both dataframes.
 
 ## Data Dictionary
 #### Of oscars.csv
-film: (object) Name of the film
-ceromony: (object) The oscar ceremony 
-actor_in_a_leading_role: (float) 1st Oscar category (1 = Won in that category, 0 = did not win)
-actor_in_a_supporting_role: (float) 2nd Oscar category (1 = Won in that category, 0 = did not win)
-actress_in_a_leading_role:(float) 3rd Oscar category (1 = Won in that category, 0 = did not win)
-actress_in_a_supporting_role:(float) 4th Oscar category (1 = Won in that category, 0 = did not win)
-animated_feature_film:(float) 5th Oscar category (1 = Won in that category, 0 = did not win)
-animated_short_film:(float) 6th Oscar category (1 = Won in that category, 0 = did not win)
-best_picture:(float) 7th Oscar category (1 = Won in that category, 0 = did not win)
-cinematography:(float) 8th Oscar category (1 = Won in that category, 0 = did not win)
-costume_design:(float) 9th Oscar category (1 = Won in that category, 0 = did not win)
-directing:(float) 10th Oscar category (1 = Won in that category, 0 = did not win)
-documentary_feature_film:(float) 11th Oscar category (1 = Won in that category, 0 = did not win)
-documentary_short_film:(float) 12th Oscar category (1 = Won in that category, 0 = did not win)
-film_editing:(float) 13th Oscar category (1 = Won in that category, 0 = did not win)
-international_feature_film:(float) 14th Oscar category (1 = Won in that category, 0 = did not win)
-live_action_short_film:(float) 15th Oscar category (1 = Won in that category, 0 = did not win)
-makeup_and_hairstyling:(float) 16th Oscar category (1 = Won in that category, 0 = did not win)
-music_original_score:(float) 17th Oscar category (1 = Won in that category, 0 = did not win)
-music_original_song:(float) 18th Oscar category (1 = Won in that category, 0 = did not win)
-production_design:(float) 19th Oscar category (1 = Won in that category, 0 = did not win)
-sound:(float) 20th Oscar category (1 = Won in that category, 0 = did not win)
-visual_effects:(float) 21st Oscar category (1 = Won in that category, 0 = did not win)
-writing_adapted_screenplay:(float) 22nd Oscar category (1 = Won in that category, 0 = did not win)
-writing_original_screenplay:(float) 23rd Oscar category (1 = Won in that category, 0 = did not win)
-total_oscars_won:(float) The total number of oscars an individual film has won
-won:(int) The target variable, (1 = film had won at least 1 oscar, 0 = film was only nominated, did not win)
-title_type: (float) the type of move (Movie, short, documentary, etc)
-imdb_rating:(float) rating given to movie by imdb
-year:(int) the year the film was released
-num_votes:(int) the number of votes given on imdb
-directors: (float) the name of the director and/or directors of a film
-action:(int) 1st genre category (1 = yes in that genre, 0 = not in that genre)
-adventure:(int) 2nd genre category (1 = yes in that genre, 0 = not in that genre)
-biography:(int) 3rd genre category (1 = yes in that genre, 0 = not in that genre)
-comdey:(int) 4th genre category (1 = yes in that genre, 0 = not in that genre)
-crime:(int) 5th genre category (1 = yes in that genre, 0 = not in that genre)
-documentary:(int) 6th genre category (1 = yes in that genre, 0 = not in that genre)
-drama:(int) 7th genre category (1 = yes in that genre, 0 = not in that genre)
-family:(int) 8th genre category (1 = yes in that genre, 0 = not in that genre)
-fantasy:(int) 9th genre category (1 = yes in that genre, 0 = not in that genre)
-film_noir:(int) 10th genre category (1 = yes in that genre, 0 = not in that genre)
-history:(int) 11th genre category (1 = yes in that genre, 0 = not in that genre)
-horror:(int) 12th genre category (1 = yes in that genre, 0 = not in that genre)
-music:(int) 13th genre category (1 = yes in that genre, 0 = not in that genre)
-musical:(int) 14th genre category (1 = yes in that genre, 0 = not in that genre)
-mystery:(int) 15th genre category (1 = yes in that genre, 0 = not in that genre)
-news:(int) 16th genre category (1 = yes in that genre, 0 = not in that genre)
-romance:(int) 17th genre category (1 = yes in that genre, 0 = not in that genre)
-sci-fi:(int) 18th genre category (1 = yes in that genre, 0 = not in that genre)
-short:(int) 19th genre category (1 = yes in that genre, 0 = not in that genre)
-sports:(int) 20th genre category (1 = yes in that genre, 0 = not in that genre)
-talk-show:(int) 21st genre category (1 = yes in that genre, 0 = not in that genre)
-thriller:(int) 22nd genre category (1 = yes in that genre, 0 = not in that genre)
-war:(int) 23rd genre category (1 = yes in that genre, 0 = not in that genre)
-western:(int) 24th genre category (1 = yes in that genre, 0 = not in that genre)
-num_nominations: (int) the number of nominations that a movie recieved in all award categories 
-num_directors: (int) the number of directors that a movie had
-nominated_acting:(int) the number of nominations that a movie recieved in that category
-nominated_animation:(int) the number of nominations that a movie recieved in that category
-nominated_cinematography:(int) the number of nominations that a movie recieved in that category 
-nominated_costume_design:(int) the number of nominations that a movie recieved in that category
-nominated_directing:(int) the number of nominations that a movie recieved in that category
-nominated_documentary:(int) the number of nominations that a movie recieved in that category
-nominated_editing:(int) the number of nominations that a movie recieved in that category
-nominated_international_feature:(int) the number of nominations that a movie recieved in that category
-nominated_makeup_and_hairstyling:(int) the number of nominations that a movie recieved in that category
-nominated_music:(int) the number of nominations that a movie recieved in that category
-nominated_other:(int) the number of nomnations that a movie recieved in that category
-nominated_picture:(int) the number of nominations that a movie recieved in that category
-nominated_production_design:(int) the number of nominations that a movie recieved in that category
-nominated_short_film:(int) the number of nominations that a movie recieved in that category
-nominated_sound:(int) the number of nominations that a movie recieved in that category
-nominated_visual_effects:(int) the number of nominations that a movie recieved in that category
-nominated_writing:(int) the number of nominations that a movie recieved in that category
+- **film**: (object) Name of the film  
+- **ceremony**: (object) The Oscar ceremony  
+
+**Oscar Categories (1 = Won, 0 = Did not win):**
+- **actor_in_a_leading_role**  
+- **actor_in_a_supporting_role**  
+- **actress_in_a_leading_role**  
+- **actress_in_a_supporting_role**  
+- **animated_feature_film**  
+- **animated_short_film**  
+- **best_picture**  
+- **cinematography**  
+- **costume_design**  
+- **directing**  
+- **documentary_feature_film**  
+- **documentary_short_film**  
+- **film_editing**  
+- **international_feature_film**  
+- **live_action_short_film**  
+- **makeup_and_hairstyling**  
+- **music_original_score**  
+- **music_original_song**  
+- **production_design**  
+- **sound**  
+- **visual_effects**  
+- **writing_adapted_screenplay**  
+- **writing_original_screenplay**  
+
+- **total_oscars_won**: (float) Total Oscars won by the film  
+- **won**: (int) Target variable (1 = won at least one Oscar, 0 = only nominated)  
+- **title_type**: (float) Type of movie (Movie, short, documentary, etc)  
+- **imdb_rating**: (float) IMDb rating  
+- **year**: (int) Year of release  
+- **num_votes**: (int) IMDb vote count  
+- **directors**: (float) Name(s) of the director(s)  
+
+**Genres (1 = Yes, 0 = No):**
+- **action**  
+- **adventure**  
+- **biography**  
+- **comedy** 
+- **crime**  
+- **documentary**  
+- **drama**  
+- **family**  
+- **fantasy**  
+- **film_noir**  
+- **history**  
+- **horror**  
+- **music**  
+- **musical**  
+- **mystery**  
+- **news**  
+- **romance**  
+- **sci-fi**  
+- **short**  
+- **sports**  
+- **talk-show**  
+- **thriller**  
+- **war**  
+- **western**  
+
+**Nomination Features (Count of nominations per category):**
+- **num_nominations**: (int) Total number of nominations  
+- **num_directors**: (int) Number of directors  
+- **nominated_acting**  
+- **nominated_animation**  
+- **nominated_cinematography**  
+- **nominated_costume_design**  
+- **nominated_directing**  
+- **nominated_documentary**  
+- **nominated_editing**  
+- **nominated_international_feature**  
+- **nominated_makeup_and_hairstyling**  
+- **nominated_music**  
+- **nominated_other**  
+- **nominated_picture**  
+- **nominated_production_design**  
+- **nominated_short_film**  
+- **nominated_sound**  
+- **nominated_visual_effects**  
+- **nominated_writing**
+
 
 
 # Executive summary/Brief Analysis
