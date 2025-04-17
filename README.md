@@ -2,12 +2,17 @@
 Data Science Project 5
 
 ## Problem Statement
-We are a team of data scientists consulting film directors who want to increase their chances of winning an Oscar. We will provide insights into whether a movie is likely to win in at least one of the 23 Oscar categories. Using multiple datasets of past Oscar-nominated and winning films, we will build a binary classification model to predict Oscar successes based on features such as genre, runtime, IMDb rating, etc. The model will be evaluated using accuracy, precision, recall, and F1 score.
+Objective:
+Is to provide insights to producers and production companies who want to increase their chances of winning an Oscar in at least 1 of the 23 award categories. 
+
+Why it matters:
+Increases film’s visibility, profitability, and career impact for both the cast and crew.
+Help guide creative decisions early in the filmmaking process.
 
 ## Table of contents:
 - Data Cleaning: Ryan.ipynb
 - Data Visualizations: Rachels.ipynb
-- Data Analyzation: Swathi2.ipynb
+- Data Analysis: Swathi2.ipynb
 - Data Modeling/Evaluation: felix.ipynb
 
 ## Data Sets
